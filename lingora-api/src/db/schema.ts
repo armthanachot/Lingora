@@ -78,6 +78,30 @@ export const languages = pgTable('languages', {
   ...softDelete,
 });
 
+export const vocabularyPages = pgTable('vocabulary_pages', {
+  id: uuid('id').defaultRandom().primaryKey(),
+  languageId: uuid('language_id').notNull().references(() => languages.id, { onDelete: 'restrict' }),
+  slug: varchar('slug', { length: 160 }).notNull().unique(),
+  title: varchar('title', { length: 200 }).notNull(),
+  heading: varchar('heading', { length: 200 }).notNull(),
+  translationCode: varchar('translation_code', { length: 16 }).default('th').notNull(),
+  category: varchar('category', { length: 120 }).notNull(),
+  description: text('description').default('').notNull(),
+  backgroundUrl: text('background_url').default('').notNull(),
+  aspectRatio: doublePrecision('aspect_ratio').default(1.5).notNull(),
+  items: jsonb('items').$type<Array<{
+    id: string; word: string; translation: string; description: string; imageUrl: string;
+    mode: 'object' | 'marker'; x: number; y: number; width: number;
+    markerX: number; markerY: number; rotation?: number;
+  }>>().default([]).notNull(),
+  isPublished: boolean('is_published').default(false).notNull(),
+  sortOrder: integer('sort_order').default(0).notNull(),
+  revision: integer('revision').default(1).notNull(),
+  updatedBy: uuid('updated_by').references(() => users.id, { onDelete: 'set null' }),
+  ...timestamps,
+  ...softDelete,
+});
+
 export const countries = pgTable('countries', {
   id: uuid('id').defaultRandom().primaryKey(),
   code: varchar('code', { length: 2 }).notNull().unique(),

@@ -616,6 +616,7 @@ export function GlobeExplorer({ accountSlot, appearance, onBackToLanding }: Glob
                 </div>
               )}
 
+              <div className="vocab-country-actions">
               {selectedIsActive && primaryLanguage?.course ? (
                 <a className="primary-cta" href={`#courses/${primaryLanguage.course.id}`}>
                   Start learning <span aria-hidden="true">→</span>
@@ -625,6 +626,8 @@ export function GlobeExplorer({ accountSlot, appearance, onBackToLanding }: Glob
               ) : (
                 <button className="primary-cta" type="button" disabled>Coming soon</button>
               )}
+              {selectedIsActive && primaryLanguage && <a className="vocab-globe-link" href={`#vocab/${primaryLanguage.id}`}>Explore vocab <span aria-hidden="true">✦</span></a>}
+              </div>
             </aside>
           )}
         </section>

@@ -1,0 +1,355 @@
+{
+  "tool": "built-in imagegen",
+  "jobs": [
+    {
+      "name": "bedroom-background",
+      "transparent": false,
+      "prompt": "Use case: illustration-story. Create a landscape 3:2 illustrated background for an interactive English vocabulary scene: a cozy child's bedroom. Warm polished children's book style, soft painterly 3D forms, crisp friendly colors, frontal slightly elevated camera. Fixed room architecture only: pastel walls, window, wooden floor, a bare bed frame with plain mattress against back wall, empty shelves. Leave generous empty foreground and clear floor space to place six separately generated vocabulary objects. No toys, no pillows, no blankets, no lamps, no rugs, no clocks, no text, no numbers, no people. This is a real final background asset for a web app."
+    },
+    {
+      "name": "bedroom-object-1",
+      "transparent": true,
+      "prompt": "Use case: illustration-story. Final draggable vocabulary object asset for a web app. EXACTLY ONE isolated teddy bear, full object visible, centered, occupying most of square image with small padding. Match warm polished children's book illustration with soft painterly 3D forms, crisp friendly colors and slightly elevated frontal camera, suitable for bedroom scene. TRUE transparent background with alpha, no background scenery, no floor, no rectangle, no frame, no text, no numbers, no watermark. Clean edges, recognisable educational object."
+    },
+    {
+      "name": "bedroom-object-2",
+      "transparent": true,
+      "prompt": "Use case: illustration-story. Final draggable vocabulary object asset for a web app. EXACTLY ONE isolated pillow, full object visible, centered, occupying most of square image with small padding. Match warm polished children's book illustration with soft painterly 3D forms, crisp friendly colors and slightly elevated frontal camera, suitable for bedroom scene. TRUE transparent background with alpha, no background scenery, no floor, no rectangle, no frame, no text, no numbers, no watermark. Clean edges, recognisable educational object."
+    },
+    {
+      "name": "bedroom-object-3",
+      "transparent": true,
+      "prompt": "Use case: illustration-story. Final draggable vocabulary object asset for a web app. EXACTLY ONE isolated lamp, full object visible, centered, occupying most of square image with small padding. Match warm polished children's book illustration with soft painterly 3D forms, crisp friendly colors and slightly elevated frontal camera, suitable for bedroom scene. TRUE transparent background with alpha, no background scenery, no floor, no rectangle, no frame, no text, no numbers, no watermark. Clean edges, recognisable educational object."
+    },
+    {
+      "name": "bedroom-object-4",
+      "transparent": true,
+      "prompt": "Use case: illustration-story. Final draggable vocabulary object asset for a web app. EXACTLY ONE isolated rug, full object visible, centered, occupying most of square image with small padding. Match warm polished children's book illustration with soft painterly 3D forms, crisp friendly colors and slightly elevated frontal camera, suitable for bedroom scene. TRUE transparent background with alpha, no background scenery, no floor, no rectangle, no frame, no text, no numbers, no watermark. Clean edges, recognisable educational object."
+    },
+    {
+      "name": "bedroom-object-5",
+      "transparent": true,
+      "prompt": "Use case: illustration-story. Final draggable vocabulary object asset for a web app. EXACTLY ONE isolated wall clock, full object visible, centered, occupying most of square image with small padding. Match warm polished children's book illustration with soft painterly 3D forms, crisp friendly colors and slightly elevated frontal camera, suitable for bedroom scene. TRUE transparent background with alpha, no background scenery, no floor, no rectangle, no frame, no text, no numbers, no watermark. Clean edges, recognisable educational object."
+    },
+    {
+      "name": "bedroom-object-6",
+      "transparent": true,
+      "prompt": "Use case: illustration-story. Final draggable vocabulary object asset for a web app. EXACTLY ONE isolated ball, full object visible, centered, occupying most of square image with small padding. Match warm polished children's book illustration with soft painterly 3D forms, crisp friendly colors and slightly elevated frontal camera, suitable for bedroom scene. TRUE transparent background with alpha, no background scenery, no floor, no rectangle, no frame, no text, no numbers, no watermark. Clean edges, recognisable educational object."
+    },
+    {
+      "name": "kitchen-background",
+      "transparent": false,
+      "prompt": "Use case: illustration-story. Final web vocabulary scene background, landscape 3:2. bright kitchen with empty countertops, cabinets and an empty dining surface. Polished warm children's book illustration, soft painterly 3D forms, crisp friendly colors, slightly elevated frontal camera. Leave open space for movable objects. Architecture only. Do NOT include these objects: kettle, cup, plate, frying pan, spoon, refrigerator. No people, no text, no labels, no numbers, no watermark. Consistent attractive educational art."
+    },
+    {
+      "name": "kitchen-object-1",
+      "transparent": true,
+      "prompt": "Use case: illustration-story. Final draggable vocabulary object asset for a web app. EXACTLY ONE isolated kettle, full object visible, centered, occupying most of square image with small padding. Match warm polished children's book illustration with soft painterly 3D forms, crisp friendly colors and slightly elevated frontal camera, suitable for kitchen scene. TRUE transparent background with alpha, no background scenery, no floor, no rectangle, no frame, no text, no numbers, no watermark. Clean edges, recognisable educational object."
+    },
+    {
+      "name": "kitchen-object-2",
+      "transparent": true,
+      "prompt": "Use case: illustration-story. Final draggable vocabulary object asset for a web app. EXACTLY ONE isolated cup, full object visible, centered, occupying most of square image with small padding. Match warm polished children's book illustration with soft painterly 3D forms, crisp friendly colors and slightly elevated frontal camera, suitable for kitchen scene. TRUE transparent background with alpha, no background scenery, no floor, no rectangle, no frame, no text, no numbers, no watermark. Clean edges, recognisable educational object."
+    },
+    {
+      "name": "kitchen-object-3",
+      "transparent": true,
+      "prompt": "Use case: illustration-story. Final draggable vocabulary object asset for a web app. EXACTLY ONE isolated plate, full object visible, centered, occupying most of square image with small padding. Match warm polished children's book illustration with soft painterly 3D forms, crisp friendly colors and slightly elevated frontal camera, suitable for kitchen scene. TRUE transparent background with alpha, no background scenery, no floor, no rectangle, no frame, no text, no numbers, no watermark. Clean edges, recognisable educational object."
+    },
+    {
+      "name": "kitchen-object-4",
+      "transparent": true,
+      "prompt": "Use case: illustration-story. Final draggable vocabulary object asset for a web app. EXACTLY ONE isolated frying pan, full object visible, centered, occupying most of square image with small padding. Match warm polished children's book illustration with soft painterly 3D forms, crisp friendly colors and slightly elevated frontal camera, suitable for kitchen scene. TRUE transparent background with alpha, no background scenery, no floor, no rectangle, no frame, no text, no numbers, no watermark. Clean edges, recognisable educational object."
+    },
+    {
+      "name": "kitchen-object-5",
+      "transparent": true,
+      "prompt": "Use case: illustration-story. Final draggable vocabulary object asset for a web app. EXACTLY ONE isolated spoon, full object visible, centered, occupying most of square image with small padding. Match warm polished children's book illustration with soft painterly 3D forms, crisp friendly colors and slightly elevated frontal camera, suitable for kitchen scene. TRUE transparent background with alpha, no background scenery, no floor, no rectangle, no frame, no text, no numbers, no watermark. Clean edges, recognisable educational object."
+    },
+    {
+      "name": "kitchen-object-6",
+      "transparent": true,
+      "prompt": "Use case: illustration-story. Final draggable vocabulary object asset for a web app. EXACTLY ONE isolated refrigerator, full object visible, centered, occupying most of square image with small padding. Match warm polished children's book illustration with soft painterly 3D forms, crisp friendly colors and slightly elevated frontal camera, suitable for kitchen scene. TRUE transparent background with alpha, no background scenery, no floor, no rectangle, no frame, no text, no numbers, no watermark. Clean edges, recognisable educational object."
+    },
+    {
+      "name": "bathroom-background",
+      "transparent": false,
+      "prompt": "Use case: illustration-story. Final web vocabulary scene background, landscape 3:2. clean pastel bathroom with tiled walls and floor, an empty sink at the back and shower enclosure. Polished warm children's book illustration, soft painterly 3D forms, crisp friendly colors, slightly elevated frontal camera. Leave open space for movable objects. Architecture only. Do NOT include these objects: toothbrush, towel, soap, shampoo, mirror, bathtub. No people, no text, no labels, no numbers, no watermark. Consistent attractive educational art."
+    },
+    {
+      "name": "bathroom-object-1",
+      "transparent": true,
+      "prompt": "Use case: illustration-story. Final draggable vocabulary object asset for a web app. EXACTLY ONE isolated toothbrush, full object visible, centered, occupying most of square image with small padding. Match warm polished children's book illustration with soft painterly 3D forms, crisp friendly colors and slightly elevated frontal camera, suitable for bathroom scene. TRUE transparent background with alpha, no background scenery, no floor, no rectangle, no frame, no text, no numbers, no watermark. Clean edges, recognisable educational object."
+    },
+    {
+      "name": "bathroom-object-2",
+      "transparent": true,
+      "prompt": "Use case: illustration-story. Final draggable vocabulary object asset for a web app. EXACTLY ONE isolated towel, full object visible, centered, occupying most of square image with small padding. Match warm polished children's book illustration with soft painterly 3D forms, crisp friendly colors and slightly elevated frontal camera, suitable for bathroom scene. TRUE transparent background with alpha, no background scenery, no floor, no rectangle, no frame, no text, no numbers, no watermark. Clean edges, recognisable educational object."
+    },
+    {
+      "name": "bathroom-object-3",
+      "transparent": true,
+      "prompt": "Use case: illustration-story. Final draggable vocabulary object asset for a web app. EXACTLY ONE isolated soap, full object visible, centered, occupying most of square image with small padding. Match warm polished children's book illustration with soft painterly 3D forms, crisp friendly colors and slightly elevated frontal camera, suitable for bathroom scene. TRUE transparent background with alpha, no background scenery, no floor, no rectangle, no frame, no text, no numbers, no watermark. Clean edges, recognisable educational object."
+    },
+    {
+      "name": "bathroom-object-4",
+      "transparent": true,
+      "prompt": "Use case: illustration-story. Final draggable vocabulary object asset for a web app. EXACTLY ONE isolated shampoo, full object visible, centered, occupying most of square image with small padding. Match warm polished children's book illustration with soft painterly 3D forms, crisp friendly colors and slightly elevated frontal camera, suitable for bathroom scene. TRUE transparent background with alpha, no background scenery, no floor, no rectangle, no frame, no text, no numbers, no watermark. Clean edges, recognisable educational object."
+    },
+    {
+      "name": "bathroom-object-5",
+      "transparent": true,
+      "prompt": "Use case: illustration-story. Final draggable vocabulary object asset for a web app. EXACTLY ONE isolated mirror, full object visible, centered, occupying most of square image with small padding. Match warm polished children's book illustration with soft painterly 3D forms, crisp friendly colors and slightly elevated frontal camera, suitable for bathroom scene. TRUE transparent background with alpha, no background scenery, no floor, no rectangle, no frame, no text, no numbers, no watermark. Clean edges, recognisable educational object."
+    },
+    {
+      "name": "bathroom-object-6",
+      "transparent": true,
+      "prompt": "Use case: illustration-story. Final draggable vocabulary object asset for a web app. EXACTLY ONE isolated bathtub, full object visible, centered, occupying most of square image with small padding. Match warm polished children's book illustration with soft painterly 3D forms, crisp friendly colors and slightly elevated frontal camera, suitable for bathroom scene. TRUE transparent background with alpha, no background scenery, no floor, no rectangle, no frame, no text, no numbers, no watermark. Clean edges, recognisable educational object."
+    },
+    {
+      "name": "classroom-background",
+      "transparent": false,
+      "prompt": "Use case: illustration-story. Final web vocabulary scene background, landscape 3:2. sunny classroom with a blank blackboard, windows and empty desks at the back, large clear foreground. Polished warm children's book illustration, soft painterly 3D forms, crisp friendly colors, slightly elevated frontal camera. Leave open space for movable objects. Architecture only. Do NOT include these objects: backpack, pencil, book, ruler, globe, chair. No people, no text, no labels, no numbers, no watermark. Consistent attractive educational art."
+    },
+    {
+      "name": "classroom-object-1",
+      "transparent": true,
+      "prompt": "Use case: illustration-story. Final draggable vocabulary object asset for a web app. EXACTLY ONE isolated backpack, full object visible, centered, occupying most of square image with small padding. Match warm polished children's book illustration with soft painterly 3D forms, crisp friendly colors and slightly elevated frontal camera, suitable for classroom scene. TRUE transparent background with alpha, no background scenery, no floor, no rectangle, no frame, no text, no numbers, no watermark. Clean edges, recognisable educational object."
+    },
+    {
+      "name": "classroom-object-2",
+      "transparent": true,
+      "prompt": "Use case: illustration-story. Final draggable vocabulary object asset for a web app. EXACTLY ONE isolated pencil, full object visible, centered, occupying most of square image with small padding. Match warm polished children's book illustration with soft painterly 3D forms, crisp friendly colors and slightly elevated frontal camera, suitable for classroom scene. TRUE transparent background with alpha, no background scenery, no floor, no rectangle, no frame, no text, no numbers, no watermark. Clean edges, recognisable educational object."
+    },
+    {
+      "name": "classroom-object-3",
+      "transparent": true,
+      "prompt": "Use case: illustration-story. Final draggable vocabulary object asset for a web app. EXACTLY ONE isolated book, full object visible, centered, occupying most of square image with small padding. Match warm polished children's book illustration with soft painterly 3D forms, crisp friendly colors and slightly elevated frontal camera, suitable for classroom scene. TRUE transparent background with alpha, no background scenery, no floor, no rectangle, no frame, no text, no numbers, no watermark. Clean edges, recognisable educational object."
+    },
+    {
+      "name": "classroom-object-4",
+      "transparent": true,
+      "prompt": "Use case: illustration-story. Final draggable vocabulary object asset for a web app. EXACTLY ONE isolated ruler, full object visible, centered, occupying most of square image with small padding. Match warm polished children's book illustration with soft painterly 3D forms, crisp friendly colors and slightly elevated frontal camera, suitable for classroom scene. TRUE transparent background with alpha, no background scenery, no floor, no rectangle, no frame, no text, no numbers, no watermark. Clean edges, recognisable educational object."
+    },
+    {
+      "name": "classroom-object-5",
+      "transparent": true,
+      "prompt": "Use case: illustration-story. Final draggable vocabulary object asset for a web app. EXACTLY ONE isolated globe, full object visible, centered, occupying most of square image with small padding. Match warm polished children's book illustration with soft painterly 3D forms, crisp friendly colors and slightly elevated frontal camera, suitable for classroom scene. TRUE transparent background with alpha, no background scenery, no floor, no rectangle, no frame, no text, no numbers, no watermark. Clean edges, recognisable educational object."
+    },
+    {
+      "name": "classroom-object-6",
+      "transparent": true,
+      "prompt": "Use case: illustration-story. Final draggable vocabulary object asset for a web app. EXACTLY ONE isolated chair, full object visible, centered, occupying most of square image with small padding. Match warm polished children's book illustration with soft painterly 3D forms, crisp friendly colors and slightly elevated frontal camera, suitable for classroom scene. TRUE transparent background with alpha, no background scenery, no floor, no rectangle, no frame, no text, no numbers, no watermark. Clean edges, recognisable educational object."
+    },
+    {
+      "name": "garden-background",
+      "transparent": false,
+      "prompt": "Use case: illustration-story. Final web vocabulary scene background, landscape 3:2. sunlit garden with lawn, stone path, hedges and distant trees, clear foreground lawn. Polished warm children's book illustration, soft painterly 3D forms, crisp friendly colors, slightly elevated frontal camera. Leave open space for movable objects. Architecture only. Do NOT include these objects: watering can, shovel, flower pot, butterfly, bird, bench. No people, no text, no labels, no numbers, no watermark. Consistent attractive educational art."
+    },
+    {
+      "name": "garden-object-1",
+      "transparent": true,
+      "prompt": "Use case: illustration-story. Final draggable vocabulary object asset for a web app. EXACTLY ONE isolated watering can, full object visible, centered, occupying most of square image with small padding. Match warm polished children's book illustration with soft painterly 3D forms, crisp friendly colors and slightly elevated frontal camera, suitable for garden scene. TRUE transparent background with alpha, no background scenery, no floor, no rectangle, no frame, no text, no numbers, no watermark. Clean edges, recognisable educational object."
+    },
+    {
+      "name": "garden-object-2",
+      "transparent": true,
+      "prompt": "Use case: illustration-story. Final draggable vocabulary object asset for a web app. EXACTLY ONE isolated shovel, full object visible, centered, occupying most of square image with small padding. Match warm polished children's book illustration with soft painterly 3D forms, crisp friendly colors and slightly elevated frontal camera, suitable for garden scene. TRUE transparent background with alpha, no background scenery, no floor, no rectangle, no frame, no text, no numbers, no watermark. Clean edges, recognisable educational object."
+    },
+    {
+      "name": "garden-object-3",
+      "transparent": true,
+      "prompt": "Use case: illustration-story. Final draggable vocabulary object asset for a web app. EXACTLY ONE isolated flower pot, full object visible, centered, occupying most of square image with small padding. Match warm polished children's book illustration with soft painterly 3D forms, crisp friendly colors and slightly elevated frontal camera, suitable for garden scene. TRUE transparent background with alpha, no background scenery, no floor, no rectangle, no frame, no text, no numbers, no watermark. Clean edges, recognisable educational object."
+    },
+    {
+      "name": "garden-object-4",
+      "transparent": true,
+      "prompt": "Use case: illustration-story. Final draggable vocabulary object asset for a web app. EXACTLY ONE isolated butterfly, full object visible, centered, occupying most of square image with small padding. Match warm polished children's book illustration with soft painterly 3D forms, crisp friendly colors and slightly elevated frontal camera, suitable for garden scene. TRUE transparent background with alpha, no background scenery, no floor, no rectangle, no frame, no text, no numbers, no watermark. Clean edges, recognisable educational object."
+    },
+    {
+      "name": "garden-object-5",
+      "transparent": true,
+      "prompt": "Use case: illustration-story. Final draggable vocabulary object asset for a web app. EXACTLY ONE isolated bird, full object visible, centered, occupying most of square image with small padding. Match warm polished children's book illustration with soft painterly 3D forms, crisp friendly colors and slightly elevated frontal camera, suitable for garden scene. TRUE transparent background with alpha, no background scenery, no floor, no rectangle, no frame, no text, no numbers, no watermark. Clean edges, recognisable educational object."
+    },
+    {
+      "name": "garden-object-6",
+      "transparent": true,
+      "prompt": "Use case: illustration-story. Final draggable vocabulary object asset for a web app. EXACTLY ONE isolated bench, full object visible, centered, occupying most of square image with small padding. Match warm polished children's book illustration with soft painterly 3D forms, crisp friendly colors and slightly elevated frontal camera, suitable for garden scene. TRUE transparent background with alpha, no background scenery, no floor, no rectangle, no frame, no text, no numbers, no watermark. Clean edges, recognisable educational object."
+    },
+    {
+      "name": "supermarket-background",
+      "transparent": false,
+      "prompt": "Use case: illustration-story. Final web vocabulary scene background, landscape 3:2. friendly supermarket aisle with empty low display shelves, checkout counter far back and clean open floor. Polished warm children's book illustration, soft painterly 3D forms, crisp friendly colors, slightly elevated frontal camera. Leave open space for movable objects. Architecture only. Do NOT include these objects: apple, banana, bread, milk, cheese, shopping basket. No people, no text, no labels, no numbers, no watermark. Consistent attractive educational art."
+    },
+    {
+      "name": "supermarket-object-1",
+      "transparent": true,
+      "prompt": "Use case: illustration-story. Final draggable vocabulary object asset for a web app. EXACTLY ONE isolated apple, full object visible, centered, occupying most of square image with small padding. Match warm polished children's book illustration with soft painterly 3D forms, crisp friendly colors and slightly elevated frontal camera, suitable for supermarket scene. TRUE transparent background with alpha, no background scenery, no floor, no rectangle, no frame, no text, no numbers, no watermark. Clean edges, recognisable educational object."
+    },
+    {
+      "name": "supermarket-object-2",
+      "transparent": true,
+      "prompt": "Use case: illustration-story. Final draggable vocabulary object asset for a web app. EXACTLY ONE isolated banana, full object visible, centered, occupying most of square image with small padding. Match warm polished children's book illustration with soft painterly 3D forms, crisp friendly colors and slightly elevated frontal camera, suitable for supermarket scene. TRUE transparent background with alpha, no background scenery, no floor, no rectangle, no frame, no text, no numbers, no watermark. Clean edges, recognisable educational object."
+    },
+    {
+      "name": "supermarket-object-3",
+      "transparent": true,
+      "prompt": "Use case: illustration-story. Final draggable vocabulary object asset for a web app. EXACTLY ONE isolated bread, full object visible, centered, occupying most of square image with small padding. Match warm polished children's book illustration with soft painterly 3D forms, crisp friendly colors and slightly elevated frontal camera, suitable for supermarket scene. TRUE transparent background with alpha, no background scenery, no floor, no rectangle, no frame, no text, no numbers, no watermark. Clean edges, recognisable educational object."
+    },
+    {
+      "name": "supermarket-object-4",
+      "transparent": true,
+      "prompt": "Use case: illustration-story. Final draggable vocabulary object asset for a web app. EXACTLY ONE isolated milk, full object visible, centered, occupying most of square image with small padding. Match warm polished children's book illustration with soft painterly 3D forms, crisp friendly colors and slightly elevated frontal camera, suitable for supermarket scene. TRUE transparent background with alpha, no background scenery, no floor, no rectangle, no frame, no text, no numbers, no watermark. Clean edges, recognisable educational object."
+    },
+    {
+      "name": "supermarket-object-5",
+      "transparent": true,
+      "prompt": "Use case: illustration-story. Final draggable vocabulary object asset for a web app. EXACTLY ONE isolated cheese, full object visible, centered, occupying most of square image with small padding. Match warm polished children's book illustration with soft painterly 3D forms, crisp friendly colors and slightly elevated frontal camera, suitable for supermarket scene. TRUE transparent background with alpha, no background scenery, no floor, no rectangle, no frame, no text, no numbers, no watermark. Clean edges, recognisable educational object."
+    },
+    {
+      "name": "supermarket-object-6",
+      "transparent": true,
+      "prompt": "Use case: illustration-story. Final draggable vocabulary object asset for a web app. EXACTLY ONE isolated shopping basket, full object visible, centered, occupying most of square image with small padding. Match warm polished children's book illustration with soft painterly 3D forms, crisp friendly colors and slightly elevated frontal camera, suitable for supermarket scene. TRUE transparent background with alpha, no background scenery, no floor, no rectangle, no frame, no text, no numbers, no watermark. Clean edges, recognisable educational object."
+    },
+    {
+      "name": "beach-background",
+      "transparent": false,
+      "prompt": "Use case: illustration-story. Final web vocabulary scene background, landscape 3:2. sunny tropical beach, pale sand in foreground, calm blue sea and distant palm trees. Polished warm children's book illustration, soft painterly 3D forms, crisp friendly colors, slightly elevated frontal camera. Leave open space for movable objects. Architecture only. Do NOT include these objects: bucket, spade, beach umbrella, sunglasses, seashell, surfboard. No people, no text, no labels, no numbers, no watermark. Consistent attractive educational art."
+    },
+    {
+      "name": "beach-object-1",
+      "transparent": true,
+      "prompt": "Use case: illustration-story. Final draggable vocabulary object asset for a web app. EXACTLY ONE isolated bucket, full object visible, centered, occupying most of square image with small padding. Match warm polished children's book illustration with soft painterly 3D forms, crisp friendly colors and slightly elevated frontal camera, suitable for beach scene. TRUE transparent background with alpha, no background scenery, no floor, no rectangle, no frame, no text, no numbers, no watermark. Clean edges, recognisable educational object."
+    },
+    {
+      "name": "beach-object-2",
+      "transparent": true,
+      "prompt": "Use case: illustration-story. Final draggable vocabulary object asset for a web app. EXACTLY ONE isolated spade, full object visible, centered, occupying most of square image with small padding. Match warm polished children's book illustration with soft painterly 3D forms, crisp friendly colors and slightly elevated frontal camera, suitable for beach scene. TRUE transparent background with alpha, no background scenery, no floor, no rectangle, no frame, no text, no numbers, no watermark. Clean edges, recognisable educational object."
+    },
+    {
+      "name": "beach-object-3",
+      "transparent": true,
+      "prompt": "Use case: illustration-story. Final draggable vocabulary object asset for a web app. EXACTLY ONE isolated beach umbrella, full object visible, centered, occupying most of square image with small padding. Match warm polished children's book illustration with soft painterly 3D forms, crisp friendly colors and slightly elevated frontal camera, suitable for beach scene. TRUE transparent background with alpha, no background scenery, no floor, no rectangle, no frame, no text, no numbers, no watermark. Clean edges, recognisable educational object."
+    },
+    {
+      "name": "beach-object-4",
+      "transparent": true,
+      "prompt": "Use case: illustration-story. Final draggable vocabulary object asset for a web app. EXACTLY ONE isolated sunglasses, full object visible, centered, occupying most of square image with small padding. Match warm polished children's book illustration with soft painterly 3D forms, crisp friendly colors and slightly elevated frontal camera, suitable for beach scene. TRUE transparent background with alpha, no background scenery, no floor, no rectangle, no frame, no text, no numbers, no watermark. Clean edges, recognisable educational object."
+    },
+    {
+      "name": "beach-object-5",
+      "transparent": true,
+      "prompt": "Use case: illustration-story. Final draggable vocabulary object asset for a web app. EXACTLY ONE isolated seashell, full object visible, centered, occupying most of square image with small padding. Match warm polished children's book illustration with soft painterly 3D forms, crisp friendly colors and slightly elevated frontal camera, suitable for beach scene. TRUE transparent background with alpha, no background scenery, no floor, no rectangle, no frame, no text, no numbers, no watermark. Clean edges, recognisable educational object."
+    },
+    {
+      "name": "beach-object-6",
+      "transparent": true,
+      "prompt": "Use case: illustration-story. Final draggable vocabulary object asset for a web app. EXACTLY ONE isolated surfboard, full object visible, centered, occupying most of square image with small padding. Match warm polished children's book illustration with soft painterly 3D forms, crisp friendly colors and slightly elevated frontal camera, suitable for beach scene. TRUE transparent background with alpha, no background scenery, no floor, no rectangle, no frame, no text, no numbers, no watermark. Clean edges, recognisable educational object."
+    },
+    {
+      "name": "cafe-background",
+      "transparent": false,
+      "prompt": "Use case: illustration-story. Final web vocabulary scene background, landscape 3:2. warm friendly cafe with empty wooden tables, window, counter at the back and generous open foreground. Polished warm children's book illustration, soft painterly 3D forms, crisp friendly colors, slightly elevated frontal camera. Leave open space for movable objects. Architecture only. Do NOT include these objects: coffee, croissant, cake, teapot, menu, chair. No people, no text, no labels, no numbers, no watermark. Consistent attractive educational art."
+    },
+    {
+      "name": "cafe-object-1",
+      "transparent": true,
+      "prompt": "Use case: illustration-story. Final draggable vocabulary object asset for a web app. EXACTLY ONE isolated coffee, full object visible, centered, occupying most of square image with small padding. Match warm polished children's book illustration with soft painterly 3D forms, crisp friendly colors and slightly elevated frontal camera, suitable for café scene. TRUE transparent background with alpha, no background scenery, no floor, no rectangle, no frame, no text, no numbers, no watermark. Clean edges, recognisable educational object."
+    },
+    {
+      "name": "cafe-object-2",
+      "transparent": true,
+      "prompt": "Use case: illustration-story. Final draggable vocabulary object asset for a web app. EXACTLY ONE isolated croissant, full object visible, centered, occupying most of square image with small padding. Match warm polished children's book illustration with soft painterly 3D forms, crisp friendly colors and slightly elevated frontal camera, suitable for café scene. TRUE transparent background with alpha, no background scenery, no floor, no rectangle, no frame, no text, no numbers, no watermark. Clean edges, recognisable educational object."
+    },
+    {
+      "name": "cafe-object-3",
+      "transparent": true,
+      "prompt": "Use case: illustration-story. Final draggable vocabulary object asset for a web app. EXACTLY ONE isolated cake, full object visible, centered, occupying most of square image with small padding. Match warm polished children's book illustration with soft painterly 3D forms, crisp friendly colors and slightly elevated frontal camera, suitable for café scene. TRUE transparent background with alpha, no background scenery, no floor, no rectangle, no frame, no text, no numbers, no watermark. Clean edges, recognisable educational object."
+    },
+    {
+      "name": "cafe-object-4",
+      "transparent": true,
+      "prompt": "Use case: illustration-story. Final draggable vocabulary object asset for a web app. EXACTLY ONE isolated teapot, full object visible, centered, occupying most of square image with small padding. Match warm polished children's book illustration with soft painterly 3D forms, crisp friendly colors and slightly elevated frontal camera, suitable for café scene. TRUE transparent background with alpha, no background scenery, no floor, no rectangle, no frame, no text, no numbers, no watermark. Clean edges, recognisable educational object."
+    },
+    {
+      "name": "cafe-object-5",
+      "transparent": true,
+      "prompt": "Use case: illustration-story. Final draggable vocabulary object asset for a web app. EXACTLY ONE isolated menu, full object visible, centered, occupying most of square image with small padding. Match warm polished children's book illustration with soft painterly 3D forms, crisp friendly colors and slightly elevated frontal camera, suitable for café scene. TRUE transparent background with alpha, no background scenery, no floor, no rectangle, no frame, no text, no numbers, no watermark. Clean edges, recognisable educational object."
+    },
+    {
+      "name": "cafe-object-6",
+      "transparent": true,
+      "prompt": "Use case: illustration-story. Final draggable vocabulary object asset for a web app. EXACTLY ONE isolated chair, full object visible, centered, occupying most of square image with small padding. Match warm polished children's book illustration with soft painterly 3D forms, crisp friendly colors and slightly elevated frontal camera, suitable for café scene. TRUE transparent background with alpha, no background scenery, no floor, no rectangle, no frame, no text, no numbers, no watermark. Clean edges, recognisable educational object."
+    },
+    {
+      "name": "airport-background",
+      "transparent": false,
+      "prompt": "Use case: illustration-story. Final web vocabulary scene background, landscape 3:2. bright airport terminal with huge glass windows showing blue sky and empty runway, distant blank departure boards and open foreground. Polished warm children's book illustration, soft painterly 3D forms, crisp friendly colors, slightly elevated frontal camera. Leave open space for movable objects. Architecture only. Do NOT include these objects: suitcase, passport, boarding pass, airplane, luggage trolley, backpack. No people, no text, no labels, no numbers, no watermark. Consistent attractive educational art."
+    },
+    {
+      "name": "airport-object-1",
+      "transparent": true,
+      "prompt": "Use case: illustration-story. Final draggable vocabulary object asset for a web app. EXACTLY ONE isolated suitcase, full object visible, centered, occupying most of square image with small padding. Match warm polished children's book illustration with soft painterly 3D forms, crisp friendly colors and slightly elevated frontal camera, suitable for airport scene. TRUE transparent background with alpha, no background scenery, no floor, no rectangle, no frame, no text, no numbers, no watermark. Clean edges, recognisable educational object."
+    },
+    {
+      "name": "airport-object-2",
+      "transparent": true,
+      "prompt": "Use case: illustration-story. Final draggable vocabulary object asset for a web app. EXACTLY ONE isolated passport, full object visible, centered, occupying most of square image with small padding. Match warm polished children's book illustration with soft painterly 3D forms, crisp friendly colors and slightly elevated frontal camera, suitable for airport scene. TRUE transparent background with alpha, no background scenery, no floor, no rectangle, no frame, no text, no numbers, no watermark. Clean edges, recognisable educational object."
+    },
+    {
+      "name": "airport-object-3",
+      "transparent": true,
+      "prompt": "Use case: illustration-story. Final draggable vocabulary object asset for a web app. EXACTLY ONE isolated boarding pass, full object visible, centered, occupying most of square image with small padding. Match warm polished children's book illustration with soft painterly 3D forms, crisp friendly colors and slightly elevated frontal camera, suitable for airport scene. TRUE transparent background with alpha, no background scenery, no floor, no rectangle, no frame, no text, no numbers, no watermark. Clean edges, recognisable educational object."
+    },
+    {
+      "name": "airport-object-4",
+      "transparent": true,
+      "prompt": "Use case: illustration-story. Final draggable vocabulary object asset for a web app. EXACTLY ONE isolated airplane, full object visible, centered, occupying most of square image with small padding. Match warm polished children's book illustration with soft painterly 3D forms, crisp friendly colors and slightly elevated frontal camera, suitable for airport scene. TRUE transparent background with alpha, no background scenery, no floor, no rectangle, no frame, no text, no numbers, no watermark. Clean edges, recognisable educational object."
+    },
+    {
+      "name": "airport-object-5",
+      "transparent": true,
+      "prompt": "Use case: illustration-story. Final draggable vocabulary object asset for a web app. EXACTLY ONE isolated luggage trolley, full object visible, centered, occupying most of square image with small padding. Match warm polished children's book illustration with soft painterly 3D forms, crisp friendly colors and slightly elevated frontal camera, suitable for airport scene. TRUE transparent background with alpha, no background scenery, no floor, no rectangle, no frame, no text, no numbers, no watermark. Clean edges, recognisable educational object."
+    },
+    {
+      "name": "airport-object-6",
+      "transparent": true,
+      "prompt": "Use case: illustration-story. Final draggable vocabulary object asset for a web app. EXACTLY ONE isolated backpack, full object visible, centered, occupying most of square image with small padding. Match warm polished children's book illustration with soft painterly 3D forms, crisp friendly colors and slightly elevated frontal camera, suitable for airport scene. TRUE transparent background with alpha, no background scenery, no floor, no rectangle, no frame, no text, no numbers, no watermark. Clean edges, recognisable educational object."
+    },
+    {
+      "name": "study-background",
+      "transparent": false,
+      "prompt": "Use case: illustration-story. Final web vocabulary scene background, landscape 3:2. cozy home study corner, large bare wooden desktop in foreground, empty shelves, window and soft sunlight. Polished warm children's book illustration, soft painterly 3D forms, crisp friendly colors, slightly elevated frontal camera. Leave open space for movable objects. Architecture only. Do NOT include these objects: laptop, keyboard, computer mouse, headphones, notebook, desk lamp. No people, no text, no labels, no numbers, no watermark. Consistent attractive educational art."
+    },
+    {
+      "name": "study-object-1",
+      "transparent": true,
+      "prompt": "Use case: illustration-story. Final draggable vocabulary object asset for a web app. EXACTLY ONE isolated laptop, full object visible, centered, occupying most of square image with small padding. Match warm polished children's book illustration with soft painterly 3D forms, crisp friendly colors and slightly elevated frontal camera, suitable for study desk scene. TRUE transparent background with alpha, no background scenery, no floor, no rectangle, no frame, no text, no numbers, no watermark. Clean edges, recognisable educational object."
+    },
+    {
+      "name": "study-object-2",
+      "transparent": true,
+      "prompt": "Use case: illustration-story. Final draggable vocabulary object asset for a web app. EXACTLY ONE isolated keyboard, full object visible, centered, occupying most of square image with small padding. Match warm polished children's book illustration with soft painterly 3D forms, crisp friendly colors and slightly elevated frontal camera, suitable for study desk scene. TRUE transparent background with alpha, no background scenery, no floor, no rectangle, no frame, no text, no numbers, no watermark. Clean edges, recognisable educational object."
+    },
+    {
+      "name": "study-object-3",
+      "transparent": true,
+      "prompt": "Use case: illustration-story. Final draggable vocabulary object asset for a web app. EXACTLY ONE isolated computer mouse, full object visible, centered, occupying most of square image with small padding. Match warm polished children's book illustration with soft painterly 3D forms, crisp friendly colors and slightly elevated frontal camera, suitable for study desk scene. TRUE transparent background with alpha, no background scenery, no floor, no rectangle, no frame, no text, no numbers, no watermark. Clean edges, recognisable educational object."
+    },
+    {
+      "name": "study-object-4",
+      "transparent": true,
+      "prompt": "Use case: illustration-story. Final draggable vocabulary object asset for a web app. EXACTLY ONE isolated headphones, full object visible, centered, occupying most of square image with small padding. Match warm polished children's book illustration with soft painterly 3D forms, crisp friendly colors and slightly elevated frontal camera, suitable for study desk scene. TRUE transparent background with alpha, no background scenery, no floor, no rectangle, no frame, no text, no numbers, no watermark. Clean edges, recognisable educational object."
+    },
+    {
+      "name": "study-object-5",
+      "transparent": true,
+      "prompt": "Use case: illustration-story. Final draggable vocabulary object asset for a web app. EXACTLY ONE isolated notebook, full object visible, centered, occupying most of square image with small padding. Match warm polished children's book illustration with soft painterly 3D forms, crisp friendly colors and slightly elevated frontal camera, suitable for study desk scene. TRUE transparent background with alpha, no background scenery, no floor, no rectangle, no frame, no text, no numbers, no watermark. Clean edges, recognisable educational object."
+    },
+    {
+      "name": "study-object-6",
+      "transparent": true,
+      "prompt": "Use case: illustration-story. Final draggable vocabulary object asset for a web app. EXACTLY ONE isolated desk lamp, full object visible, centered, occupying most of square image with small padding. Match warm polished children's book illustration with soft painterly 3D forms, crisp friendly colors and slightly elevated frontal camera, suitable for study desk scene. TRUE transparent background with alpha, no background scenery, no floor, no rectangle, no frame, no text, no numbers, no watermark. Clean edges, recognisable educational object."
+    }
+  ]
+}

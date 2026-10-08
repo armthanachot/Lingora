@@ -1,0 +1,565 @@
+{
+  "bucket": "lesson-media",
+  "assets": [
+    {
+      "localUrl": "/assets/vocab/airport-background.png",
+      "sourcePath": "docs/vocabulary-assets/airport-background.png",
+      "storagePath": "vocabulary/d11aebd74609e53db2a8-airport-background.png",
+      "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/vocabulary/d11aebd74609e53db2a8-airport-background.png",
+      "sha256": "d11aebd74609e53db2a8c5b7f00868ffabb1199c2bdf2f2f7bbb51e68758975f",
+      "bytes": 2009546
+    },
+    {
+      "localUrl": "/assets/vocab/airport-object-1.png",
+      "sourcePath": "docs/vocabulary-assets/airport-object-1.png",
+      "storagePath": "vocabulary/22b60fa0b3019e43574a-airport-object-1.png",
+      "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/vocabulary/22b60fa0b3019e43574a-airport-object-1.png",
+      "sha256": "22b60fa0b3019e43574ad068ded95e40bbad26ec9db7bbf1d6ec1df917189501",
+      "bytes": 1339897
+    },
+    {
+      "localUrl": "/assets/vocab/airport-object-2.png",
+      "sourcePath": "docs/vocabulary-assets/airport-object-2.png",
+      "storagePath": "vocabulary/b9629fe82b0d2c6b6012-airport-object-2.png",
+      "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/vocabulary/b9629fe82b0d2c6b6012-airport-object-2.png",
+      "sha256": "b9629fe82b0d2c6b6012ffeea2f8b062bac2ee1da50eda4287dccc7aec356680",
+      "bytes": 2021355
+    },
+    {
+      "localUrl": "/assets/vocab/airport-object-3.png",
+      "sourcePath": "docs/vocabulary-assets/airport-object-3.png",
+      "storagePath": "vocabulary/8aa79dd1df51337fb2ec-airport-object-3.png",
+      "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/vocabulary/8aa79dd1df51337fb2ec-airport-object-3.png",
+      "sha256": "8aa79dd1df51337fb2ec668c1a64aee40da0c86a705b6fc82c0e0cc96e8861a3",
+      "bytes": 1164645
+    },
+    {
+      "localUrl": "/assets/vocab/airport-object-4.png",
+      "sourcePath": "docs/vocabulary-assets/airport-object-4.png",
+      "storagePath": "vocabulary/162664f90857440fadf7-airport-object-4.png",
+      "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/vocabulary/162664f90857440fadf7-airport-object-4.png",
+      "sha256": "162664f90857440fadf79e2f483d36d5903b7b673a23b7f11811f646232fcc4e",
+      "bytes": 881972
+    },
+    {
+      "localUrl": "/assets/vocab/airport-object-5.png",
+      "sourcePath": "docs/vocabulary-assets/airport-object-5.png",
+      "storagePath": "vocabulary/a8f12195cfbed04033bf-airport-object-5.png",
+      "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/vocabulary/a8f12195cfbed04033bf-airport-object-5.png",
+      "sha256": "a8f12195cfbed04033bf07da52efbf8b09c91b8fa2637911e91400087284b18f",
+      "bytes": 1098251
+    },
+    {
+      "localUrl": "/assets/vocab/airport-object-6.png",
+      "sourcePath": "docs/vocabulary-assets/airport-object-6.png",
+      "storagePath": "vocabulary/5ee2ce1593460f22cdd0-airport-object-6.png",
+      "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/vocabulary/5ee2ce1593460f22cdd0-airport-object-6.png",
+      "sha256": "5ee2ce1593460f22cdd016da97c59e4e9e1f332ba6ab4037b682750bab5babe9",
+      "bytes": 2150780
+    },
+    {
+      "localUrl": "/assets/vocab/bathroom-background.png",
+      "sourcePath": "docs/vocabulary-assets/bathroom-background.png",
+      "storagePath": "vocabulary/7d1115e087a5804f07a9-bathroom-background.png",
+      "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/vocabulary/7d1115e087a5804f07a9-bathroom-background.png",
+      "sha256": "7d1115e087a5804f07a95ea29008daf1826cefe59fb7111c1c958a6316eab49e",
+      "bytes": 1762439
+    },
+    {
+      "localUrl": "/assets/vocab/bathroom-object-1.png",
+      "sourcePath": "docs/vocabulary-assets/bathroom-object-1.png",
+      "storagePath": "vocabulary/4b170fdfc49c8dcaea47-bathroom-object-1.png",
+      "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/vocabulary/4b170fdfc49c8dcaea47-bathroom-object-1.png",
+      "sha256": "4b170fdfc49c8dcaea4773cf25d884d3886579552da15766f9a2a12e19d68abc",
+      "bytes": 448548
+    },
+    {
+      "localUrl": "/assets/vocab/bathroom-object-2.png",
+      "sourcePath": "docs/vocabulary-assets/bathroom-object-2.png",
+      "storagePath": "vocabulary/8aaa00f168e0bd738c52-bathroom-object-2.png",
+      "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/vocabulary/8aaa00f168e0bd738c52-bathroom-object-2.png",
+      "sha256": "8aaa00f168e0bd738c52eddb576b15b25e13b0c6b137bb454a8494863d570ddb",
+      "bytes": 1805851
+    },
+    {
+      "localUrl": "/assets/vocab/bathroom-object-3.png",
+      "sourcePath": "docs/vocabulary-assets/bathroom-object-3.png",
+      "storagePath": "vocabulary/be7979cbc6f9c56917ef-bathroom-object-3.png",
+      "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/vocabulary/be7979cbc6f9c56917ef-bathroom-object-3.png",
+      "sha256": "be7979cbc6f9c56917efd3bbedbdd60e12c9db318fef3ef6a4d4ab4c6f10c887",
+      "bytes": 1320926
+    },
+    {
+      "localUrl": "/assets/vocab/bathroom-object-4.png",
+      "sourcePath": "docs/vocabulary-assets/bathroom-object-4.png",
+      "storagePath": "vocabulary/b738e01dc676f3ff7518-bathroom-object-4.png",
+      "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/vocabulary/b738e01dc676f3ff7518-bathroom-object-4.png",
+      "sha256": "b738e01dc676f3ff75181a9742aa2e23c2c7770aae31fc81c12705d2cec82c04",
+      "bytes": 900348
+    },
+    {
+      "localUrl": "/assets/vocab/bathroom-object-5.png",
+      "sourcePath": "docs/vocabulary-assets/bathroom-object-5.png",
+      "storagePath": "vocabulary/e216ee83cb1ce8d89db2-bathroom-object-5.png",
+      "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/vocabulary/e216ee83cb1ce8d89db2-bathroom-object-5.png",
+      "sha256": "e216ee83cb1ce8d89db20695c9b73174c51fecb8dd98df1434549486a9c07e22",
+      "bytes": 1188299
+    },
+    {
+      "localUrl": "/assets/vocab/bathroom-object-6.png",
+      "sourcePath": "docs/vocabulary-assets/bathroom-object-6.png",
+      "storagePath": "vocabulary/d895b4eee014c39a3629-bathroom-object-6.png",
+      "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/vocabulary/d895b4eee014c39a3629-bathroom-object-6.png",
+      "sha256": "d895b4eee014c39a3629650f5c392f934b605f98a5b6e12a0d05149b1bbd8a69",
+      "bytes": 935411
+    },
+    {
+      "localUrl": "/assets/vocab/beach-background.png",
+      "sourcePath": "docs/vocabulary-assets/beach-background.png",
+      "storagePath": "vocabulary/97abe30c614fa97a0571-beach-background.png",
+      "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/vocabulary/97abe30c614fa97a0571-beach-background.png",
+      "sha256": "97abe30c614fa97a0571fd34fdfa17fac8825af16612ad9188ddd84c751da07d",
+      "bytes": 2327338
+    },
+    {
+      "localUrl": "/assets/vocab/beach-object-1.png",
+      "sourcePath": "docs/vocabulary-assets/beach-object-1.png",
+      "storagePath": "vocabulary/7308a4b4ea23189f53b2-beach-object-1.png",
+      "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/vocabulary/7308a4b4ea23189f53b2-beach-object-1.png",
+      "sha256": "7308a4b4ea23189f53b23b2cfab5389bb915d6dffb0221a632bbaae15b50a956",
+      "bytes": 1229840
+    },
+    {
+      "localUrl": "/assets/vocab/beach-object-2.png",
+      "sourcePath": "docs/vocabulary-assets/beach-object-2.png",
+      "storagePath": "vocabulary/670010cb99256b6e866e-beach-object-2.png",
+      "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/vocabulary/670010cb99256b6e866e-beach-object-2.png",
+      "sha256": "670010cb99256b6e866e92b3f32e8cfb8e1df520432e4e3a8c15c20747fa5b4d",
+      "bytes": 715244
+    },
+    {
+      "localUrl": "/assets/vocab/beach-object-3.png",
+      "sourcePath": "docs/vocabulary-assets/beach-object-3.png",
+      "storagePath": "vocabulary/5fd202fc8cd9ea43b02c-beach-object-3.png",
+      "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/vocabulary/5fd202fc8cd9ea43b02c-beach-object-3.png",
+      "sha256": "5fd202fc8cd9ea43b02c3af8160cb55530e19eb994756bf7a64ee115953efd67",
+      "bytes": 939782
+    },
+    {
+      "localUrl": "/assets/vocab/beach-object-4.png",
+      "sourcePath": "docs/vocabulary-assets/beach-object-4.png",
+      "storagePath": "vocabulary/265489a5d4d6d9802001-beach-object-4.png",
+      "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/vocabulary/265489a5d4d6d9802001-beach-object-4.png",
+      "sha256": "265489a5d4d6d980200124b6a71f09e322eef2435834fd13484f7337d6fb6900",
+      "bytes": 802347
+    },
+    {
+      "localUrl": "/assets/vocab/beach-object-5.png",
+      "sourcePath": "docs/vocabulary-assets/beach-object-5.png",
+      "storagePath": "vocabulary/b460c7c5ae5e30bdb04c-beach-object-5.png",
+      "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/vocabulary/b460c7c5ae5e30bdb04c-beach-object-5.png",
+      "sha256": "b460c7c5ae5e30bdb04cec7e961c75d6f62241d9ef4693cd4321f9db308bdd9c",
+      "bytes": 1548359
+    },
+    {
+      "localUrl": "/assets/vocab/beach-object-6.png",
+      "sourcePath": "docs/vocabulary-assets/beach-object-6.png",
+      "storagePath": "vocabulary/70b8b56b6618be204239-beach-object-6.png",
+      "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/vocabulary/70b8b56b6618be204239-beach-object-6.png",
+      "sha256": "70b8b56b6618be204239eb0e44fc710bbe81c8db558fcaf1b8db4c9e3b5cf659",
+      "bytes": 808098
+    },
+    {
+      "localUrl": "/assets/vocab/bedroom-background.png",
+      "sourcePath": "docs/vocabulary-assets/bedroom-background.png",
+      "storagePath": "vocabulary/efdd83fb1167a8017cb2-bedroom-background.png",
+      "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/vocabulary/efdd83fb1167a8017cb2-bedroom-background.png",
+      "sha256": "efdd83fb1167a8017cb24dbe01c7dff8e6e1794da8f00601d59b166a98b4f089",
+      "bytes": 1840445
+    },
+    {
+      "localUrl": "/assets/vocab/bedroom-object-1.png",
+      "sourcePath": "docs/vocabulary-assets/bedroom-object-1.png",
+      "storagePath": "vocabulary/19c7e298276362e1696a-bedroom-object-1.png",
+      "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/vocabulary/19c7e298276362e1696a-bedroom-object-1.png",
+      "sha256": "19c7e298276362e1696a50a87ea546a211d7d9f3a50a4c4f7c81dd6c6023df8c",
+      "bytes": 2081624
+    },
+    {
+      "localUrl": "/assets/vocab/bedroom-object-2.png",
+      "sourcePath": "docs/vocabulary-assets/bedroom-object-2.png",
+      "storagePath": "vocabulary/5e4633f61b579b8ea5ac-bedroom-object-2.png",
+      "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/vocabulary/5e4633f61b579b8ea5ac-bedroom-object-2.png",
+      "sha256": "5e4633f61b579b8ea5ac4528aceef26fdd121a7d125e63c84b5989b65e4695f4",
+      "bytes": 1405441
+    },
+    {
+      "localUrl": "/assets/vocab/bedroom-object-3.png",
+      "sourcePath": "docs/vocabulary-assets/bedroom-object-3.png",
+      "storagePath": "vocabulary/01c859e05bf75ec762b0-bedroom-object-3.png",
+      "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/vocabulary/01c859e05bf75ec762b0-bedroom-object-3.png",
+      "sha256": "01c859e05bf75ec762b0ed315d84d63933387f2078f0797cce088dc2298cbfd2",
+      "bytes": 1077741
+    },
+    {
+      "localUrl": "/assets/vocab/bedroom-object-4.png",
+      "sourcePath": "docs/vocabulary-assets/bedroom-object-4.png",
+      "storagePath": "vocabulary/7a7984bc96ad7a3184df-bedroom-object-4.png",
+      "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/vocabulary/7a7984bc96ad7a3184df-bedroom-object-4.png",
+      "sha256": "7a7984bc96ad7a3184df5b6acae46b1d9b8135207f09ebacb06dc24af6186af3",
+      "bytes": 2234966
+    },
+    {
+      "localUrl": "/assets/vocab/bedroom-object-5.png",
+      "sourcePath": "docs/vocabulary-assets/bedroom-object-5.png",
+      "storagePath": "vocabulary/179e63a78f65331627ba-bedroom-object-5.png",
+      "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/vocabulary/179e63a78f65331627ba-bedroom-object-5.png",
+      "sha256": "179e63a78f65331627baef095b5ca9aad28322fdff21c5a52f42c2dc61a48b96",
+      "bytes": 1775823
+    },
+    {
+      "localUrl": "/assets/vocab/bedroom-object-6.png",
+      "sourcePath": "docs/vocabulary-assets/bedroom-object-6.png",
+      "storagePath": "vocabulary/a39c684ef47616f3cbf6-bedroom-object-6.png",
+      "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/vocabulary/a39c684ef47616f3cbf6-bedroom-object-6.png",
+      "sha256": "a39c684ef47616f3cbf66826e3a87ad3d6473a7e00e5289717e9e1716fbe7794",
+      "bytes": 1626874
+    },
+    {
+      "localUrl": "/assets/vocab/cafe-background.png",
+      "sourcePath": "docs/vocabulary-assets/cafe-background.png",
+      "storagePath": "vocabulary/a3b0da79d8584226819c-cafe-background.png",
+      "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/vocabulary/a3b0da79d8584226819c-cafe-background.png",
+      "sha256": "a3b0da79d8584226819c535b8a54cbd132a4f1c0b2a3be2757df88cff28740ce",
+      "bytes": 2235501
+    },
+    {
+      "localUrl": "/assets/vocab/cafe-object-1.png",
+      "sourcePath": "docs/vocabulary-assets/cafe-object-1.png",
+      "storagePath": "vocabulary/3cbc36f1295dc640a4f8-cafe-object-1.png",
+      "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/vocabulary/3cbc36f1295dc640a4f8-cafe-object-1.png",
+      "sha256": "3cbc36f1295dc640a4f8c1c989d3711e3de323af3bce8bd0beccd7d570e2489b",
+      "bytes": 1600982
+    },
+    {
+      "localUrl": "/assets/vocab/cafe-object-2.png",
+      "sourcePath": "docs/vocabulary-assets/cafe-object-2.png",
+      "storagePath": "vocabulary/f30b2bec11ae0c8a5114-cafe-object-2.png",
+      "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/vocabulary/f30b2bec11ae0c8a5114-cafe-object-2.png",
+      "sha256": "f30b2bec11ae0c8a51148a7fe2afb5a06027a48a96cd73f43cf304c834708bac",
+      "bytes": 1682277
+    },
+    {
+      "localUrl": "/assets/vocab/cafe-object-3.png",
+      "sourcePath": "docs/vocabulary-assets/cafe-object-3.png",
+      "storagePath": "vocabulary/51f7bfb6b83f3d07c46c-cafe-object-3.png",
+      "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/vocabulary/51f7bfb6b83f3d07c46c-cafe-object-3.png",
+      "sha256": "51f7bfb6b83f3d07c46cc72b6b5f9359c74a953442a9ce7c135ee3b4dd658e7d",
+      "bytes": 2351690
+    },
+    {
+      "localUrl": "/assets/vocab/cafe-object-4.png",
+      "sourcePath": "docs/vocabulary-assets/cafe-object-4.png",
+      "storagePath": "vocabulary/d35edb561942fc68095d-cafe-object-4.png",
+      "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/vocabulary/d35edb561942fc68095d-cafe-object-4.png",
+      "sha256": "d35edb561942fc68095dc0b2f970b9850b5cc2fee7cb5e9eb6cc51207d8808e5",
+      "bytes": 1399288
+    },
+    {
+      "localUrl": "/assets/vocab/cafe-object-5.png",
+      "sourcePath": "docs/vocabulary-assets/cafe-object-5.png",
+      "storagePath": "vocabulary/e153e5134238c33e38f9-cafe-object-5.png",
+      "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/vocabulary/e153e5134238c33e38f9-cafe-object-5.png",
+      "sha256": "e153e5134238c33e38f9f34442d39df65ccf66af778b845b511d512fcd3353bd",
+      "bytes": 2196066
+    },
+    {
+      "localUrl": "/assets/vocab/cafe-object-6.png",
+      "sourcePath": "docs/vocabulary-assets/cafe-object-6.png",
+      "storagePath": "vocabulary/b7c1a6247ff9b850386a-cafe-object-6.png",
+      "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/vocabulary/b7c1a6247ff9b850386a-cafe-object-6.png",
+      "sha256": "b7c1a6247ff9b850386ae98e4cd94f0d371f40dc1d93f2fb2210cc5fb2279d99",
+      "bytes": 891347
+    },
+    {
+      "localUrl": "/assets/vocab/classroom-background.png",
+      "sourcePath": "docs/vocabulary-assets/classroom-background.png",
+      "storagePath": "vocabulary/8ea725d592ccd6ea9abc-classroom-background.png",
+      "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/vocabulary/8ea725d592ccd6ea9abc-classroom-background.png",
+      "sha256": "8ea725d592ccd6ea9abc2a0be4301c19ed131e43aa005b1ea96cd63aba49db9b",
+      "bytes": 1935732
+    },
+    {
+      "localUrl": "/assets/vocab/classroom-object-1.png",
+      "sourcePath": "docs/vocabulary-assets/classroom-object-1.png",
+      "storagePath": "vocabulary/854392ffe372063e17bb-classroom-object-1.png",
+      "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/vocabulary/854392ffe372063e17bb-classroom-object-1.png",
+      "sha256": "854392ffe372063e17bbb5c6980b320ce73bb3ad2b8a62c1391ff0e1a3981c75",
+      "bytes": 1943167
+    },
+    {
+      "localUrl": "/assets/vocab/classroom-object-2.png",
+      "sourcePath": "docs/vocabulary-assets/classroom-object-2.png",
+      "storagePath": "vocabulary/1a126b257ac7e8cfe45c-classroom-object-2.png",
+      "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/vocabulary/1a126b257ac7e8cfe45c-classroom-object-2.png",
+      "sha256": "1a126b257ac7e8cfe45ceddfd24af9b7271564e9d80347f9bd77746e0eaccbb5",
+      "bytes": 783265
+    },
+    {
+      "localUrl": "/assets/vocab/classroom-object-3.png",
+      "sourcePath": "docs/vocabulary-assets/classroom-object-3.png",
+      "storagePath": "vocabulary/6a99c7d4def99a7b37ce-classroom-object-3.png",
+      "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/vocabulary/6a99c7d4def99a7b37ce-classroom-object-3.png",
+      "sha256": "6a99c7d4def99a7b37ce57e01d4d7ffab76a443d6a38168ab7f9bf71dc7d3f4b",
+      "bytes": 1611091
+    },
+    {
+      "localUrl": "/assets/vocab/classroom-object-4.png",
+      "sourcePath": "docs/vocabulary-assets/classroom-object-4.png",
+      "storagePath": "vocabulary/aacaeb078162c2fd83ed-classroom-object-4.png",
+      "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/vocabulary/aacaeb078162c2fd83ed-classroom-object-4.png",
+      "sha256": "aacaeb078162c2fd83ed746898602b243583ead3f16ec5a5fafa137e74e59c23",
+      "bytes": 780872
+    },
+    {
+      "localUrl": "/assets/vocab/classroom-object-5.png",
+      "sourcePath": "docs/vocabulary-assets/classroom-object-5.png",
+      "storagePath": "vocabulary/6f6629e5ac6a370231c6-classroom-object-5.png",
+      "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/vocabulary/6f6629e5ac6a370231c6-classroom-object-5.png",
+      "sha256": "6f6629e5ac6a370231c626914657838a7e22463f26bbe256a8c6868b89b8fc66",
+      "bytes": 1744181
+    },
+    {
+      "localUrl": "/assets/vocab/classroom-object-6.png",
+      "sourcePath": "docs/vocabulary-assets/classroom-object-6.png",
+      "storagePath": "vocabulary/d38a7061055576108024-classroom-object-6.png",
+      "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/vocabulary/d38a7061055576108024-classroom-object-6.png",
+      "sha256": "d38a7061055576108024483a357a40101b310f52fede2048894fd2cf3ce786df",
+      "bytes": 942408
+    },
+    {
+      "localUrl": "/assets/vocab/garden-background.png",
+      "sourcePath": "docs/vocabulary-assets/garden-background.png",
+      "storagePath": "vocabulary/cf4fa6653acb77f63041-garden-background.png",
+      "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/vocabulary/cf4fa6653acb77f63041-garden-background.png",
+      "sha256": "cf4fa6653acb77f630412edb9dfa4932f7389a848b8e1646ffbca20159aed316",
+      "bytes": 3230409
+    },
+    {
+      "localUrl": "/assets/vocab/garden-object-1.png",
+      "sourcePath": "docs/vocabulary-assets/garden-object-1.png",
+      "storagePath": "vocabulary/7d8733adb232e4c7cbbf-garden-object-1.png",
+      "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/vocabulary/7d8733adb232e4c7cbbf-garden-object-1.png",
+      "sha256": "7d8733adb232e4c7cbbf4736c97acaf88f4bd8a7e3d95738d9b23dad79e15b05",
+      "bytes": 1555931
+    },
+    {
+      "localUrl": "/assets/vocab/garden-object-2.png",
+      "sourcePath": "docs/vocabulary-assets/garden-object-2.png",
+      "storagePath": "vocabulary/ded2639b1a50b236b23c-garden-object-2.png",
+      "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/vocabulary/ded2639b1a50b236b23c-garden-object-2.png",
+      "sha256": "ded2639b1a50b236b23c767539dff78a35367a0b57349ac6ed5fad0e07090a7e",
+      "bytes": 538951
+    },
+    {
+      "localUrl": "/assets/vocab/garden-object-3.png",
+      "sourcePath": "docs/vocabulary-assets/garden-object-3.png",
+      "storagePath": "vocabulary/037bd6a72b22cbb9c72d-garden-object-3.png",
+      "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/vocabulary/037bd6a72b22cbb9c72d-garden-object-3.png",
+      "sha256": "037bd6a72b22cbb9c72d261ed84328f4c488a54d5eca863dbf3a9e53df4f47da",
+      "bytes": 1514873
+    },
+    {
+      "localUrl": "/assets/vocab/garden-object-4.png",
+      "sourcePath": "docs/vocabulary-assets/garden-object-4.png",
+      "storagePath": "vocabulary/e6fc01f9fe736caadb55-garden-object-4.png",
+      "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/vocabulary/e6fc01f9fe736caadb55-garden-object-4.png",
+      "sha256": "e6fc01f9fe736caadb55490a88eb8cb5004f35ee3b51e56d782c5de90686edcc",
+      "bytes": 1602406
+    },
+    {
+      "localUrl": "/assets/vocab/garden-object-5.png",
+      "sourcePath": "docs/vocabulary-assets/garden-object-5.png",
+      "storagePath": "vocabulary/c65a214b24e10a4d4475-garden-object-5.png",
+      "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/vocabulary/c65a214b24e10a4d4475-garden-object-5.png",
+      "sha256": "c65a214b24e10a4d44757f222a619d44f747b284c18bde447a733761eb8bf112",
+      "bytes": 1380931
+    },
+    {
+      "localUrl": "/assets/vocab/garden-object-6.png",
+      "sourcePath": "docs/vocabulary-assets/garden-object-6.png",
+      "storagePath": "vocabulary/c93e4c7b45860684c2e9-garden-object-6.png",
+      "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/vocabulary/c93e4c7b45860684c2e9-garden-object-6.png",
+      "sha256": "c93e4c7b45860684c2e9e4944c1691f31820175b2404258c7efb21861e36aac3",
+      "bytes": 1150598
+    },
+    {
+      "localUrl": "/assets/vocab/kitchen-background.png",
+      "sourcePath": "docs/vocabulary-assets/kitchen-background.png",
+      "storagePath": "vocabulary/d8b78b7abc2933fd8eef-kitchen-background.png",
+      "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/vocabulary/d8b78b7abc2933fd8eef-kitchen-background.png",
+      "sha256": "d8b78b7abc2933fd8eef74d2222c21a2ab94dc5e152be71bdc68c1a47f0880d0",
+      "bytes": 2115187
+    },
+    {
+      "localUrl": "/assets/vocab/kitchen-object-1.png",
+      "sourcePath": "docs/vocabulary-assets/kitchen-object-1.png",
+      "storagePath": "vocabulary/ca55af6c9b4a11436d7e-kitchen-object-1.png",
+      "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/vocabulary/ca55af6c9b4a11436d7e-kitchen-object-1.png",
+      "sha256": "ca55af6c9b4a11436d7e333fdf05e585ffe72a561b79b1edcd09ce29443dda3d",
+      "bytes": 1496216
+    },
+    {
+      "localUrl": "/assets/vocab/kitchen-object-2.png",
+      "sourcePath": "docs/vocabulary-assets/kitchen-object-2.png",
+      "storagePath": "vocabulary/f381d9f71a23b4d96d5e-kitchen-object-2.png",
+      "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/vocabulary/f381d9f71a23b4d96d5e-kitchen-object-2.png",
+      "sha256": "f381d9f71a23b4d96d5eeb8fb97b1f3177c39ca2174cd7086a36fd473537e855",
+      "bytes": 1288241
+    },
+    {
+      "localUrl": "/assets/vocab/kitchen-object-3.png",
+      "sourcePath": "docs/vocabulary-assets/kitchen-object-3.png",
+      "storagePath": "vocabulary/4f7e2ba5354ecb603ede-kitchen-object-3.png",
+      "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/vocabulary/4f7e2ba5354ecb603ede-kitchen-object-3.png",
+      "sha256": "4f7e2ba5354ecb603ede59801163696e2f5114d2edc0b1f74e076e32d7b96fb3",
+      "bytes": 1130818
+    },
+    {
+      "localUrl": "/assets/vocab/kitchen-object-4.png",
+      "sourcePath": "docs/vocabulary-assets/kitchen-object-4.png",
+      "storagePath": "vocabulary/9ba2860f7ac8ebeaa9b3-kitchen-object-4.png",
+      "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/vocabulary/9ba2860f7ac8ebeaa9b3-kitchen-object-4.png",
+      "sha256": "9ba2860f7ac8ebeaa9b3156bffd8ffe62340942e6368bc7a099eb7911537f55d",
+      "bytes": 1199262
+    },
+    {
+      "localUrl": "/assets/vocab/kitchen-object-5.png",
+      "sourcePath": "docs/vocabulary-assets/kitchen-object-5.png",
+      "storagePath": "vocabulary/5ee6a18b698b6d19805f-kitchen-object-5.png",
+      "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/vocabulary/5ee6a18b698b6d19805f-kitchen-object-5.png",
+      "sha256": "5ee6a18b698b6d19805f57827c8b69ed98888bead0e4160b078e2d80f2c8563f",
+      "bytes": 613159
+    },
+    {
+      "localUrl": "/assets/vocab/kitchen-object-6.png",
+      "sourcePath": "docs/vocabulary-assets/kitchen-object-6.png",
+      "storagePath": "vocabulary/af3cb0b30e49452a6bff-kitchen-object-6.png",
+      "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/vocabulary/af3cb0b30e49452a6bff-kitchen-object-6.png",
+      "sha256": "af3cb0b30e49452a6bff111ea6bfb0c739f519726bf984c42bd3646f8de1674c",
+      "bytes": 1061252
+    },
+    {
+      "localUrl": "/assets/vocab/study-background.png",
+      "sourcePath": "docs/vocabulary-assets/study-background.png",
+      "storagePath": "vocabulary/a44e1fe58dc522dddcea-study-background.png",
+      "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/vocabulary/a44e1fe58dc522dddcea-study-background.png",
+      "sha256": "a44e1fe58dc522dddceaa3f41a15cb4f0f2bcec981171b4573720593d0a78bc6",
+      "bytes": 1941903
+    },
+    {
+      "localUrl": "/assets/vocab/study-object-1.png",
+      "sourcePath": "docs/vocabulary-assets/study-object-1.png",
+      "storagePath": "vocabulary/01e60aa0d1f2f693a9e5-study-object-1.png",
+      "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/vocabulary/01e60aa0d1f2f693a9e5-study-object-1.png",
+      "sha256": "01e60aa0d1f2f693a9e59293746862d26fed1d299c24f59cf2b1192c8128cb79",
+      "bytes": 1366241
+    },
+    {
+      "localUrl": "/assets/vocab/study-object-2.png",
+      "sourcePath": "docs/vocabulary-assets/study-object-2.png",
+      "storagePath": "vocabulary/915d0a66d3055fda285e-study-object-2.png",
+      "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/vocabulary/915d0a66d3055fda285e-study-object-2.png",
+      "sha256": "915d0a66d3055fda285e2a1c170d2ebe01a5b660cfc8e1b2e99c4fdf861b83c4",
+      "bytes": 848364
+    },
+    {
+      "localUrl": "/assets/vocab/study-object-3.png",
+      "sourcePath": "docs/vocabulary-assets/study-object-3.png",
+      "storagePath": "vocabulary/0ea93557dfdb161a400b-study-object-3.png",
+      "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/vocabulary/0ea93557dfdb161a400b-study-object-3.png",
+      "sha256": "0ea93557dfdb161a400bdee7edc214b53ee2ec1bd3bc3c2243c29762e0c636dc",
+      "bytes": 1512544
+    },
+    {
+      "localUrl": "/assets/vocab/study-object-4.png",
+      "sourcePath": "docs/vocabulary-assets/study-object-4.png",
+      "storagePath": "vocabulary/6aea62d61388c58d99c0-study-object-4.png",
+      "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/vocabulary/6aea62d61388c58d99c0-study-object-4.png",
+      "sha256": "6aea62d61388c58d99c0ada70d82302b0a699b36ba938cb8e7be837f90863938",
+      "bytes": 1574254
+    },
+    {
+      "localUrl": "/assets/vocab/study-object-5.png",
+      "sourcePath": "docs/vocabulary-assets/study-object-5.png",
+      "storagePath": "vocabulary/47b92e314b00a079ba1a-study-object-5.png",
+      "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/vocabulary/47b92e314b00a079ba1a-study-object-5.png",
+      "sha256": "47b92e314b00a079ba1a362697ff78e8ed4e3f5ed2b95979c14d1f44c91e0485",
+      "bytes": 1836891
+    },
+    {
+      "localUrl": "/assets/vocab/study-object-6.png",
+      "sourcePath": "docs/vocabulary-assets/study-object-6.png",
+      "storagePath": "vocabulary/edce37869f21d8ae8bfe-study-object-6.png",
+      "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/vocabulary/edce37869f21d8ae8bfe-study-object-6.png",
+      "sha256": "edce37869f21d8ae8bfe512ab6f5a82df9bc6609b51aeba468d28d2f41d9ff05",
+      "bytes": 918605
+    },
+    {
+      "localUrl": "/assets/vocab/supermarket-background.png",
+      "sourcePath": "docs/vocabulary-assets/supermarket-background.png",
+      "storagePath": "vocabulary/3096c761406fd44729bf-supermarket-background.png",
+      "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/vocabulary/3096c761406fd44729bf-supermarket-background.png",
+      "sha256": "3096c761406fd44729bf908232c64bdc9528fb6f23492ef82c7400d2288420e4",
+      "bytes": 1914171
+    },
+    {
+      "localUrl": "/assets/vocab/supermarket-object-1.png",
+      "sourcePath": "docs/vocabulary-assets/supermarket-object-1.png",
+      "storagePath": "vocabulary/f9f8f41a0738862e5e67-supermarket-object-1.png",
+      "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/vocabulary/f9f8f41a0738862e5e67-supermarket-object-1.png",
+      "sha256": "f9f8f41a0738862e5e674309fbf4f51a3de61a418f0ed0c9f9ba83db7c1226cf",
+      "bytes": 1834712
+    },
+    {
+      "localUrl": "/assets/vocab/supermarket-object-2.png",
+      "sourcePath": "docs/vocabulary-assets/supermarket-object-2.png",
+      "storagePath": "vocabulary/22d371001096830a7813-supermarket-object-2.png",
+      "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/vocabulary/22d371001096830a7813-supermarket-object-2.png",
+      "sha256": "22d371001096830a781315c6eb5feaefacd5945a2d6b9056ea8b7fe166215dbe",
+      "bytes": 849217
+    },
+    {
+      "localUrl": "/assets/vocab/supermarket-object-3.png",
+      "sourcePath": "docs/vocabulary-assets/supermarket-object-3.png",
+      "storagePath": "vocabulary/886a7fc29c044c849cda-supermarket-object-3.png",
+      "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/vocabulary/886a7fc29c044c849cda-supermarket-object-3.png",
+      "sha256": "886a7fc29c044c849cdad5dd87734f76691765f08df5a1c629cb974166d0e9ea",
+      "bytes": 2366033
+    },
+    {
+      "localUrl": "/assets/vocab/supermarket-object-4.png",
+      "sourcePath": "docs/vocabulary-assets/supermarket-object-4.png",
+      "storagePath": "vocabulary/1b6b8cbda945e9606b57-supermarket-object-4.png",
+      "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/vocabulary/1b6b8cbda945e9606b57-supermarket-object-4.png",
+      "sha256": "1b6b8cbda945e9606b575a4c69c5a5e3a466747d94618ccd033ba60eb767023c",
+      "bytes": 1240117
+    },
+    {
+      "localUrl": "/assets/vocab/supermarket-object-5.png",
+      "sourcePath": "docs/vocabulary-assets/supermarket-object-5.png",
+      "storagePath": "vocabulary/83671f7dfe63a5cd3b2e-supermarket-object-5.png",
+      "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/vocabulary/83671f7dfe63a5cd3b2e-supermarket-object-5.png",
+      "sha256": "83671f7dfe63a5cd3b2ef4049e6ad7acf1bec6062a53ada0f55d7064abcb6cc5",
+      "bytes": 1489198
+    },
+    {
+      "localUrl": "/assets/vocab/supermarket-object-6.png",
+      "sourcePath": "docs/vocabulary-assets/supermarket-object-6.png",
+      "storagePath": "vocabulary/7dc65e15f0f6c6798e89-supermarket-object-6.png",
+      "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/vocabulary/7dc65e15f0f6c6798e89-supermarket-object-6.png",
+      "sha256": "7dc65e15f0f6c6798e89293dc7a1b60b47a4e14ed4a259c3c83e54dec6970e2b",
+      "bytes": 1309711
+    }
+  ]
+}

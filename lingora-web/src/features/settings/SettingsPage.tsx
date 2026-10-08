@@ -3,6 +3,7 @@ import { createPortal } from 'react-dom';
 import type { User } from '../users';
 import { userApi } from '../users';
 import { LessonBuilder } from './LessonBuilder';
+import { VocabularyBuilder } from '../vocabulary/VocabularyBuilder';
 import { SettingsDialog } from '../../components/SettingsDialog';
 import { moveItem, replaceGroupOrder } from './reorder';
 import { useDragReorder } from './useDragReorder';
@@ -22,7 +23,7 @@ type SettingsPageProps = {
   themeControl?: ReactNode;
 };
 
-type SettingsMenu = 'users' | 'lesson-builder' | MasterResource;
+type SettingsMenu = 'users' | 'lesson-builder' | 'vocabulary' | MasterResource;
 type ConfirmAction =
   | { type: 'save-row'; id: string }
   | { type: 'save-all' }
@@ -141,6 +142,7 @@ const menuItems: Array<{ id: SettingsMenu; label: string; group: 'Account' | 'Ma
   { id: 'modules', label: 'Modules', group: 'Master data' },
   { id: 'lessons', label: 'Lessons', group: 'Master data' },
   { id: 'lesson-builder', label: 'Lesson builder', group: 'Master data' },
+  { id: 'vocabulary', label: 'Vocabulary', group: 'Master data' },
   { id: 'enrollments', label: 'Enrollments', group: 'Master data' },
   { id: 'progress', label: 'Progress', group: 'Master data' },
 ];
@@ -484,6 +486,7 @@ function MasterInput({
 
 export function SettingsPage({ currentUser, onCurrentUserChange, onBack, themeControl }: SettingsPageProps) {
   const [activeMenu, setActiveMenu] = useState<SettingsMenu>('users');
+  const [vocabularyDirty, setVocabularyDirty] = useState(false);
   const [users, setUsers] = useState<User[]>([]);
   const [masterRows, setMasterRows] = useState<MasterRow[]>([]);
   const [masterFields, setMasterFields] = useState<MasterField[]>([]);
@@ -587,7 +590,7 @@ export function SettingsPage({ currentUser, onCurrentUserChange, onBack, themeCo
           setMasterReferences({});
           setMasterDrafts({});
         })
-      : activeMenu === 'lesson-builder'
+      : (activeMenu === 'lesson-builder' || activeMenu === 'vocabulary')
         ? Promise.resolve().then(() => {
             if (cancelled) return;
             setUsers([]);
@@ -723,7 +726,7 @@ export function SettingsPage({ currentUser, onCurrentUserChange, onBack, themeCo
   }
 
   async function reorderMasterRows(sourceId: string, targetId: string) {
-    if (!sortable || busy || reorderPending.current || activeMenu === 'users' || activeMenu === 'lesson-builder') return;
+    if (!sortable || busy || reorderPending.current || activeMenu === 'users' || (activeMenu === 'lesson-builder' || activeMenu === 'vocabulary')) return;
     const source = masterRows.find(row => row.id === sourceId);
     const target = masterRows.find(row => row.id === targetId);
     if (!source || !target || (groupFieldName && source[groupFieldName] !== target[groupFieldName])) return;
@@ -802,7 +805,7 @@ export function SettingsPage({ currentUser, onCurrentUserChange, onBack, themeCo
   }
 
   async function saveMasterRow(id: string) {
-    if (activeMenu === 'users' || activeMenu === 'lesson-builder') return;
+    if (activeMenu === 'users' || (activeMenu === 'lesson-builder' || activeMenu === 'vocabulary')) return;
     const draft = masterDrafts[id];
     if (!draft) return;
     const { row } = await settingsApi.updateMaster(activeMenu, id, editableValues(draft, masterFields));
@@ -810,7 +813,7 @@ export function SettingsPage({ currentUser, onCurrentUserChange, onBack, themeCo
   }
 
   async function saveAllMasterRows() {
-    if (activeMenu === 'users' || activeMenu === 'lesson-builder' || dirtyIds.length === 0) return;
+    if (activeMenu === 'users' || (activeMenu === 'lesson-builder' || activeMenu === 'vocabulary') || dirtyIds.length === 0) return;
     const changes = dirtyIds.flatMap((id) => {
       const draft = masterDrafts[id];
       return draft ? [{ id, values: editableValues(draft, masterFields) }] : [];
@@ -820,7 +823,7 @@ export function SettingsPage({ currentUser, onCurrentUserChange, onBack, themeCo
   }
 
   async function deleteMasterRow(id: string) {
-    if (activeMenu === 'users' || activeMenu === 'lesson-builder') return;
+    if (activeMenu === 'users' || (activeMenu === 'lesson-builder' || activeMenu === 'vocabulary')) return;
     await settingsApi.deleteMaster(activeMenu, id);
     setMasterRows((rows) => rows.filter((row) => row.id !== id));
     setMasterDrafts((drafts) => {
@@ -855,7 +858,7 @@ export function SettingsPage({ currentUser, onCurrentUserChange, onBack, themeCo
 
   async function createMasterRow(event: FormEvent<HTMLFormElement>) {
     event.preventDefault();
-    if (activeMenu === 'users' || activeMenu === 'lesson-builder') return;
+    if (activeMenu === 'users' || (activeMenu === 'lesson-builder' || activeMenu === 'vocabulary')) return;
     setBusy(true);
     setError('');
     try {
@@ -969,7 +972,7 @@ export function SettingsPage({ currentUser, onCurrentUserChange, onBack, themeCo
   return (
     <div className="settings-page">
       <aside className="settings-sidebar">
-        <button className="settings-back" type="button" onClick={onBack}>← Back to globe</button>
+        <button className="settings-back" type="button" onClick={() => { if (!vocabularyDirty || window.confirm('Discard unsaved vocabulary changes?')) onBack(); }}>← Back to globe</button>
         <div className="settings-brand">Lingora <span>Settings</span></div>
         {(['Account', 'Master data'] as const).map((group) => (
           <div className="settings-menu-group" key={group}>
@@ -980,7 +983,7 @@ export function SettingsPage({ currentUser, onCurrentUserChange, onBack, themeCo
                 type="button"
                 data-guide-target={item.id}
                 className={activeMenu === item.id ? 'is-active' : ''}
-                onClick={() => setActiveMenu(item.id)}
+                onClick={() => { if (item.id === activeMenu || !vocabularyDirty || window.confirm('Discard unsaved vocabulary changes?')) setActiveMenu(item.id); }}
               >
                 {item.label}
               </button>
@@ -989,7 +992,7 @@ export function SettingsPage({ currentUser, onCurrentUserChange, onBack, themeCo
         ))}
       </aside>
 
-      <main className={'settings-content' + (activeMenu === 'lesson-builder' ? ' is-builder' : '')}>
+      <main className={'settings-content' + ((activeMenu === 'lesson-builder' || activeMenu === 'vocabulary') ? ' is-builder' : '')}>
         <header className="settings-header">
           <div><span className="auth-eyebrow">Super admin</span><h1>{activeLabel}</h1></div>
           <div className="settings-header-tools">
@@ -1122,8 +1125,8 @@ export function SettingsPage({ currentUser, onCurrentUserChange, onBack, themeCo
               </table>
             </div>
           </section>
-        ) : activeMenu === 'lesson-builder' ? (
-          <LessonBuilder />
+        ) : (activeMenu === 'lesson-builder' || activeMenu === 'vocabulary') ? (
+          activeMenu === 'vocabulary' ? <VocabularyBuilder onDirtyChange={setVocabularyDirty} /> : <LessonBuilder />
         ) : (
           <section className="settings-panel master-editor-panel">
             <div className="settings-panel-heading master-heading">
@@ -1278,7 +1281,7 @@ export function SettingsPage({ currentUser, onCurrentUserChange, onBack, themeCo
         );
       })()}
 
-      {createOpen && activeMenu !== 'users' && activeMenu !== 'lesson-builder' && (
+      {createOpen && activeMenu !== 'users' && activeMenu !== 'lesson-builder' && activeMenu !== 'vocabulary' && (
         <SettingsDialog className="master-create-modal" labelledBy="create-master-title" busy={busy} onClose={() => setCreateOpen(false)}>
             <div className="settings-modal-heading"><div><span className="auth-eyebrow">Create master data</span><h2 id="create-master-title">New {createLabel}</h2></div><button type="button" aria-label="Close" disabled={busy} onClick={() => setCreateOpen(false)}>×</button></div>
             <form onSubmit={(event) => void createMasterRow(event)}>

@@ -10,12 +10,16 @@ import { SettingsPage } from './features/settings/SettingsPage';
 import { ThemeToggle } from './features/theme/ThemeToggle';
 import { useThemePreference } from './features/theme/theme';
 import type { User } from './features/users';
+import { VocabularyExplorer } from './features/vocabulary/VocabularyExplorer';
+import { vocabularyReaderCache } from './features/vocabulary/api';
+import './features/vocabulary/vocabulary.css';
 import { SelectionReader } from './features/speech/SelectionReader';
 import './style.css';
 
-type AppView = 'landing' | 'app' | 'settings' | 'learning';
+type AppView = 'landing' | 'app' | 'settings' | 'learning' | 'vocab';
 
 function viewFromHash(): AppView {
+  if (/^#vocab(?:\/|$)/.test(window.location.hash)) return 'vocab';
   if (/^#courses(?:\/|$)/.test(window.location.hash)) return 'learning';
   if (window.location.hash === '#settings') return 'settings';
   if (window.location.hash === '#app') return 'app';
@@ -49,6 +53,9 @@ export default function App() {
   const [profileOpen, setProfileOpen] = useState(false);
   const [view, setView] = useState<AppView>(() => viewFromHash());
   const [learningRoute, setLearningRoute] = useState(() => window.location.hash);
+  const vocabLeaveGuard = useRef<(() => boolean) | null>(null);
+  const acceptedHash = useRef(window.location.hash);
+  const setVocabLeaveGuard = useCallback((guard: (() => boolean) | null) => { vocabLeaveGuard.current = guard; }, []);
   const pendingLearningRoute = useRef(/^#courses(?:\/|$)/.test(window.location.hash) ? window.location.hash : '');
   const profileMenuRef = useRef<HTMLDivElement>(null);
   const { preference: theme, resolvedTheme, setPreference: setTheme } = useThemePreference();
@@ -74,7 +81,13 @@ export default function App() {
   }, []);
 
   useEffect(() => {
-    const syncView = () => { setView(viewFromHash()); setLearningRoute(window.location.hash); window.scrollTo(0, 0); };
+    const syncView = () => {
+      if (window.location.hash !== acceptedHash.current && vocabLeaveGuard.current && !vocabLeaveGuard.current()) {
+        window.history.replaceState(null, '', `${window.location.pathname}${window.location.search}${acceptedHash.current}`); return;
+      }
+      acceptedHash.current = window.location.hash;
+      setView(viewFromHash()); setLearningRoute(window.location.hash); window.scrollTo(0, 0);
+    };
     window.addEventListener('hashchange', syncView);
     return () => window.removeEventListener('hashchange', syncView);
   }, []);
@@ -115,8 +128,8 @@ export default function App() {
       return;
     }
 
-    if ((view === 'app' || view === 'learning') && !user) {
-      if (view === 'learning') { pendingLearningRoute.current = window.location.hash; setAuthOpen(true); }
+    if ((view === 'app' || view === 'learning' || view === 'vocab') && !user) {
+      if (view === 'learning' || view === 'vocab') { pendingLearningRoute.current = window.location.hash; setAuthOpen(true); }
       window.location.hash = '';
       setView('landing');
     }
@@ -143,12 +156,15 @@ export default function App() {
   }, []);
 
   async function signOut() {
+    if (vocabLeaveGuard.current && !vocabLeaveGuard.current()) return;
+    vocabLeaveGuard.current = null;
     setProfileOpen(false);
     pendingLearningRoute.current = '';
     try {
       await authApi.signOut();
     } finally {
       window.google?.accounts.id.disableAutoSelect();
+      vocabularyReaderCache.clear();
       setUser(null);
       setAuthError('');
       setAuthOpen(false);
@@ -169,6 +185,8 @@ export default function App() {
 
   function openSettings() {
     if (!user?.isSuperAdmin) return;
+    if (vocabLeaveGuard.current && !vocabLeaveGuard.current()) return;
+    vocabLeaveGuard.current = null;
     setProfileOpen(false);
     window.location.hash = 'settings';
     setView('settings');
@@ -272,6 +290,8 @@ export default function App() {
           onBack={backToGlobe}
           themeControl={<ThemeToggle value={theme} onChange={setTheme} compact />}
         />
+      ) : view === 'vocab' && user ? (
+        <VocabularyExplorer route={learningRoute} accountSlot={accountSlot} isAdmin={user.isSuperAdmin} onLeaveGuardChange={setVocabLeaveGuard} />
       ) : view === 'learning' && user ? (
         <LearningPage key={learningRoute} accountSlot={accountSlot} isAdmin={user.isSuperAdmin} />
       ) : view === 'app' && user ? (

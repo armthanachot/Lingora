@@ -13,7 +13,9 @@
     "db:seed:globe": "bun src/db/seed-globe.ts",
     "db:seed:levels": "bun src/db/seed-levels.ts",
     "db:seed:english-beginner-1": "bun src/db/seed-english-beginner-1.ts",
-    "db:promote-super-admin": "bun src/db/promote-super-admin.ts"
+    "db:promote-super-admin": "bun src/db/promote-super-admin.ts",
+    "db:seed:vocabulary": "bun src/db/seed-vocabulary.ts",
+    "db:migrate:vocabulary-assets": "bun src/db/migrate-vocabulary-assets.ts"
   },
   "dependencies": {
     "@elysia/cors": "1.4.2",

@@ -12,6 +12,7 @@ import { lessonRoutes } from './modules/lessons/routes';
 import { moduleRoutes } from './modules/modules/routes';
 import { progressRoutes } from './modules/progress/routes';
 import { userRoutes } from './modules/users/routes';
+import { vocabularyRoutes, adminVocabularyRoutes } from './modules/vocabulary/routes';
 
 const port = Number(process.env.API_PORT ?? 3001);
 if (!Number.isInteger(port) || port < 1 || port > 65535) throw new Error('API_PORT must be a valid port.');
@@ -24,6 +25,8 @@ new Elysia()
   .use(lessonBuilderRoutes)
   .use(homeRoutes)
   .use(userRoutes)
+  .use(vocabularyRoutes)
+  .use(adminVocabularyRoutes)
   .use(languageRoutes)
   .use(courseRoutes)
   .use(moduleRoutes)
