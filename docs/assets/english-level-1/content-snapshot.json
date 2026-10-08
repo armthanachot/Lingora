@@ -1,0 +1,642 @@
+[
+  {
+    "course": "English for Beginners — Level 1",
+    "module": "Hello, English!",
+    "module_order": 1,
+    "lesson_id": "6739cfa0-36ff-4fff-afdd-41ff127a8c8b",
+    "lesson": "Hello & Goodbye",
+    "lesson_order": 1,
+    "is_published": false,
+    "block_id": "54510780-efc4-4f9e-ab7c-d228f2bd9a8d",
+    "type": "reading",
+    "content": {
+      "body": "![Hello & Goodbye — friends waving outside a cozy cafe](https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/lesson-covers/hello-goodbye-ad2d3b69-3d53-452d-862f-e401b3de7de0.png)\n\n**เป้าหมาย:** ทักทายและบอกลาเป็นภาษาอังกฤษได้ในร้านกาแฟ ที่ทำงาน และกับเพื่อน\n\n1. เริ่มต้นด้วยคำง่าย ๆ\nHello. = สวัสดี ใช้ได้ทั้งกับคนรู้จักและคนที่เพิ่งพบ\nHi! = หวัดดี เป็นกันเอง เหมาะกับเพื่อนหรือเพื่อนร่วมงาน\nGood morning. = สวัสดีตอนเช้า\nGood afternoon. = สวัสดีตอนบ่าย\nGood evening. = สวัสดีตอนเย็น\n\nเลือกใช้คำทักทายเพียงคำเดียวก็พอ และตอบกลับด้วยคำเดียวกันได้ เช่น อีกฝ่ายพูด “Hello.” เราตอบ “Hello.”\n\n2. ที่ร้านกาแฟตอนเช้า\nคุณเดินเข้าร้านเวลา 8 โมงเช้า\nBarista: Good morning!\nYou: Good morning. A coffee, please.\nBarista: Here you go.\nYou: Thank you. Bye!\nBarista: Bye. Have a nice day!\n\nA coffee, please. = ขอกาแฟหนึ่งแก้วครับ/ค่ะ\nThank you. = ขอบคุณ\nHave a nice day! = ขอให้วันนี้เป็นวันที่ดี\nคำทักทายสั้น ๆ ก่อนสั่งของช่วยให้บทสนทนาดูสุภาพและเป็นธรรมชาติ\n\n3. เจอเพื่อนร่วมงาน แล้วแยกย้าย\nคุณพบ Sam ที่ทำงาน และจะเจอกันอีกพรุ่งนี้\nYou: Hi, Sam!\nSam: Hi!\n[ก่อนกลับบ้าน]\nYou: Bye, Sam. See you tomorrow!\nSam: See you tomorrow!\n\nSee you tomorrow! = แล้วเจอกันพรุ่งนี้ ใช้เมื่อคาดว่าจะเจอกันพรุ่งนี้\nSee you later! = แล้วเจอกัน ใช้บอกลาแบบเป็นกันเอง\nGoodbye. = ลาก่อน ใช้ได้ทั่วไป แต่ “Bye!” มักเป็นธรรมชาติกว่าในบทสนทนาสบาย ๆ\n\n4. ตอนกลางคืน: ทักทายกับบอกลาใช้คนละคำ\nเมื่อเจอพนักงานโรงแรมตอน 2 ทุ่ม: “Good evening.”\nเมื่อบอกลาก่อนเข้านอน: “Good night.”\n\n<u>จำง่าย ๆ:</u> Good evening ใช้เมื่อเริ่มคุยตอนเย็น ส่วน Good night ใช้บอกลาตอนกลางคืนหรือก่อนนอน\n\n<span class=\"reading-color-purple\">ลองพูดด้วยตัวเอง</span>\n• เจอพนักงานร้านตอน 9 โมงเช้า → “Good morning.”\n• เจอเพื่อน → “Hi!”\n• กลับบ้านและจะเจอเพื่อนร่วมงานพรุ่งนี้ → “Bye. See you tomorrow!”\n• บอกลาก่อนเข้านอน → “Good night.”\n\n*ภารกิจวันนี้:* ครั้งถัดไปที่เข้าร้านหรือเจอเพื่อนร่วมงาน ลองใช้คำทักทายหนึ่งคำและคำบอกลาหนึ่งประโยค พูดช้า ๆ ชัด ๆ ก็พอ ไม่ต้องพูดยาวครับ/ค่ะ",
+      "title": "Hello & Goodbye: English for Everyday Moments",
+      "format": "markdown"
+    },
+    "settings": {
+      "textSize": "medium",
+      "alignment": "left"
+    }
+  },
+  {
+    "course": "English for Beginners — Level 1",
+    "module": "Hello, English!",
+    "module_order": 1,
+    "lesson_id": "d6aa5fe1-28f2-40c7-92f3-f35a158c4b7a",
+    "lesson": "My Name Is…",
+    "lesson_order": 2,
+    "is_published": false,
+    "block_id": "e9902ecc-b627-4f2e-ad62-fe180c136fc7",
+    "type": "reading",
+    "content": {
+      "body": "**เป้าหมาย:** บอกชื่อ ถามชื่อ และขอให้อีกฝ่ายพูดซ้ำอย่างสุภาพ\n\n## 1. ประโยคที่ใช้ได้ทันที\n| English | ใช้เมื่อไร / ความหมาย |\n| --- | --- |\n| My name is Mina. | ฉันชื่อ Mina — สุภาพและชัดเจน |\n| I'm Mina. | ฉันชื่อ Mina — ใช้คุยทั่วไป |\n| What's your name? | คุณชื่ออะไร |\n| How do you spell that? | สะกดอย่างไร |\n| Could you say that again, please? | ช่วยพูดอีกครั้งได้ไหม |\n\n**I'm = I am** และ **What's = What is** เมื่อบอกชื่อ ใช้ I am / My name is ไม่ใช้ I is\n\n## 2. ใช้จริง: วันแรกที่คลาสภาษา\n> Mina: Hi! I'm Mina. What's your name?\n> Alex: I'm Alex.\n> Mina: How do you spell that?\n> Alex: A-L-E-X.\n> Mina: Thanks, Alex!\n\n## 3. ถ้าฟังชื่อไม่ทัน\nไม่ต้องเดาหรือแกล้งเข้าใจ ลองพูด **Could you say that again, please?** แล้วทวนชื่อ: **Alex?** อีกฝ่ายยืนยันด้วย **Yes.** ได้\n\n<u>จำง่าย ๆ:</u> ชื่อของเราคือ **My name** แต่ถ้าถามชื่ออีกฝ่ายใช้ **your name**\n\n## 4. ลองทำก่อนดูเฉลย\n1. เติม: My name ___ Pim.\n2. อีกฝ่ายพูดชื่อเร็วมาก ควรขออย่างไร?\n3. เปลี่ยน “My name is Ben.” ให้เป็นประโยคสั้น\n\n**เฉลย:** 1. is  2. Could you say that again, please?  3. I'm Ben.\n\n## ภารกิจวันนี้\nเขียนชื่อของคุณแทน Mina แล้วพูดทั้ง “My name is …” และ “I'm …” จากนั้นฝึกถามชื่อเพื่อนหนึ่งครั้ง ไม่จำเป็นต้องใช้ชื่อภาษาอังกฤษ\n",
+      "title": "My Name Is…: แนะนำชื่อและถามชื่ออย่างมั่นใจ",
+      "format": "markdown"
+    },
+    "settings": {
+      "textSize": "medium",
+      "alignment": "left"
+    }
+  },
+  {
+    "course": "English for Beginners — Level 1",
+    "module": "Hello, English!",
+    "module_order": 1,
+    "lesson_id": "5e5becd3-535c-4316-8775-c7857cf03a36",
+    "lesson": "How Are You?",
+    "lesson_order": 3,
+    "is_published": false,
+    "block_id": "d8b0300c-73ec-4fa1-bdf8-29445db190f1",
+    "type": "reading",
+    "content": {
+      "body": "**เป้าหมาย:** ถามว่าเป็นอย่างไร ตอบตามความรู้สึก และถามกลับได้\n\n## ประโยคสำคัญ\n| English | ความหมาย |\n| --- | --- |\n| How are you? | คุณเป็นอย่างไรบ้าง |\n| I'm good, thanks. | สบายดี ขอบคุณ |\n| I'm OK. | ก็โอเค |\n| I'm a little tired. | เหนื่อยนิดหน่อย |\n| And you? | แล้วคุณล่ะ |\n\n**I'm = I am** ใช้หน้าคำบอกความรู้สึก เช่น happy, tired, hungry ไม่ใช้ “I tired.”\n\n## ใช้จริง: เจอเพื่อนก่อนเริ่มงาน\n> Ben: Hi, Mina. How are you?\n> Mina: I'm good, thanks. And you?\n> Ben: I'm a little tired.\n> Mina: Let's get some coffee!\n\n“Let's get some coffee!” หมายถึงไปหากาแฟดื่มกัน ใช้ชวนแบบเป็นกันเอง\n\n## ไม่จำเป็นต้องตอบว่า Fine เสมอ\nถ้าสบายดีใช้ **I'm good.** ถ้าไม่ค่อยสบายใช้ **I'm not feeling well.** บอกสั้น ๆ ก็พอสำหรับการทักทาย ส่วน **How about you?** ใช้ถามกลับได้เช่นเดียวกับ And you?\n\n<u>จำง่าย ๆ:</u> ตอบความรู้สึก → ขอบคุณ → ถามกลับ\n\n## ลองทำก่อนดูเฉลย\n1. เติม: I'm good, ___. And you?\n2. แก้ “I tired.” ให้ถูก\n3. ลองตอบ How are you? ด้วยความรู้สึกจริงของคุณ\n\n**เฉลย:** 1. thanks  2. I'm tired.  3. ตัวอย่าง: I'm OK, thanks. And you?\n\n## ภารกิจวันนี้\nฝึกบทสนทนา 4 บรรทัดกับเพื่อน เปลี่ยน good เป็น happy หรือ a little tired ตามจริง ฟังคำตอบของอีกฝ่ายก่อนพูดต่อ\n",
+      "title": "How Are You?: ถามไถ่และตอบให้เป็นธรรมชาติ",
+      "format": "markdown"
+    },
+    "settings": {
+      "textSize": "medium",
+      "alignment": "left"
+    }
+  },
+  {
+    "course": "English for Beginners — Level 1",
+    "module": "Hello, English!",
+    "module_order": 1,
+    "lesson_id": "034b5742-5f36-4713-b9bf-502d3707dbf5",
+    "lesson": "Nice to Meet You",
+    "lesson_order": 4,
+    "is_published": false,
+    "block_id": "95b9ad45-c4a8-4c01-8f9d-629b2087d36a",
+    "type": "reading",
+    "content": {
+      "body": "**เป้าหมาย:** ใช้คำสุภาพเมื่อเพิ่งรู้จักใคร และแยกจากการทักคนที่เคยพบแล้ว\n\n## คำที่ใช้บ่อย\n- **Nice to meet you.** = ยินดีที่ได้รู้จัก\n- **Nice to meet you, too.** = ยินดีที่ได้รู้จักเช่นกัน\n- **This is Alex.** = นี่คือ Alex\n- **Nice to see you again.** = ดีใจที่ได้เจอคุณอีกครั้ง\n\n## ใช้จริง: เพื่อนแนะนำเพื่อนใหม่\n> Pim: Mina, this is Alex.\n> Mina: Hi, Alex. I'm Mina. Nice to meet you.\n> Alex: Nice to meet you, too.\n> Mina: Are you new here?\n> Alex: Yes, I am.\n\n**Are you new here?** = คุณเพิ่งมาที่นี่หรือเปล่า ใช้ต่อบทสนทนาที่คลาสหรือที่ทำงานได้\n\n## ครั้งแรกกับครั้งถัดไป\nครั้งแรกใช้ **Nice to meet you.** เมื่อพบคนเดิมวันถัดมาใช้ **Nice to see you again.** ไม่ต้องใช้ meet ทุกครั้ง\n\n<u>จำง่าย ๆ:</u> meet = ทำความรู้จัก / see again = เจอกันอีก\n\n## ลองทำก่อนดูเฉลย\n1. เจอเพื่อนของ Pim ครั้งแรก ควรใช้ meet หรือ see again?\n2. เติม: Nice to meet you, ___.\n3. แต่งบทแนะนำชื่อและบอกยินดีที่ได้รู้จัก 2 ประโยค\n\n**เฉลย:** 1. meet  2. too  3. ตัวอย่าง: I'm Tan. Nice to meet you.\n\n## ภารกิจวันนี้\nสมมติว่าเข้าเวิร์กช็อปใหม่ พูด “Hi, I'm [ชื่อ]. Nice to meet you.” แล้วสลับบทเป็นอีกฝ่ายและตอบกลับ เพียงยิ้มและทักก็ได้\n",
+      "title": "Nice to Meet You: รู้จักกันครั้งแรก",
+      "format": "markdown"
+    },
+    "settings": {
+      "textSize": "medium",
+      "alignment": "left"
+    }
+  },
+  {
+    "course": "English for Beginners — Level 1",
+    "module": "About Me",
+    "module_order": 2,
+    "lesson_id": "00f7027a-c86f-41b2-9e83-75eddad23cbe",
+    "lesson": "Countries & Nationalities",
+    "lesson_order": 1,
+    "is_published": false,
+    "block_id": "3d701219-446b-4af9-a135-49d551ce70a5",
+    "type": "reading",
+    "content": {
+      "body": "**เป้าหมาย:** บอกประเทศและสัญชาติ โดยเลือกคำให้ตรงหน้าที่\n\n## ประเทศกับสัญชาติ\n| ประเทศ | สัญชาติ |\n| --- | --- |\n| Thailand | Thai |\n| Japan | Japanese |\n| China | Chinese |\n| South Korea | Korean |\n| Australia | Australian |\n| the United States | American |\n| the United Kingdom | British |\n\nชื่อประเทศและสัญชาติขึ้นต้นด้วยตัวใหญ่เสมอ\n\n## สองโครงสร้างที่ใช้จริง\n- **I'm from Thailand.** = ฉันมาจากประเทศไทย\n- **I'm Thai.** = ฉันเป็นคนไทย\n\n<u>จำง่าย ๆ:</u> **from + ประเทศ** แต่ **I'm + สัญชาติ** ไม่ใช้ “I'm Thailand.”\n\n## ใช้จริง: เพื่อนร่วมคลาส\n> Mina: Where are you from?\n> Alex: I'm from Australia. And you?\n> Mina: I'm from Thailand. I'm Thai.\n> Alex: Nice to meet you!\n\nไม่เดาสัญชาติจากหน้าตาหรือชื่อ ประเทศที่มาจากกับสัญชาติอาจแตกต่างกันได้ ถ้าอีกฝ่ายสะดวกแบ่งปันจึงถามอย่างสุภาพ\n\n## ลองทำก่อนดูเฉลย\n1. เติม: I'm from ___. (Thailand / Thai)\n2. เติม: I'm ___. (Japan / Japanese)\n3. แก้ “I'm Australia.” ให้เป็นการบอกสัญชาติ\n\n**เฉลย:** 1. Thailand  2. Japanese  3. I'm Australian.\n\n## ภารกิจวันนี้\nเลือกสองประเทศจากตารางแล้วพูดทั้ง I'm from … และ I'm … โดยเลือกคำประเทศกับสัญชาติให้ตรงกัน\n",
+      "title": "Countries & Nationalities: ประเทศกับสัญชาติ",
+      "format": "markdown"
+    },
+    "settings": {
+      "textSize": "medium",
+      "alignment": "left"
+    }
+  },
+  {
+    "course": "English for Beginners — Level 1",
+    "module": "About Me",
+    "module_order": 2,
+    "lesson_id": "9188de50-a35b-4fab-9a32-8e324a221d30",
+    "lesson": "I Am From…",
+    "lesson_order": 2,
+    "is_published": false,
+    "block_id": "6f072794-e627-4a32-a39e-66fda049137a",
+    "type": "reading",
+    "content": {
+      "body": "**เป้าหมาย:** บอกว่ามาจากไหน อยู่ที่ไหน และถามกลับได้\n\n## โครงสร้างสำคัญ\n- **Where are you from?** = คุณมาจากไหน\n- **I'm from Chiang Mai.** = ฉันมาจากเชียงใหม่\n- **I live in Bangkok.** = ฉันอาศัยอยู่กรุงเทพฯ\n- **Where do you live?** = คุณอาศัยอยู่ที่ไหน\n\n**from** บอกที่มาหรือบ้านเกิด ส่วน **live in** บอกที่อยู่ปัจจุบัน สองคำตอบจึงต่างกันได้ ใช้ in หน้าชื่อเมืองหรือประเทศ\n\n## ใช้จริง: พบเพื่อนใหม่ในกรุงเทพฯ\n> Alex: Where are you from?\n> Pim: I'm from Chiang Mai, Thailand.\n> Alex: Do you live in Chiang Mai?\n> Pim: No. I live in Bangkok now. And you?\n> Alex: I live in Bangkok, too.\n\n**now** = ตอนนี้ / **too** = เช่นกัน\n\n## อย่าตัดคำสำคัญทิ้ง\n“I'm from Thailand.” ต้องมี **am** ซึ่งย่อใน I'm แล้ว ส่วน “I live in Bangkok.” ใช้กริยา live จึงไม่เติม am เป็น “I am live”\n\n## ลองทำก่อนดูเฉลย\n1. เติม: I'm ___ Thailand.\n2. เติม: I live ___ Bangkok.\n3. ถามที่อยู่ปัจจุบันใช้ Where are you from? หรือ Where do you live?\n\n**เฉลย:** 1. from  2. in  3. Where do you live?\n\n## ภารกิจวันนี้\nเขียนสองบรรทัด “I'm from …” และ “I live in …” โดยใช้แค่เมืองหรือประเทศ ไม่ต้องบอกที่อยู่บ้าน แล้วถามกลับด้วย And you?\n",
+      "title": "I Am From…: บอกบ้านเกิดและที่อยู่ปัจจุบัน",
+      "format": "markdown"
+    },
+    "settings": {
+      "textSize": "medium",
+      "alignment": "left"
+    }
+  },
+  {
+    "course": "English for Beginners — Level 1",
+    "module": "About Me",
+    "module_order": 2,
+    "lesson_id": "6ea44ad9-519b-435a-867d-b62392cb58da",
+    "lesson": "Languages I Speak",
+    "lesson_order": 3,
+    "is_published": false,
+    "block_id": "a954b761-50a4-48a9-ae21-2c768f7d29e9",
+    "type": "reading",
+    "content": {
+      "body": "**เป้าหมาย:** บอกภาษาที่พูดได้และขอความช่วยเหลือเมื่อฟังไม่ทัน\n\n## ประโยคใช้จริง\n- **I speak Thai.** = ฉันพูดภาษาไทย\n- **I speak a little English.** = ฉันพูดอังกฤษได้นิดหน่อย\n- **Do you speak English?** = คุณพูดอังกฤษไหม\n- **Please speak slowly.** = ช่วยพูดช้า ๆ\n- **I don't understand.** = ฉันไม่เข้าใจ\n\nใช้ **speak + ชื่อภาษา** ไม่เติม am และชื่อภาษาใช้ตัวใหญ่ เช่น English, Thai, Japanese, Chinese\n\n## ใช้จริง: ขอความช่วยเหลือที่เคาน์เตอร์\n> Pim: Hello. Do you speak English?\n> Staff: Yes, I do.\n> Pim: I speak a little English. Please speak slowly.\n> Staff: Of course. How can I help?\n> Pim: Where is the bus stop?\n\n**Of course.** = ได้เลย / **How can I help?** = ให้ช่วยอะไร\n\n## ประเทศ สัญชาติ ภาษา\nThailand คือประเทศ Thai ใช้ได้ทั้งสัญชาติและภาษา ส่วน English คือภาษา ไม่ใช่ชื่อประเทศ เราจึงพูด “I speak English.” ได้ ไม่ใช้ “I speak England.”\n\n## ลองทำก่อนดูเฉลย\n1. แก้ “I am speak Thai.”\n2. ถ้าฟังไม่ทัน ต้องการให้เขาพูดช้าใช้ประโยคไหน?\n3. เติม: I speak a ___ English.\n\n**เฉลย:** 1. I speak Thai.  2. Please speak slowly.  3. little\n\n## ภารกิจวันนี้\nพูด “I speak …” ตามภาษาที่คุณใช้ แล้วฝึก “I don't understand. Please speak slowly.” การขอให้พูดช้าช่วยให้คุยต่อได้แม้ยังเริ่มเรียน\n",
+      "title": "Languages I Speak: บอกภาษาที่พูดและขอให้พูดช้า",
+      "format": "markdown"
+    },
+    "settings": {
+      "textSize": "medium",
+      "alignment": "left"
+    }
+  },
+  {
+    "course": "English for Beginners — Level 1",
+    "module": "About Me",
+    "module_order": 2,
+    "lesson_id": "c4ec8de5-c374-464e-a24e-e9558491a558",
+    "lesson": "Introducing Myself",
+    "lesson_order": 4,
+    "is_published": false,
+    "block_id": "d2b5ec94-5176-4bb6-8f6e-c027e49d9cc8",
+    "type": "reading",
+    "content": {
+      "body": "**เป้าหมาย:** รวมชื่อ บ้านเกิด ที่อยู่ และภาษาให้เป็นการแนะนำตัวสั้น ๆ\n\n## สูตร 4 บรรทัด\n1. **Hi, I'm Pim.** — เริ่มทักและบอกชื่อ\n2. **I'm from Chiang Mai, Thailand.** — บอกที่มา\n3. **I live in Bangkok.** — บอกที่อยู่ปัจจุบัน\n4. **I speak Thai and a little English.** — บอกภาษาที่พูด\n\nปิดด้วย **Nice to meet you.** ถ้าเพิ่งรู้จักกัน และถามกลับ **What about you?** = แล้วคุณล่ะ\n\n## ตัวอย่าง: วันแรกในคลาส\n> Teacher: Please introduce yourself.\n> Pim: Hi, I'm Pim. I'm from Chiang Mai, Thailand. I live in Bangkok. I speak Thai and a little English. Nice to meet you.\n> Alex: Nice to meet you, Pim. I'm Alex. I'm from Australia.\n> Pim: Do you live in Bangkok?\n> Alex: Yes, I do.\n\n**Please introduce yourself.** = ช่วยแนะนำตัวหน่อย\n\n## ทำให้เป็นเรื่องของคุณ\nพูดเฉพาะข้อมูลที่สะดวกแบ่งปัน ใช้เมืองหรือประเทศก็พอ หากบ้านเกิดและที่อยู่เหมือนกัน จะพูด I'm from Bangkok. I live there, too. ก็ได้ **there** = ที่นั่น\n\n## ลองทำก่อนดูเฉลย\n1. เติม: I ___ Thai. (speak / am speak)\n2. เรียง: from / I'm / Thailand.\n3. คำไหนใช้ถามกลับ: What about you? หรือ Goodbye?\n\n**เฉลย:** 1. speak  2. I'm from Thailand.  3. What about you?\n\n## ภารกิจวันนี้\nเขียนบทแนะนำตัวตามสูตร 4 บรรทัด อ่านออกเสียงสองรอบ รอบที่สองลองมองแค่คำใบ้ ชื่อ → ที่มา → ที่อยู่ → ภาษา พูดช้าและหยุดระหว่างประโยคได้\n",
+      "title": "Introducing Myself: แนะนำตัวใน 30 วินาที",
+      "format": "markdown"
+    },
+    "settings": {
+      "textSize": "medium",
+      "alignment": "left"
+    }
+  },
+  {
+    "course": "English for Beginners — Level 1",
+    "module": "Numbers & Everyday Basics",
+    "module_order": 3,
+    "lesson_id": "dc3aa2bf-cbf2-4934-b7f8-142d97b72314",
+    "lesson": "Numbers 1–20",
+    "lesson_order": 1,
+    "is_published": false,
+    "block_id": "985fd9ed-be76-448a-8d68-005a276251e4",
+    "type": "reading",
+    "content": {
+      "body": "**เป้าหมาย:** อ่านตัวเลข 1–20 และใช้บอกจำนวนของหรือคน\n\n## ตารางตัวเลข\n| 1–10 | 11–20 |\n| --- | --- |\n| 1 one | 11 eleven |\n| 2 two | 12 twelve |\n| 3 three | 13 thirteen |\n| 4 four | 14 fourteen |\n| 5 five | 15 fifteen |\n| 6 six | 16 sixteen |\n| 7 seven | 17 seventeen |\n| 8 eight | 18 eighteen |\n| 9 nine | 19 nineteen |\n| 10 ten | 20 twenty |\n\nเริ่มจำ one–ten ก่อน แล้วสังเกตคำลงท้าย **-teen** ใน 13–19 โดย eleven กับ twelve เป็นคำเฉพาะ\n\n## ใช้จริง: ขอที่นั่งในร้าน\n> Staff: How many people?\n> You: Three people, please.\n> Staff: This way, please.\n> You: Thank you.\n\n**How many …?** = มีจำนวนเท่าไร / **This way, please.** = เชิญทางนี้\n\n## นับสิ่งของ\none cup → two cups / one ticket → five tickets เติม **s** เมื่อมีมากกว่าหนึ่ง แต่ people ใช้หมายถึงหลายคนอยู่แล้ว ไม่ใช้ three peoples ในตัวอย่างนี้\n\n## ลองทำก่อนดูเฉลย\n1. เขียน 7 เป็นคำอังกฤษ\n2. เลือก 15: fifteen หรือ fifty?\n3. ไปกับเพื่อนรวม 4 คน ตอบ How many people? อย่างไร?\n\n**เฉลย:** 1. seven  2. fifteen  3. Four people, please.\n\n## ภารกิจวันนี้\nนับของใกล้ตัว 5–10 ชิ้นเป็นอังกฤษ จากนั้นสุ่มเขียนเลข 11, 12, 13, 15, 18, 20 แล้วอ่านออกเสียงโดยไม่ดูตาราง\n",
+      "title": "Numbers 1–20: บอกจำนวนในชีวิตประจำวัน",
+      "format": "markdown"
+    },
+    "settings": {
+      "textSize": "medium",
+      "alignment": "left"
+    }
+  },
+  {
+    "course": "English for Beginners — Level 1",
+    "module": "Numbers & Everyday Basics",
+    "module_order": 3,
+    "lesson_id": "f9723456-eaeb-47dd-84f5-5d9cebf9d311",
+    "lesson": "Numbers 20–100",
+    "lesson_order": 2,
+    "is_published": false,
+    "block_id": "9e074a51-1a1d-451b-afa9-4e98c9ae83ac",
+    "type": "reading",
+    "content": {
+      "body": "**เป้าหมาย:** อ่านหลักสิบกับเลขสองหลัก และตรวจตัวเลขที่ฟังคล้ายกัน\n\n## หลักสิบที่ต้องจำ\n| เลข | English |\n| --- | --- |\n| 20 | twenty |\n| 30 | thirty |\n| 40 | forty |\n| 50 | fifty |\n| 60 | sixty |\n| 70 | seventy |\n| 80 | eighty |\n| 90 | ninety |\n| 100 | one hundred |\n\nผสมหลักสิบกับหลักหน่วย: **21 twenty-one**, **35 thirty-five**, **48 forty-eight**, **99 ninety-nine** เวลาเขียนคำใช้ขีดเชื่อมระหว่างหลักสิบกับหน่วย\n\n## ใช้จริง: ถามราคากาแฟ\nราคาต่อไปนี้เป็นตัวอย่างสำหรับฝึกภาษา\n> You: How much is the coffee?\n> Staff: Sixty baht.\n> You: Sixteen or sixty?\n> Staff: Sixty. Six-zero.\n> You: Thank you.\n\n**How much is …?** = ราคาเท่าไร / **baht** = บาท\n\n## ระวัง -teen กับ -ty\n16 **sixteen** / 60 **sixty** และ 13 **thirteen** / 30 **thirty** ฟังคล้ายกัน ถ้าไม่แน่ใจขอให้ทวนเป็นตัวเลขทีละหลัก เช่น Six-zero. ไม่ต้องเดาราคา\n\n## ลองทำก่อนดูเฉลย\n1. เขียน 40 เป็นคำอังกฤษ\n2. seventy-five คือเลขอะไร?\n3. ถ้าแยก 15 กับ 50 ไม่ออก ถามอย่างไร?\n\n**เฉลย:** 1. forty  2. 75  3. Fifteen or fifty?\n\n## ภารกิจวันนี้\nจดราคาสมมติ 28, 45, 60, 85 บาท อ่านเป็นภาษาอังกฤษ แล้วให้เพื่อนเลือกเลขที่ได้ยิน ถ้าไม่ตรงให้ทวนทีละหลัก\n",
+      "title": "Numbers 20–100: อ่านราคาและทวนตัวเลข",
+      "format": "markdown"
+    },
+    "settings": {
+      "textSize": "medium",
+      "alignment": "left"
+    }
+  },
+  {
+    "course": "English for Beginners — Level 1",
+    "module": "Numbers & Everyday Basics",
+    "module_order": 3,
+    "lesson_id": "c44b8adf-1dc1-4da5-a668-2cfa515d4469",
+    "lesson": "How Old Are You?",
+    "lesson_order": 3,
+    "is_published": false,
+    "block_id": "295f5a37-da55-40c9-9bc0-78296f6a8f82",
+    "type": "reading",
+    "content": {
+      "body": "**เป้าหมาย:** ถามและบอกอายุด้วย am / is / are\n\n## รูปประโยค\n- **How old are you?** = คุณอายุเท่าไร\n- **I'm twenty-five.** = ฉันอายุ 25 ปี\n- **I'm twenty-five years old.** = แบบเต็มของประโยคเดียวกัน\n- **How old is your brother?** = พี่หรือน้องชายของคุณอายุเท่าไร\n- **He's eighteen.** = เขาอายุ 18 ปี\n\nภาษาอังกฤษใช้ **be + อายุ** จึงพูด I'm twenty-five. ไม่ใช้ I have twenty-five years. คำว่า years old ละได้ในคำตอบสั้น\n\n## ใช้จริง: คุยกับเพื่อนที่ยินดีแบ่งปัน\n> Alex: How old are you?\n> Pim: I'm twenty-five. And you?\n> Alex: I'm twenty-eight.\n> Pim: My brother is eighteen.\n\n## ถ้าไม่อยากบอกอายุ\nอายุอาจเป็นเรื่องส่วนตัว โดยเฉพาะเมื่อเพิ่งรู้จักกัน คุณตอบ **I'd rather not say.** = ขอไม่บอกนะ ได้อย่างสุภาพ ไม่จำเป็นต้องถามอายุเพื่อเริ่มทุกบทสนทนา\n\n## ลองทำก่อนดูเฉลย\n1. เติม: I ___ thirty.\n2. เติม: How old ___ your sister?\n3. แก้ “I'm twenty-five years.” ให้เป็นแบบเต็ม\n\n**เฉลย:** 1. am  2. is  3. I'm twenty-five years old.\n\n## ภารกิจวันนี้\nใช้ข้อมูลสมมติฝึกตอบ I'm twenty-two. / I'm thirty-six. แล้วสลับเป็นคนถาม How old are you? อย่าลืมว่าใช้ข้อมูลสมมติได้หากไม่อยากบอกอายุจริง\n",
+      "title": "How Old Are You?: บอกอายุและตอบอย่างสุภาพ",
+      "format": "markdown"
+    },
+    "settings": {
+      "textSize": "medium",
+      "alignment": "left"
+    }
+  },
+  {
+    "course": "English for Beginners — Level 1",
+    "module": "Numbers & Everyday Basics",
+    "module_order": 3,
+    "lesson_id": "b06c54e9-e045-4b2b-973d-e92ab66a11ef",
+    "lesson": "Phone Numbers",
+    "lesson_order": 4,
+    "is_published": false,
+    "block_id": "aee5eb47-eae0-4f76-bf11-2e63cc8d0103",
+    "type": "reading",
+    "content": {
+      "body": "**เป้าหมาย:** อ่านหมายเลขโทรศัพท์ทีละหลัก และขอให้อีกฝ่ายทวนได้\n\n## วิธีอ่าน\nเบอร์โทรอ่านเป็น **เลขทีละหลัก** ไม่อ่านเป็นจำนวน เช่น ชุดเลขฝึก **0–8–1 / 2–3–4 / 5–6–7–8** อ่านว่า **zero eight one / two three four / five six seven eight**\n\nเลขชุดนี้ใช้ฝึกการอ่านเท่านั้น ไม่ใช่ช่องทางติดต่อและไม่ต้องโทรจริง\n\n- **What's your phone number?** = เบอร์โทรของคุณคืออะไร\n- **It's …** = เบอร์คือ …\n- **Could you repeat that, please?** = ช่วยทวนอีกครั้งได้ไหม\n- **Is that correct?** = ถูกต้องไหม\n\nเลข **0** ใช้ zero ได้ชัดเจนที่สุด ในบทสนทนาคุณอาจได้ยิน oh ด้วย\n\n## ใช้จริง: ทวนตัวเลขที่เคาน์เตอร์\n> Staff: What's your phone number?\n> You: It's zero eight one, two three four, five six seven eight.\n> Staff: Could you repeat the last four digits, please?\n> You: Five six seven eight.\n> Staff: Thank you.\n\n**the last four digits** = ตัวเลขสี่หลักสุดท้าย\n\n## พูดให้ฟังง่าย\nแบ่งเป็นกลุ่มและหยุดเล็กน้อย ถ้าเลขซ้ำเช่น 22 จะอ่าน two two ได้เสมอ บางคนพูด double two แต่เริ่มต้นอ่านทีละหลักก่อนก็พอ\n\n## ลองทำก่อนดูเฉลย\n1. ชุดเลข 309 อ่านอย่างไร?\n2. เลข 0 ใช้คำว่าอะไร?\n3. ฟังสี่หลักสุดท้ายไม่ทัน ควรขอให้อีกฝ่ายทำอะไร?\n\n**เฉลย:** 1. three zero nine  2. zero  3. Could you repeat the last four digits, please?\n\n## ภารกิจวันนี้\nสร้างชุดเลขสมมติ 6 หลัก อ่านให้เพื่อนจด แล้วให้เขาอ่านกลับเพื่อตรวจความถูกต้อง ไม่ต้องใช้เบอร์จริง\n",
+      "title": "Phone Numbers: อ่านทีละหลักและทวนให้ถูก",
+      "format": "markdown"
+    },
+    "settings": {
+      "textSize": "medium",
+      "alignment": "left"
+    }
+  },
+  {
+    "course": "English for Beginners — Level 1",
+    "module": "People Around Me",
+    "module_order": 4,
+    "lesson_id": "bd350bbe-b48b-4793-ae55-7f28cc791bf9",
+    "lesson": "My Family",
+    "lesson_order": 1,
+    "is_published": false,
+    "block_id": "3432bcc3-8798-4f09-8de3-2bc77db4cfb4",
+    "type": "reading",
+    "content": {
+      "body": "![Illustrated family and a friend relaxing together](https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/lesson-covers/people-around-me-40cce5d9-3b27-428d-8374-1ad89afcedcc.png)\n\n**เป้าหมาย:** พูดถึงสมาชิกครอบครัวและจำนวนพี่น้องได้\n\n## คำศัพท์ใกล้ตัว\n| English | ไทย |\n| --- | --- |\n| mother / mom | แม่ |\n| father / dad | พ่อ |\n| parents | พ่อแม่ / ผู้ปกครอง |\n| sister | พี่สาวหรือน้องสาว |\n| brother | พี่ชายหรือน้องชาย |\n| grandmother / grandfather | ย่าหรือยาย / ปู่หรือตา |\n| family | ครอบครัว |\n\n**sister / brother** ไม่ระบุว่าอายุมากหรือน้อย หากจำเป็นเติม **older** หรือ **younger** เช่น my younger brother = น้องชายของฉัน\n\n## อ่านเรื่องสั้น\n> My name is Pim. I live with my parents. I have one younger brother. His name is Ton. My grandmother lives in Chiang Mai. We call her every Sunday.\n\nPim อยู่กับพ่อแม่ มีน้องชายชื่อ Ton และโทรหาคุณยายหรือคุณย่าทุกวันอาทิตย์\n\n## ใช้จริง: แนะนำจากรูป\n> Alex: Is this your family?\n> Pim: Yes. This is my mother, and this is my father.\n> Alex: Do you have any brothers or sisters?\n> Pim: I have one brother.\n\n**I have …** = ฉันมี … / **This is my …** = นี่คือ … ของฉัน\n\n## ลองทำก่อนดูเฉลย\n1. Pim มีพี่น้องกี่คน?\n2. เติม: This is ___ mother. (my / I)\n3. brother ระบุว่าต้องเป็นพี่ชายเท่านั้นหรือไม่?\n\n**เฉลย:** 1. หนึ่งคน เป็นน้องชาย  2. my  3. ไม่ระบุอายุ อาจเป็นพี่ชายหรือน้องชาย\n\n## ภารกิจวันนี้\nเลือกคนในครอบครัวหรือคนสำคัญในชีวิต 2 คน แล้วแนะนำด้วย This is my … ไม่จำเป็นต้องมีรูปหรือครอบครัวแบบในภาพ ตัวอย่างนี้ใช้ฝึกภาษาเท่านั้น\n",
+      "title": "My Family: แนะนำคนในครอบครัว",
+      "format": "markdown"
+    },
+    "settings": {
+      "textSize": "medium",
+      "alignment": "left"
+    }
+  },
+  {
+    "course": "English for Beginners — Level 1",
+    "module": "People Around Me",
+    "module_order": 4,
+    "lesson_id": "17e7481c-2e54-49df-94f6-31beb4bbc958",
+    "lesson": "He, She & They",
+    "lesson_order": 2,
+    "is_published": false,
+    "block_id": "3381c803-34b5-4aea-88c6-999fd30263f8",
+    "type": "reading",
+    "content": {
+      "body": "**เป้าหมาย:** ใช้ he / she / they และเลือก is / are ให้ถูก\n\n## คำแทนชื่อ\n| คำ | ตัวอย่าง |\n| --- | --- |\n| he | Ton is my brother. He is eighteen. |\n| she | Mina is my friend. She is kind. |\n| they | Pim and Alex are friends. They are students. |\n\n**He is → He's**, **She is → She's**, **They are → They're** ใช้รูปย่อในการพูดได้\n\n## อ่านเรื่องสั้น\n> This is Ton. He's my brother. This is Mina. She's my friend. Ton and Mina are students. They're in the same class.\n\n**in the same class** = อยู่ในคลาสเดียวกัน หลังแนะนำชื่อแล้วใช้คำแทนชื่อเพื่อไม่ต้องเรียกชื่อซ้ำ\n\n## ใช้จริง: แนะนำคนในกลุ่ม\n> Alex: Who is Ton?\n> Pim: He's my brother.\n> Alex: Are Ton and Mina students?\n> Pim: Yes. They're students.\n\n**Who is …?** = … คือใคร\n\n## จุดที่มักสับสน\n- ใช้ **He is / She is** แต่ **They are** ไม่ใช้ They is\n- **They're** แปลว่า they are ต่างจาก **their** ที่แปลว่าของพวกเขา\n- they ใช้พูดถึงหลายคน และใช้กับคนเดียวที่ใช้สรรพนาม they หรือเมื่อไม่ทราบสรรพนามได้ด้วย ใช้ are เช่นเดิม เคารพคำที่บุคคลนั้นใช้\n\n## ลองทำก่อนดูเฉลย\n1. Ton and Mina ___ students.\n2. ย่อ She is เป็นอะไร?\n3. แก้ “They is my friends.”\n\n**เฉลย:** 1. are  2. She's  3. They are my friends.\n\n## ภารกิจวันนี้\nสร้างตัวละคร 3 คน แนะนำแต่ละชื่อก่อน แล้วพูดต่อด้วย He is / She is / They are ให้เพื่อนระบุว่าคุณหมายถึงใคร\n",
+      "title": "He, She & They: พูดถึงคนอื่นโดยไม่เรียกชื่อซ้ำ",
+      "format": "markdown"
+    },
+    "settings": {
+      "textSize": "medium",
+      "alignment": "left"
+    }
+  },
+  {
+    "course": "English for Beginners — Level 1",
+    "module": "People Around Me",
+    "module_order": 4,
+    "lesson_id": "1499c4f3-4978-4335-80b7-692fd89853e0",
+    "lesson": "Describing People",
+    "lesson_order": 3,
+    "is_published": false,
+    "block_id": "7a81d432-3f39-4b87-b349-7ba5e0cbe89b",
+    "type": "reading",
+    "content": {
+      "body": "![Illustrated family and a friend relaxing together](https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/lesson-covers/people-around-me-40cce5d9-3b27-428d-8374-1ad89afcedcc.png)\n\n**เป้าหมาย:** บรรยายรูปลักษณ์และนิสัยด้วยประโยคที่สุภาพ\n\n## สามรูปประโยค\n- **She's tall.** = เธอตัวสูง — be + คำบรรยาย\n- **He has short hair.** = เขามีผมสั้น — has + สิ่งที่มี\n- **She's wearing a blue shirt.** = เธอใส่เสื้อเชิ้ตสีน้ำเงินอยู่ — wearing + เสื้อผ้าในตอนนี้\n\nคำที่ใช้ได้: **short** เตี้ยหรือสั้น / **long hair** ผมยาว / **glasses** แว่นตา / **friendly** เป็นมิตร / **kind** ใจดี\n\n## ใช้จริง: นัดเจอเพื่อนที่คาเฟ่\n> Alex: Where is Mina?\n> Pim: She's near the door.\n> Alex: What does she look like?\n> Pim: She has long hair. She's wearing a blue shirt.\n> Alex: I see her. Thanks!\n\n**What does she look like?** = เธอมีลักษณะอย่างไร / **I see her.** = ฉันเห็นเธอแล้ว\n\n## เลือก is หรือ has\n**He is friendly.** บอกนิสัย แต่ **He has glasses.** บอกสิ่งที่มี ไม่ใช้ He is glasses. ถ้าต้องการช่วยระบุคน เสื้อผ้าหรือจุดที่ยืนมักชัดเจนกว่าเดาอายุหรือสัญชาติ\n\n## ฝึกจากภาพ\nดูภาพแล้วเลือกหนึ่งคน ลองบอกสีเสื้อหรือความยาวผม ภาพใช้ฝึกสิ่งที่เห็นได้ ส่วนนิสัยเช่น kind ไม่สามารถสรุปจากหน้าตาอย่างเดียว\n\n## ลองทำก่อนดูเฉลย\n1. He ___ short hair. (is / has)\n2. She ___ friendly. (is / has)\n3. “She's wearing a green shirt.” บอกนิสัยหรือเสื้อผ้า?\n\n**เฉลย:** 1. has  2. is  3. เสื้อผ้าที่ใส่อยู่\n\n## ภารกิจวันนี้\nแต่งคำบรรยายตัวละคร 3 ประโยค ใช้ is หนึ่งครั้ง has หนึ่งครั้ง และ wearing หนึ่งครั้ง แล้วให้เพื่อนวาดหรือระบุคนจากคำบรรยาย\n",
+      "title": "Describing People: ช่วยเพื่อนตามหาคนให้ถูก",
+      "format": "markdown"
+    },
+    "settings": {
+      "textSize": "medium",
+      "alignment": "left"
+    }
+  },
+  {
+    "course": "English for Beginners — Level 1",
+    "module": "People Around Me",
+    "module_order": 4,
+    "lesson_id": "de360920-1bc5-451e-bc7c-037e5603c22f",
+    "lesson": "This Is My Friend",
+    "lesson_order": 4,
+    "is_published": false,
+    "block_id": "66312852-00ed-49ef-ae0e-0f93ec0c573f",
+    "type": "reading",
+    "content": {
+      "body": "**เป้าหมาย:** แนะนำเพื่อนและบอกข้อมูลสั้น ๆ เพื่อเริ่มบทสนทนา\n\n## สูตรแนะนำคน\n**[ชื่อผู้ฟัง], this is my friend [ชื่อเพื่อน].**\nเช่น **Alex, this is my friend Mina.** = Alex นี่คือ Mina เพื่อนของฉัน\n\nเพิ่มหนึ่งประโยคได้ เช่น **She's from Japan.** หรือ **We work together.** = เราทำงานด้วยกัน\n\n## ใช้จริง: เจอกันก่อนเวิร์กช็อป\n> Pim: Alex, this is my friend Mina.\n> Alex: Hi, Mina. Nice to meet you.\n> Mina: Nice to meet you, too.\n> Pim: Mina is from Japan. We study English together.\n> Alex: Do you live in Bangkok, Mina?\n> Mina: Yes, I do.\n\n**together** = ด้วยกัน การให้ข้อมูลที่อีกฝ่ายยินดีแบ่งปันช่วยหาหัวข้อคุยต่อได้\n\n## หนึ่งคนกับหลายคน\n- **This is my friend Mina.** — เพื่อนหนึ่งคน\n- **These are my friends Mina and Ton.** — เพื่อนหลายคน\n\nไม่ใช้ This are และเมื่อหลายคนเติม s ที่ friends\n\n## ลองทำก่อนดูเฉลย\n1. เติม: This ___ my friend Alex.\n2. เติม: These ___ my friends.\n3. ตอบ Nice to meet you. อย่างไร?\n\n**เฉลย:** 1. is  2. are  3. Nice to meet you, too.\n\n## ภารกิจวันนี้\nจำลองบทสนทนา 3 คน โดยหนึ่งคนเป็นผู้แนะนำ ใช้ This is my friend … แล้วให้สองคนที่เพิ่งรู้จักถามที่มาหรือภาษาที่พูด สลับบทบาทกัน\n",
+      "title": "This Is My Friend: ช่วยให้สองคนเริ่มรู้จักกัน",
+      "format": "markdown"
+    },
+    "settings": {
+      "textSize": "medium",
+      "alignment": "left"
+    }
+  },
+  {
+    "course": "English for Beginners — Level 1",
+    "module": "My Everyday Life",
+    "module_order": 5,
+    "lesson_id": "5385deea-b1eb-437c-80ba-1147148f2adf",
+    "lesson": "Morning to Night",
+    "lesson_order": 1,
+    "is_published": false,
+    "block_id": "9304d7b6-e12a-4b63-ab8f-421cc8605c5d",
+    "type": "reading",
+    "content": {
+      "body": "**เป้าหมาย:** บอกช่วงเวลาของวันและเวลาแบบเต็มชั่วโมง\n\n## คำบอกเวลา\n| English | ไทย / ตัวอย่าง |\n| --- | --- |\n| in the morning | ตอนเช้า |\n| in the afternoon | ตอนบ่าย |\n| in the evening | ตอนเย็น |\n| at night | ตอนกลางคืน |\n| at seven | เวลาเจ็ดโมง ตามบริบท |\n| at noon | ตอนเที่ยง |\n\n**in the** ใช้กับ morning / afternoon / evening แต่ใช้ **at night** และ **at + เวลา** เช่น at eight ไม่ใช้ in eight\n\n## อ่านหนึ่งวันของ Pim\n> I get up at seven in the morning. I have lunch at noon. I study English in the afternoon. I cook dinner in the evening. I go to bed at ten at night.\n\nget up = ลุกจากที่นอน / have lunch = กินมื้อกลางวัน / go to bed = เข้านอน\n\n## ใช้จริง: นัดคุยภาษาอังกฤษ\n> Alex: When do you study English?\n> Pim: In the evening.\n> Alex: At six?\n> Pim: Yes. At six in the evening.\n\nถ้ากลัวสับสน เช้ากับเย็นให้ระบุ in the morning / in the evening หรือใช้ a.m. / p.m. ตามที่อีกฝ่ายเข้าใจ\n\n## ลองทำก่อนดูเฉลย\n1. เติม: ___ the morning.\n2. เติม: ___ night.\n3. จากเรื่อง Pim เข้านอนเมื่อไร?\n\n**เฉลย:** 1. in  2. at  3. At ten at night.\n\n## ภารกิจวันนี้\nเขียนกิจกรรมของคุณ 3 ช่วง: in the morning, in the afternoon, in the evening และเพิ่มเวลาที่แน่นอนหนึ่งครั้ง เช่น at seven\n",
+      "title": "Morning to Night: เล่าเวลาตั้งแต่เช้าถึงก่อนนอน",
+      "format": "markdown"
+    },
+    "settings": {
+      "textSize": "medium",
+      "alignment": "left"
+    }
+  },
+  {
+    "course": "English for Beginners — Level 1",
+    "module": "My Everyday Life",
+    "module_order": 5,
+    "lesson_id": "3eb104a5-4772-4489-b5c3-83c85e5a9ea6",
+    "lesson": "Common Daily Verbs",
+    "lesson_order": 2,
+    "is_published": false,
+    "block_id": "23a4bade-e89f-4a44-8197-8a2b411ea9f6",
+    "type": "reading",
+    "content": {
+      "body": "**เป้าหมาย:** ใช้กริยาพื้นฐานเล่ากิจกรรมที่ทำเป็นประจำ\n\n## จำเป็นกลุ่มคำ\n| กลุ่มคำ | ไทย |\n| --- | --- |\n| wake up / get up | ตื่น / ลุกจากที่นอน |\n| brush my teeth | แปรงฟัน |\n| have breakfast | กินอาหารเช้า |\n| go to work / go to school | ไปทำงาน / ไปโรงเรียน |\n| study English | เรียนอังกฤษ |\n| cook dinner | ทำอาหารเย็น |\n| go home | กลับบ้าน |\n| go to bed | เข้านอน |\n\nจำทั้งกลุ่มคำ เช่น **have breakfast** จะใช้ง่ายกว่าจำ have เดี่ยว ๆ\n\n## อ่านกิจวัตรของ Alex\n> I wake up at six. I brush my teeth and have breakfast. I go to work at eight. After work, I go home and cook dinner. I study English for ten minutes. Then I go to bed.\n\n**after work** = หลังเลิกงาน / **then** = จากนั้น\n\n## ใช้จริง: คุยระหว่างพัก\n> Pim: What do you do after work?\n> Alex: I cook dinner and study English.\n> Pim: Do you cook every day?\n> Alex: Yes, I do.\n\n## จุดที่มักสับสน\n- **I go to work.** ไม่เติม am หน้ากริยารูปพื้นฐาน\n- **go home** ไม่เติม to แต่ **go to work / go to school / go to bed** มี to\n- เมื่อพูดถึง he / she ใช้กริยาเติม s เช่น **She cooks dinner.** และ **He goes to work.**\n\n## ลองทำก่อนดูเฉลย\n1. เติม: I brush my ___.\n2. เลือก: go home หรือ go to home?\n3. เติม: She ___ dinner. (cook / cooks)\n\n**เฉลย:** 1. teeth  2. go home  3. cooks\n\n## ภารกิจวันนี้\nเลือก 5 กิจกรรมจากตาราง เรียงตามวันของคุณและพูด “I …” ทีละประโยค จากนั้นเชื่อมสองกิจกรรมด้วย and\n",
+      "title": "Common Daily Verbs: กริยาที่ใช้เล่าหนึ่งวัน",
+      "format": "markdown"
+    },
+    "settings": {
+      "textSize": "medium",
+      "alignment": "left"
+    }
+  },
+  {
+    "course": "English for Beginners — Level 1",
+    "module": "My Everyday Life",
+    "module_order": 5,
+    "lesson_id": "b3286fe6-fc05-4c3e-a2c5-dd2fbc72c190",
+    "lesson": "I Usually…",
+    "lesson_order": 3,
+    "is_published": false,
+    "block_id": "c8393ea2-02c4-4a20-ad71-cf03e380444e",
+    "type": "reading",
+    "content": {
+      "body": "**เป้าหมาย:** ใช้คำบอกความถี่เล่าพฤติกรรมประจำวัน\n\n## ความถี่จากมากไปน้อย\n**always** เสมอ → **usually** โดยปกติ → **often** บ่อย → **sometimes** บางครั้ง → **never** ไม่เคย\n\nคำเหล่านี้ช่วยเล่าภาพรวม ไม่ใช่เปอร์เซ็นต์ตายตัว\n\n## วางคำตรงไหน\n- **I usually have breakfast at seven.** = ปกติฉันกินอาหารเช้าเจ็ดโมง\n- **I sometimes walk to work.** = บางครั้งฉันเดินไปทำงาน\n- **I'm usually tired at night.** = ปกติฉันเหนื่อยตอนกลางคืน\n\n<u>จำง่าย ๆ:</u> ก่อนกริยาทั่วไป เช่น usually walk แต่หลัง be เช่น am usually / is usually\n\n## ใช้จริง: คุยเรื่องการเดินทาง\n> Alex: How do you go to work?\n> Pim: I usually take the bus. Sometimes I walk.\n> Alex: Do you drive?\n> Pim: No. I never drive to work.\n\n**take the bus** = ขึ้นรถบัส / **drive** = ขับรถ\n\n## จุดที่มักสับสน\nnever มีความหมายปฏิเสธอยู่แล้ว ในตัวอย่างใช้ **I never drive.** ไม่ใช้ I don't never drive. ส่วน **every day** = ทุกวัน เป็นสองคำ วางท้ายประโยคได้: I study English every day.\n\n## ลองทำก่อนดูเฉลย\n1. เรียง: usually / I / walk / to work.\n2. เติม: I'm ___ tired at night. (usually)\n3. ถ้าไม่เคยดื่มกาแฟ เลือก always หรือ never?\n\n**เฉลย:** 1. I usually walk to work.  2. usually  3. never\n\n## ภารกิจวันนี้\nเขียน 3 ประโยคจากชีวิตคุณด้วย usually, sometimes และ never อย่างละหนึ่งประโยค อ่านให้เพื่อนฟังแล้วถามกลับ What about you?\n",
+      "title": "I Usually…: บอกว่าทำบ่อยแค่ไหน",
+      "format": "markdown"
+    },
+    "settings": {
+      "textSize": "medium",
+      "alignment": "left"
+    }
+  },
+  {
+    "course": "English for Beginners — Level 1",
+    "module": "My Everyday Life",
+    "module_order": 5,
+    "lesson_id": "5aa03590-329e-4873-b148-3dc5eb71c497",
+    "lesson": "My Daily Routine",
+    "lesson_order": 4,
+    "is_published": false,
+    "block_id": "9fd84e7f-093f-4ad3-ba45-48e7f5ab8d53",
+    "type": "reading",
+    "content": {
+      "body": "**เป้าหมาย:** เชื่อมกิจกรรม เวลา และความถี่เป็นย่อหน้าสั้น ๆ\n\n## อ่านวันทำงานของ Mina\n> On weekdays, I get up at six thirty. First, I brush my teeth and have breakfast. Then I take the bus to work. I start work at nine. I usually have lunch at noon. After work, I go home and cook dinner. In the evening, I study English for fifteen minutes. I go to bed at ten thirty.\n\n**weekdays** = วันจันทร์ถึงศุกร์ / **first** = อย่างแรก / **then** = จากนั้น / **six thirty** = 6:30 / **for fifteen minutes** = เป็นเวลา 15 นาที\n\n## ดูลำดับเรื่อง\nตื่น → แปรงฟันและกินข้าว → ขึ้นรถ → ทำงาน → กลับบ้าน → เรียน → เข้านอน ใช้ First, Then, After work ช่วยให้คนฟังตามทัน\n\n## ใช้จริง: เปรียบเทียบกิจวัตร\n> Pim: What time do you get up?\n> Mina: At six thirty. What about you?\n> Pim: At seven. Do you study English every day?\n> Mina: Yes. I study for fifteen minutes in the evening.\n\n**What time …?** ถามเวลาที่แน่นอน ส่วน **When …?** ตอบเป็นช่วงเวลาก็ได้\n\n## ลองทำก่อนดูเฉลย\n1. Mina ไปทำงานอย่างไร?\n2. เธอเรียนอังกฤษนานเท่าไร?\n3. เติมคำเชื่อม: First, I have breakfast. ___ I go to work.\n\n**เฉลย:** 1. By bus / She takes the bus.  2. Fifteen minutes.  3. Then\n\n## ภารกิจวันนี้\nเขียนกิจวัตรจริง 5 ประโยค ใส่เวลาอย่างน้อย 2 จุดและ usually หนึ่งครั้ง อ่านให้เพื่อนฟัง แล้วให้เขาทวนว่าคุณเริ่มวันเมื่อไร ไม่จำเป็นต้องมีกิจวัตรเหมือน Mina\n",
+      "title": "My Daily Routine: เล่าหนึ่งวันให้เป็นเรื่อง",
+      "format": "markdown"
+    },
+    "settings": {
+      "textSize": "medium",
+      "alignment": "left"
+    }
+  },
+  {
+    "course": "English for Beginners — Level 1",
+    "module": "Food & Drinks",
+    "module_order": 6,
+    "lesson_id": "bebd69dc-96c5-4091-96a4-05b086bc588c",
+    "lesson": "Food I Know",
+    "lesson_order": 1,
+    "is_published": false,
+    "block_id": "4773f194-a893-43dc-9f8d-3ca859c935b7",
+    "type": "reading",
+    "content": {
+      "body": "![Food and drinks on a cozy cafe table](https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/lesson-covers/food-and-drinks-b15a2379-d5d0-452f-9a04-6c1feb666921.png)\n\n**เป้าหมาย:** เรียกอาหารพื้นฐานและใช้คำในประโยคสั้น ๆ\n\n## ดูภาพแล้วหาคำศัพท์\n| English | ไทย |\n| --- | --- |\n| rice | ข้าว |\n| chicken | ไก่ / เนื้อไก่ |\n| a sandwich | แซนด์วิชหนึ่งชิ้น |\n| salad | สลัด |\n| an apple | แอปเปิลหนึ่งลูก |\n| a banana | กล้วยหนึ่งลูก |\n| cake | เค้ก |\n| bread | ขนมปัง |\n\nภาพนี้มี rice, chicken, sandwich, salad, apple, banana และ cake ลองชี้ก่อนอ่านคำแปล\n\n## อ่านมื้อกลางวันของ Pim\n> For lunch, I have rice and chicken. My friend has a sandwich and a salad. We share an apple. I drink water with my lunch.\n\n**for lunch** = สำหรับมื้อกลางวัน / **share** = แบ่งกัน\n\n## ใช้จริง: ถามเพื่อนที่ร้าน\n> Alex: What's this?\n> Pim: It's a sandwich.\n> Alex: What's in it?\n> Pim: Chicken and salad.\n\n**What's in it?** = ข้างในมีอะไร ถามส่วนประกอบได้เมื่ออ่านเมนูไม่เข้าใจ\n\n## นับได้กับนับเป็นส่วน\n- **a sandwich / two sandwiches**, **an apple / two apples** นับเป็นชิ้นหรือลูก\n- **rice / bread** โดยทั่วไปไม่เติม a ตรง ๆ ใช้ **a bowl of rice** ข้าวหนึ่งชาม / **a slice of bread** ขนมปังหนึ่งแผ่น\n- **chicken** ในเมนูนี้หมายถึงเนื้อไก่ ไม่ใช่ไก่ทั้งตัว\n\n## ลองทำก่อนดูเฉลย\n1. Pim กินอะไรเป็นมื้อกลางวัน?\n2. เลือก: a apple หรือ an apple?\n3. ข้าวหนึ่งชามใช้ a rice หรือ a bowl of rice?\n\n**เฉลย:** 1. Rice and chicken.  2. an apple  3. a bowl of rice\n\n## ภารกิจวันนี้\nเลือกอาหารในภาพ 3 อย่าง พูดชื่อแล้วแต่ง “For lunch, I have …” ตามอาหารที่คุณกินจริงหรืออยากลอง\n",
+      "title": "Food I Know: อ่านเมนูและบอกอาหารที่รู้จัก",
+      "format": "markdown"
+    },
+    "settings": {
+      "textSize": "medium",
+      "alignment": "left"
+    }
+  },
+  {
+    "course": "English for Beginners — Level 1",
+    "module": "Food & Drinks",
+    "module_order": 6,
+    "lesson_id": "8b290262-b0b8-4a95-b248-11c69138dcaf",
+    "lesson": "I Like / I Don’t Like",
+    "lesson_order": 2,
+    "is_published": false,
+    "block_id": "e73770f6-ecab-493d-8edd-79bb89302573",
+    "type": "reading",
+    "content": {
+      "body": "**เป้าหมาย:** บอกสิ่งที่ชอบ ไม่ชอบ และถามความชอบของอีกฝ่าย\n\n## สี่ประโยคพื้นฐาน\n- **I like coffee.** = ฉันชอบกาแฟ\n- **I don't like tea.** = ฉันไม่ชอบชา\n- **Do you like spicy food?** = คุณชอบอาหารเผ็ดไหม\n- **Yes, I do. / No, I don't.** = ชอบ / ไม่ชอบ\n\n**don't = do not** หลัง don't ใช้กริยารูปพื้นฐาน like ไม่ใช้ likes และไม่ใช้ I'm like เมื่อต้องการบอกว่าชอบ\n\n## ใช้จริง: เลือกมื้อกลางวัน\n> Pim: Do you like spicy food?\n> Alex: No, I don't. I like chicken and rice.\n> Pim: I like spicy food, but I don't like very sweet drinks.\n> Alex: Let's get chicken and rice, then.\n\n**but** = แต่ / **very sweet** = หวานมาก / **Let's get …** = ไปหา … กัน\n\n## พูดถึงอาหารทั่วไป\n**I like apples.** ใช้ apples เป็นพหูพจน์เมื่อพูดถึงแอปเปิลทั่วไป ส่วน rice / coffee ไม่ต้องเติม s ในความหมายนี้\n\n## ความชอบกับการสั่งของ\n**I like coffee.** บอกความชอบ แต่ **I'd like a coffee, please.** หมายถึงต้องการสั่งกาแฟหนึ่งแก้ว ซึ่งจะฝึกในบทคาเฟ่\n\n## ลองทำก่อนดูเฉลย\n1. เติม: I ___ like tea. (don't / am not)\n2. ตอบ Do you like coffee? แบบไม่ชอบ\n3. เลือกเมื่อพูดถึงผลไม้ทั่วไป: I like apple. หรือ I like apples.\n\n**เฉลย:** 1. don't  2. No, I don't.  3. I like apples.\n\n## ภารกิจวันนี้\nเลือกอาหาร 2 อย่างที่ชอบและ 1 อย่างที่ไม่ชอบ พูดโดยเชื่อมด้วย and / but แล้วถามเพื่อน Do you like …? เคารพความชอบที่แตกต่างกัน\n",
+      "title": "I Like / I Don’t Like: เลือกอาหารกับเพื่อน",
+      "format": "markdown"
+    },
+    "settings": {
+      "textSize": "medium",
+      "alignment": "left"
+    }
+  },
+  {
+    "course": "English for Beginners — Level 1",
+    "module": "Food & Drinks",
+    "module_order": 6,
+    "lesson_id": "37c1318a-c63f-48af-a010-375ff5767891",
+    "lesson": "Drinks & Snacks",
+    "lesson_order": 3,
+    "is_published": false,
+    "block_id": "0c231aa8-6d7a-4367-b63c-366124249d45",
+    "type": "reading",
+    "content": {
+      "body": "![Food and drinks on a cozy cafe table](https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/lesson-covers/food-and-drinks-b15a2379-d5d0-452f-9a04-6c1feb666921.png)\n\n**เป้าหมาย:** บอกชื่อเครื่องดื่ม ของว่าง และจำนวนที่ต้องการ\n\n## คำศัพท์เวลาเข้าคาเฟ่\n**water** น้ำ / **coffee** กาแฟ / **tea** ชา / **juice** น้ำผลไม้ / **milk** นม / **a cookie** คุกกี้หนึ่งชิ้น / **a sandwich** แซนด์วิช / **a slice of cake** เค้กหนึ่งชิ้น\n\nดูภาพ: กาแฟอยู่ในถ้วย ชาอีกถ้วยมีป้ายถุงชา และน้ำอยู่ในแก้ว ลองพูด **a cup of coffee / a cup of tea / a glass of water**\n\n## บอกตัวเลือก\n- **hot tea** ชาร้อน / **iced coffee** กาแฟเย็นใส่น้ำแข็ง\n- **with milk** ใส่นม / **without sugar** ไม่ใส่น้ำตาล\n- **two cookies** คุกกี้สองชิ้น\n\n## ใช้จริง: พักกับเพื่อน\n> Alex: What would you like to drink?\n> Pim: A glass of water, please.\n> Alex: Anything to eat?\n> Pim: A sandwich, please.\n> Alex: I'd like tea and a slice of cake.\n\n**Anything to eat?** = รับอะไรทานไหม / **I'd like …** = ฉันต้องการ … อย่างสุภาพ\n\n## คำบอกจำนวนช่วยให้ชัดเจน\nmilk / water / juice ปกติไม่นับตรง ๆ ใช้ a glass of water หรือ a bottle of water ส่วนในร้าน **two coffees** ใช้หมายถึงกาแฟสองแก้วได้ตามบริบท\n\n## ลองทำก่อนดูเฉลย\n1. น้ำหนึ่งแก้ว: a ___ of water.\n2. ไม่ใส่น้ำตาล: with sugar หรือ without sugar?\n3. เค้กหนึ่งชิ้นพูดอย่างไร?\n\n**เฉลย:** 1. glass  2. without sugar  3. a slice of cake\n\n## ภารกิจวันนี้\nเลือกหนึ่งเครื่องดื่มกับหนึ่งของว่างจากภาพ สั่งด้วย “[เครื่องดื่ม] and [ของว่าง], please.” แล้วเปลี่ยนจำนวนหรือความร้อนเย็นอีกหนึ่งรอบ\n",
+      "title": "Drinks & Snacks: เลือกเครื่องดื่มและของว่าง",
+      "format": "markdown"
+    },
+    "settings": {
+      "textSize": "medium",
+      "alignment": "left"
+    }
+  },
+  {
+    "course": "English for Beginners — Level 1",
+    "module": "Food & Drinks",
+    "module_order": 6,
+    "lesson_id": "a0d1c159-2225-4c43-a1cb-4b1578b89afc",
+    "lesson": "Ordering at a Café",
+    "lesson_order": 4,
+    "is_published": false,
+    "block_id": "72c76a42-9a7a-43bd-96ef-e3701c192e1d",
+    "type": "reading",
+    "content": {
+      "body": "![Food and drinks on a cozy cafe table](https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/lesson-covers/food-and-drinks-b15a2379-d5d0-452f-9a04-6c1feb666921.png)\n\n**เป้าหมาย:** สั่งเครื่องดื่ม ระบุตัวเลือก และถามราคาอย่างสุภาพ\n\n## สูตรสั่งง่าย ๆ\n**Can I have [สิ่งที่ต้องการ], please?** = ขอ … ได้ไหม\nหรือ **I'd like [สิ่งที่ต้องการ], please.** = ต้องการ … ครับ/ค่ะ\n\n**I'd like = I would like** ใช้สั่งของ ส่วน **I like** บอกความชอบ\n\n## คำถามที่พนักงานอาจถาม\n| English | คำตอบตัวอย่าง |\n| --- | --- |\n| Hot or iced? | Iced, please. |\n| Small or large? | Small, please. |\n| For here or to go? | To go, please. |\n| Anything else? | No, thank you. |\n\n**for here** ดื่มที่ร้าน / **to go** เอากลับ\n\n## ใช้จริง: สั่งกลับบ้าน\nราคาเป็นตัวอย่างสมมติ\n> Barista: Good morning. What would you like?\n> You: Can I have a small iced coffee, please?\n> Barista: With milk?\n> You: Yes, please. Without sugar.\n> Barista: For here or to go?\n> You: To go, please. How much is it?\n> Barista: Sixty baht.\n> You: Here you go. Thank you.\n> Barista: Thank you. Have a nice day!\n\n**Here you go.** ใช้เมื่อส่งเงินหรือของให้อีกฝ่าย\n\n## ฟังไม่ทันทำอย่างไร\nใช้ **Could you repeat that, please?** หรือทวนตัวเลือก **Hot or iced?** หากเมนูหมดอาจได้ยิน **Sorry, we don't have that.** = ขอโทษ ไม่มีสิ่งนั้น\n\n## ลองทำก่อนดูเฉลย\n1. จะสั่งกาแฟใช้ I like หรือ I'd like?\n2. เอากลับบ้านตอบ For here or to go? อย่างไร?\n3. ถามราคาใช้ประโยคไหน?\n\n**เฉลย:** 1. I'd like  2. To go, please.  3. How much is it?\n\n## ภารกิจวันนี้\nสลับบทลูกค้ากับพนักงาน สั่งสองรอบ เปลี่ยนเมนู ขนาด และดื่มที่ร้านหรือเอากลับ ให้พนักงานทวนออร์เดอร์ก่อนจบ\n",
+      "title": "Ordering at a Café: สั่งเครื่องดื่มตั้งแต่ทักจนจ่าย",
+      "format": "markdown"
+    },
+    "settings": {
+      "textSize": "medium",
+      "alignment": "left"
+    }
+  },
+  {
+    "course": "English for Beginners — Level 1",
+    "module": "Places & Getting Around",
+    "module_order": 7,
+    "lesson_id": "29bd5b62-3230-412f-b6c8-89ab63ac1437",
+    "lesson": "Places in Town",
+    "lesson_order": 1,
+    "is_published": false,
+    "block_id": "e78ba7e8-2b4d-4df9-9b23-a87d7bb8538a",
+    "type": "reading",
+    "content": {
+      "body": "![A neighborhood with a cafe, market, bus stop, library and park](https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/lesson-covers/places-in-town-2a8d0e5a-dd6a-4657-8a32-d79bbd4f1d30.png)\n\n**เป้าหมาย:** เรียกสถานที่ในเมืองและบอกสิ่งที่ไปทำ\n\n## ดูภาพแล้วหาสถานที่\n| English | ไปทำอะไร |\n| --- | --- |\n| a café | ซื้อกาแฟหรือพัก |\n| a supermarket | ซื้อของใช้และอาหาร |\n| a bus stop | รอรถบัส |\n| a park | เดินหรือพักผ่อน |\n| a library | อ่านหรือยืมหนังสือ |\n| a pharmacy | ซื้อยา |\n| a bank | ทำธุรกรรมธนาคาร |\n\nในภาพมี café, supermarket, bus stop, park และ library ลองชี้ทีละแห่ง ส่วน pharmacy และ bank เป็นคำศัพท์เพิ่มเติม\n\n## อ่านแผนวันเสาร์\n> On Saturday, I go to the supermarket for food. Then I meet Alex at a café. We walk in the park. In the afternoon, I go to the library. I take the bus home from the bus stop.\n\n**for food** = เพื่อซื้ออาหาร / **meet** = นัดพบ\n\n## ใช้จริง: ถามหาสถานที่\n> You: Excuse me. Is there a pharmacy near here?\n> Local: Yes. There's one near the supermarket.\n> You: Thank you.\n\n**Is there a … near here?** = แถวนี้มี … ไหม / **There's = There is**\n\n## เลือก bus stop กับ station\n**bus stop** คือป้ายรถบัส ส่วน **station** คือสถานี เช่น train station สถานีรถไฟ ไม่จำเป็นต้องเป็นอาคารแบบเดียวกัน\n\n## ลองทำก่อนดูเฉลย\n1. จะยืมหนังสือไป library หรือ supermarket?\n2. จะรอรถบัสไป bus stop หรือ bank?\n3. เติม: Is there a café ___ here?\n\n**เฉลย:** 1. library  2. bus stop  3. near\n\n## ภารกิจวันนี้\nเลือกสถานที่ใกล้บ้าน 3 แห่ง พูด “I go to the …” แล้วลองถาม Is there a … near here? โดยใช้คำสถานที่จากตาราง\n",
+      "title": "Places in Town: รู้ว่าจะไปที่ไหน",
+      "format": "markdown"
+    },
+    "settings": {
+      "textSize": "medium",
+      "alignment": "left"
+    }
+  },
+  {
+    "course": "English for Beginners — Level 1",
+    "module": "Places & Getting Around",
+    "module_order": 7,
+    "lesson_id": "78ae4a8b-2679-4b6c-9416-13933b709b64",
+    "lesson": "Where Is…?",
+    "lesson_order": 2,
+    "is_published": false,
+    "block_id": "f11b1605-a32d-46bd-9c07-644ce8ec664f",
+    "type": "reading",
+    "content": {
+      "body": "![A neighborhood with a cafe, market, bus stop, library and park](https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/lesson-covers/places-in-town-2a8d0e5a-dd6a-4657-8a32-d79bbd4f1d30.png)\n\n**เป้าหมาย:** ถามว่าสถานที่อยู่ไหนและเข้าใจคำบอกตำแหน่ง\n\n## ประโยคหลัก\n**Excuse me. Where is the library?** = ขอโทษนะ ห้องสมุดอยู่ไหน\nคำตอบเริ่มด้วย **It's …** เช่น **It's next to the café.**\n\n| คำบอกตำแหน่ง | ไทย |\n| --- | --- |\n| next to | ถัดจาก / ติดกับ |\n| opposite | ตรงข้าม |\n| between A and B | อยู่ระหว่าง A กับ B |\n| near | ใกล้ |\n| behind | ด้านหลัง |\n| in front of | ด้านหน้า |\n\n## อ่านสถานการณ์สมมติ\nตำแหน่งสำหรับฝึกนี้อ้างอิงข้อความด้านล่าง ภาพด้านบนใช้ประกอบบรรยากาศ\n> The café is next to the bank. The library is opposite the café. The bus stop is between the bank and the park.\n\n## ใช้จริง: หาห้องสมุด\n> You: Excuse me. Where is the library?\n> Local: It's opposite the café.\n> You: Opposite the café?\n> Local: Yes. Across the street.\n> You: Thank you!\n\n**across the street** = อีกฝั่งของถนน ทวนจุดสังเกตช่วยตรวจว่าเข้าใจตรงกัน\n\n## จุดที่มักสับสน\n**next to** คือใกล้ติดกัน ส่วน **near** แค่ใกล้ ไม่จำเป็นต้องติดกัน และ **between** ใช้สองจุดอ้างอิงเชื่อมด้วย and\n\n## ลองทำก่อนดูเฉลย\nตอบจากสถานการณ์ในข้อความ\n1. ห้องสมุดอยู่ตรงไหนเมื่อเทียบกับคาเฟ่?\n2. ป้ายรถบัสอยู่ระหว่างสถานที่ใด?\n3. เติม: It's next ___ the bank.\n\n**เฉลย:** 1. Opposite the café.  2. The bank and the park.  3. to\n\n## ภารกิจวันนี้\nวาดสถานที่ง่าย ๆ สามแห่งบนกระดาษ ให้เพื่อนถาม Where is the …? แล้วคุณตอบด้วย next to, opposite หรือ between โดยอ้างอิงภาพที่วาดจริง\n",
+      "title": "Where Is…?: ถามและบอกตำแหน่งสถานที่",
+      "format": "markdown"
+    },
+    "settings": {
+      "textSize": "medium",
+      "alignment": "left"
+    }
+  },
+  {
+    "course": "English for Beginners — Level 1",
+    "module": "Places & Getting Around",
+    "module_order": 7,
+    "lesson_id": "1b737c2f-498a-49cd-b219-8d0da10500d3",
+    "lesson": "Left, Right & Straight",
+    "lesson_order": 3,
+    "is_published": false,
+    "block_id": "541b9b06-76c3-478e-8db1-76b22deb2465",
+    "type": "reading",
+    "content": {
+      "body": "**เป้าหมาย:** เข้าใจคำสั่งเดินทางสั้น ๆ และทวนซ้ายขวาได้\n\n## คำที่ต้องฟังให้ออก\n| English | ไทย |\n| --- | --- |\n| Go straight. | ตรงไป |\n| Turn left. | เลี้ยวซ้าย |\n| Turn right. | เลี้ยวขวา |\n| at the corner | ที่หัวมุม |\n| at the traffic lights | ที่ไฟจราจร |\n| on your left / right | อยู่ทางซ้าย / ขวาของคุณ |\n\n**turn left** เป็นการเลี้ยว แต่ **on your left** บอกฝั่งที่สิ่งนั้นตั้งอยู่\n\n## ใช้จริง: ไปสวนจากหน้าร้าน\nเส้นทางนี้เป็นสถานการณ์สมมติสำหรับฝึก\n> You: How do I get to the park?\n> Local: Go straight. Turn right at the traffic lights. The park is on your left.\n> You: Straight, then right?\n> Local: Yes. Right at the traffic lights.\n> You: Thank you.\n\nเมื่อเลี้ยวแล้ว คำว่า your left / right อ้างอิงทิศที่คุณหันอยู่หลังเลี้ยว\n\n## แยกเส้นทางเป็นสามขั้น\n1. Go straight.\n2. Turn right at the traffic lights.\n3. Look for the park on your left.\n\nไม่ต้องจำประโยคยาวรวดเดียว ฟังคำกริยา จุดสังเกต และฝั่งของปลายทาง\n\n## ลองทำก่อนดูเฉลย\n1. จากบทสนทนา เลี้ยวซ้ายหรือขวา?\n2. สวนอยู่ฝั่งไหนหลังเลี้ยว?\n3. คำว่า at the traffic lights บอกการเลี้ยวเมื่อไร?\n\n**เฉลย:** 1. ขวา  2. ซ้าย  3. เมื่อถึงจุดไฟจราจร\n\n## ภารกิจวันนี้\nฝึกบนกระดาษ วาดเส้นทางจากจุด A ไป B แล้วบอกเพื่อนด้วย Go straight / Turn left / Turn right ให้เขาลากเส้นตาม จากนั้นสลับบทกัน\n",
+      "title": "Left, Right & Straight: ฟังเส้นทางทีละขั้น",
+      "format": "markdown"
+    },
+    "settings": {
+      "textSize": "medium",
+      "alignment": "left"
+    }
+  },
+  {
+    "course": "English for Beginners — Level 1",
+    "module": "Places & Getting Around",
+    "module_order": 7,
+    "lesson_id": "f3c38fe0-cef7-4b95-88f9-cc600c5907f5",
+    "lesson": "Asking for Directions",
+    "lesson_order": 4,
+    "is_published": false,
+    "block_id": "14444e6b-24e7-4ba4-abb8-ae58ab2a5ab8",
+    "type": "reading",
+    "content": {
+      "body": "![A neighborhood with a cafe, market, bus stop, library and park](https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/lesson-covers/places-in-town-2a8d0e5a-dd6a-4657-8a32-d79bbd4f1d30.png)\n\n**เป้าหมาย:** เริ่มถามทางอย่างสุภาพ ขอให้พูดช้า และทวนเส้นทาง\n\n## สูตร 4 ขั้น\n1. **Excuse me.** — เรียกความสนใจอย่างสุภาพ\n2. **How do I get to the library?** — ไปห้องสมุดอย่างไร\n3. **Could you repeat that, please?** — ขอให้ทวน\n4. **Thank you for your help.** — ขอบคุณที่ช่วย\n\n**Where is …?** ถามตำแหน่ง ส่วน **How do I get to …?** ขอวิธีเดินทาง\n\n## ใช้จริง: หาป้ายรถบัส\nเส้นทางนี้เป็นตัวอย่างสมมติ ภาพด้านบนเป็นภาพประกอบสถานที่\n> You: Excuse me. How do I get to the bus stop?\n> Local: Go straight and turn left at the supermarket. It's on your right.\n> You: Could you say that again slowly, please?\n> Local: Straight. Left at the supermarket. Then it's on your right.\n> You: So, left at the supermarket?\n> Local: That's right.\n> You: Thank you for your help.\n\n**That's right.** = ถูกต้องแล้ว ในที่นี้ right ไม่ได้แปลว่าเลี้ยวขวา\n\n## คำถามต่อที่มีประโยชน์\n- **Is it far?** = ไกลไหม\n- **Can I walk there?** = เดินไปได้ไหม\n- **Can you show me on the map?** = ชี้บนแผนที่ให้ดูได้ไหม\n\nหากอีกฝ่ายตอบ **Sorry, I don't know.** ให้พูด **That's OK. Thank you.** แล้วถามคนอื่นได้\n\n## ลองทำก่อนดูเฉลย\n1. ในตัวอย่างต้องเลี้ยวที่สถานที่ใด?\n2. เมื่อฟังไม่ทันควรพูดอะไร?\n3. That's right. ในบทนี้หมายถึงขวาหรือถูกต้อง?\n\n**เฉลย:** 1. The supermarket.  2. Could you say that again slowly, please?  3. ถูกต้อง\n\n## ภารกิจวันนี้\nสลับบทผู้ถามและคนบอกทาง ใช้เส้นทางวาดเอง 2 ขั้น ผู้ถามต้องทวนจุดเลี้ยวหนึ่งครั้งก่อนจบบทสนทนา\n",
+      "title": "Asking for Directions: ถามทางและทวนก่อนเดิน",
+      "format": "markdown"
+    },
+    "settings": {
+      "textSize": "medium",
+      "alignment": "left"
+    }
+  },
+  {
+    "course": "English for Beginners — Level 1",
+    "module": "My First Conversations",
+    "module_order": 8,
+    "lesson_id": "ef0594b8-a533-496e-8fdd-a85d29235884",
+    "lesson": "Meeting Someone New",
+    "lesson_order": 1,
+    "is_published": false,
+    "block_id": "afb5636d-afdd-4da9-b9d8-814f8bd12fcb",
+    "type": "reading",
+    "content": {
+      "body": "**เป้าหมาย:** นำคำทักทาย ชื่อ ที่มา และภาษามารวมเป็นบทสนทนา\n\n## สถานการณ์: ก่อนเริ่มคลาสภาษา\nPim กับ Alex ยังไม่เคยรู้จักกัน อ่านรอบแรกเพื่อจับว่าแต่ละคนมาจากไหน รอบที่สองสังเกตคำถามกลับ\n\n> Pim: Hi. I'm Pim. What's your name?\n> Alex: I'm Alex. Nice to meet you.\n> Pim: Nice to meet you, too. Where are you from?\n> Alex: I'm from Australia. What about you?\n> Pim: I'm from Thailand. I live in Bangkok.\n> Alex: I live in Bangkok, too. Do you speak English?\n> Pim: A little. Please speak slowly.\n> Alex: Of course.\n> Pim: Thank you. See you in class!\n> Alex: See you!\n\n## คุยต่อโดยไม่ถามรัว\nตอบคำถามก่อน แล้วเลือกถามกลับหนึ่งคำถาม เช่น **What about you?** ฟังคำตอบและใช้ข้อมูลนั้นคุยต่อ ไม่ต้องถามอายุหรือข้อมูลส่วนตัวทุกครั้ง\n\n## ประโยคช่วยเมื่อสะดุด\n- ฟังชื่อไม่ทัน: **Could you say that again, please?**\n- อยากรู้สะกด: **How do you spell that?**\n- ไม่เข้าใจ: **I don't understand.**\n- พร้อมบอกลา: **See you later!**\n\n## ลองทำก่อนดูเฉลย\n1. Alex มาจากประเทศอะไร?\n2. Pim ขอให้อีกฝ่ายทำอะไร?\n3. ทั้งคู่ใช้ Nice to meet you เพราะเคยพบกันหรือเพิ่งพบ?\n\n**เฉลย:** 1. Australia  2. พูดช้า / Please speak slowly.  3. เพิ่งพบกัน\n\n## ภารกิจ: ทำให้เป็นบทของคุณ\nปิดตัวอย่างแล้วคุย 6–8 บรรทัดโดยทำครบ: ทัก → บอกชื่อ → ยินดีที่รู้จัก → ถามที่มา → ถามกลับ → บอกลา ใช้ชื่อและเมืองของตัวเองหรือข้อมูลสมมติได้\n\n**ตรวจตัวเอง:** ฉันตอบสิ่งที่เพื่อนถามได้ไหม? ฉันถามกลับอย่างน้อยหนึ่งครั้งไหม? ถ้าฟังไม่ทัน ฉันขอให้พูดซ้ำได้ไหม?\n",
+      "title": "Meeting Someone New: คุยกับเพื่อนใหม่ตั้งแต่ต้นจนจบ",
+      "format": "markdown"
+    },
+    "settings": {
+      "textSize": "medium",
+      "alignment": "left"
+    }
+  },
+  {
+    "course": "English for Beginners — Level 1",
+    "module": "My First Conversations",
+    "module_order": 8,
+    "lesson_id": "63076940-d85b-432f-af78-31603a8d6854",
+    "lesson": "At a Café",
+    "lesson_order": 2,
+    "is_published": false,
+    "block_id": "3aa4bbf5-2f9b-4d6d-9b92-47738fc1da1d",
+    "type": "reading",
+    "content": {
+      "body": "![Food and drinks on a cozy cafe table](https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/lesson-covers/food-and-drinks-b15a2379-d5d0-452f-9a04-6c1feb666921.png)\n\n**เป้าหมาย:** นำคำสั่งอาหาร จำนวน และราคามาใช้ในสถานการณ์เดียว\n\n## เมนูสมมติสำหรับฝึก\n| Item | Price |\n| --- | --- |\n| Hot tea | 40 baht |\n| Iced coffee | 60 baht |\n| Sandwich | 80 baht |\n| A slice of cake | 50 baht |\n\nราคาใช้ฝึกภาษาและคำนวณเท่านั้น\n\n## สถานการณ์: แวะคาเฟ่หลังเรียน\n> Barista: Hello. What would you like?\n> Pim: I'd like an iced coffee and a sandwich, please.\n> Barista: For here or to go?\n> Pim: For here, please.\n> Barista: One hot coffee and a sandwich?\n> Pim: Iced coffee, please.\n> Barista: Sorry! One iced coffee and one sandwich. That's one hundred and forty baht.\n> Pim: Here you go. Thank you.\n> Barista: Thank you. Enjoy!\n\n## อ่านแล้วสังเกต\nPim ไม่ได้พูดยาวเพื่อแก้ออร์เดอร์ เพียงทวน **Iced coffee, please.** ก็ชัดเจน ราคาสองอย่างคือ 60 + 80 = 140 บาท **That's … baht.** ใช้บอกราคารวม\n\n## ถ้าเมนูที่ต้องการหมด\n> Barista: Sorry, we don't have sandwiches today.\n> You: That's OK. Can I have a slice of cake instead?\n\n**instead** = แทน / **Enjoy!** = ขอให้อร่อยหรือมีความสุขกับสิ่งที่รับไป\n\n## ลองทำก่อนดูเฉลย\n1. Pim ต้องการเครื่องดื่มร้อนหรือเย็น?\n2. Pim ดื่มที่ร้านหรือเอากลับ?\n3. ถ้าสั่ง hot tea กับ cake จากเมนูนี้ รวมเท่าไร?\n\n**เฉลย:** 1. Iced coffee / เย็น  2. For here / ที่ร้าน  3. Ninety baht (40 + 50)\n\n## ภารกิจ: เปิดร้านจำลอง\nเลือกสองอย่างจากเมนู ให้เพื่อนเป็นพนักงานถาม For here or to go? และทวนออร์เดอร์ คุณต้องแก้หนึ่งรายละเอียด เช่น hot → iced แล้วตอบราคารวมเป็นอังกฤษ\n",
+      "title": "At a Café: อ่านเมนู สั่งสองอย่าง และแก้ความเข้าใจผิด",
+      "format": "markdown"
+    },
+    "settings": {
+      "textSize": "medium",
+      "alignment": "left"
+    }
+  },
+  {
+    "course": "English for Beginners — Level 1",
+    "module": "My First Conversations",
+    "module_order": 8,
+    "lesson_id": "23634f59-1c3e-42ee-9719-789b244588a5",
+    "lesson": "Around Town",
+    "lesson_order": 3,
+    "is_published": false,
+    "block_id": "0b3a4bea-7043-4e2c-86ad-8549d167946a",
+    "type": "reading",
+    "content": {
+      "body": "![A neighborhood with a cafe, market, bus stop, library and park](https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/lesson-covers/places-in-town-2a8d0e5a-dd6a-4657-8a32-d79bbd4f1d30.png)\n\n**เป้าหมาย:** รวมการบรรยายคน ตำแหน่ง และคำบอกทาง\n\n## สถานการณ์: นัด Alex ที่คาเฟ่ใกล้ห้องสมุด\nตำแหน่งและเส้นทางต่อไปนี้เป็นตัวอย่างในข้อความ ภาพด้านบนใช้ช่วยจำคำสถานที่\n\n> Pim: Hi, Alex. Where are you?\n> Alex: I'm at the café next to the library.\n> Pim: I'm near the supermarket. How do I get there?\n> Alex: Go straight. Turn right at the corner. The café is on your left.\n> Pim: Right at the corner, then on my left?\n> Alex: That's right. I'm wearing a blue shirt.\n> Pim: Great. See you soon!\n\n**at the café** = อยู่ที่คาเฟ่ / **there** = ที่นั่น / **See you soon!** = แล้วเจอกันเร็ว ๆ นี้\n\n## ไปถึงแล้วถามให้ชัด\n> Pim: Excuse me. Is this the café next to the library?\n> Staff: Yes, it is.\n> Pim: Thank you. I'm meeting a friend.\n\n**I'm meeting a friend.** = ฉันมานัดเจอเพื่อน ใช้เล่าจุดประสงค์สั้น ๆ\n\n## อ่านแล้วแยกข้อมูล\n| ข้อมูลที่ต้องรู้ | คำตอบในเรื่อง |\n| --- | --- |\n| เพื่อนอยู่ไหน | At the café next to the library. |\n| เลี้ยวทางไหน | Turn right at the corner. |\n| คาเฟ่อยู่ฝั่งไหนหลังเลี้ยว | On your left. |\n| เพื่อนใส่อะไร | A blue shirt. |\n\n## ลองทำก่อนดูเฉลย\n1. Alex อยู่ที่ supermarket หรือ café?\n2. Pim ต้องเลี้ยวที่ไหน?\n3. Alex บอกสีเสื้อเพื่อช่วยอะไร?\n\n**เฉลย:** 1. café  2. At the corner.  3. ให้ Pim ระบุคนได้เมื่อมาถึง\n\n## ภารกิจ: นัดเจอในเมืองจำลอง\nวาดสถานที่ 4 แห่ง ให้เพื่อนเลือกจุดนัดหมายโดยคุณไม่เห็น แล้วถาม Where are you? / How do I get there? คุณต้องทวนทางหนึ่งครั้งและถามจุดสังเกตหนึ่งอย่างก่อนจบ\n",
+      "title": "Around Town: ตามหาเพื่อนและถามทางในเมือง",
+      "format": "markdown"
+    },
+    "settings": {
+      "textSize": "medium",
+      "alignment": "left"
+    }
+  },
+  {
+    "course": "English for Beginners — Level 1",
+    "module": "My First Conversations",
+    "module_order": 8,
+    "lesson_id": "644c30a7-1f9d-4244-8fe8-9be6e65ec411",
+    "lesson": "Level 1 Review & Challenge",
+    "lesson_order": 4,
+    "is_published": false,
+    "block_id": "166dbe2f-623e-46ef-85a0-b3716ac6a3b5",
+    "type": "reading",
+    "content": {
+      "body": "**เป้าหมาย:** ใช้สิ่งที่เรียนมาแนะนำตัว สั่งอาหาร และถามทาง พร้อมตรวจจุดที่ยังต้องฝึก\n\n## อ่านหนึ่งวันของ Pim\n> Hi, I'm Pim. I'm from Chiang Mai, Thailand, but I live in Bangkok. I speak Thai and a little English. I usually get up at seven. Today, I meet my friend Alex at a café. He's from Australia. We order two iced coffees and one sandwich. Each coffee is sixty baht. The sandwich is eighty baht. After lunch, we go to the library. A local tells us, “Go straight and turn left at the park. The library is on your right.” We say, “Thank you for your help!”\n\nราคากับเส้นทางในเรื่องเป็นข้อมูลสมมติสำหรับฝึก **each** = แต่ละ / **today** = วันนี้\n\n## ตรวจความเข้าใจจากเรื่อง\nลองตอบก่อนอ่านเฉลย\n1. Pim มาจากไหน และอาศัยอยู่ที่ไหน?\n2. Pim พูดภาษาอะไร?\n3. Alex มาจากประเทศอะไร?\n4. กาแฟสองแก้วกับแซนด์วิชหนึ่งชิ้นรวมราคาเท่าไร?\n5. ต้องเลี้ยวซ้ายหรือขวาที่สวน?\n6. หลังเลี้ยว ห้องสมุดอยู่ฝั่งไหน?\n\n## ตรวจประโยคพื้นฐาน\n7. เติม: They ___ my friends.\n8. แก้: I am speak Thai.\n9. จะสั่งกาแฟ เลือก I like a coffee. หรือ I'd like a coffee, please.\n10. ก่อนเข้านอนบอก Good evening. หรือ Good night.?\n\n---\n\n## เฉลยพร้อมเหตุผล\n1. From Chiang Mai, Thailand; lives in Bangkok. — ที่มากับที่อยู่ปัจจุบันต่างกัน\n2. Thai and a little English.\n3. Australia.\n4. **Two hundred baht.** — 60 + 60 + 80 = 200\n5. **Left.** — Turn left at the park.\n6. **On your right.** — ฝั่งขวาหลังเลี้ยว\n7. **are** — They ใช้ are\n8. **I speak Thai.** — speak เป็นกริยา ไม่เติม am\n9. **I'd like a coffee, please.** — ใช้ขอสั่ง ส่วน I like บอกความชอบ\n10. **Good night.** — ใช้บอกลากลางคืนหรือก่อนนอน\n\n## ภารกิจท้ายคอร์ส: 3 สถานี\n### สถานี 1 — พบเพื่อนใหม่\nทัก บอกชื่อ ที่มา และภาษาที่พูด จากนั้นถามกลับหนึ่งคำถามและบอกลา ใช้ข้อมูลจริงหรือสมมติก็ได้\n\n### สถานี 2 — คาเฟ่\nสั่งเครื่องดื่มกับของว่าง ระบุ hot / iced และ for here / to go ถามราคา แล้วขอบคุณ ให้คู่ฝึกทวนออร์เดอร์หนึ่งครั้ง\n\n### สถานี 3 — ถามทาง\nเริ่ม Excuse me. ถาม How do I get to the …? ฟังเส้นทางสองขั้น ทวนซ้ายขวา แล้วขอบคุณ ใช้แผนที่วาดเอง\n\n## ประเมินตัวเอง\n- ฉันทำให้คู่สนทนาเข้าใจจุดประสงค์ได้ไหม?\n- ฉันตอบคำถามที่ได้ยินได้ไหม?\n- ฉันขอให้พูดซ้ำหรือพูดช้าได้ไหม?\n\nถ้ายังติด ไม่ต้องเริ่มทั้งหมดใหม่ กลับไปบทที่เกี่ยวข้อง: ชื่อและที่มา → My Name Is… / I Am From…; สั่งของ → Ordering at a Café; ทวนทาง → Asking for Directions แล้วลองสถานีนั้นอีกครั้ง\n\n**ภารกิจต่อไป:** เลือกหนึ่งสถานการณ์จากชีวิตประจำวัน ฝึก 5 นาทีทุกวัน การพูดสั้น ๆ ให้เข้าใจได้เป็นความก้าวหน้าที่ใช้ได้จริง\n",
+      "title": "Level 1 Review & Challenge: ใช้อังกฤษผ่านหนึ่งวันจริง",
+      "format": "markdown"
+    },
+    "settings": {
+      "textSize": "medium",
+      "alignment": "left"
+    }
+  }
+]

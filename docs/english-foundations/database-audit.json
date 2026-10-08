@@ -1,0 +1,38 @@
+{
+  "timestamp": "2026-10-04T08:04:42.473Z",
+  "counts": {
+    "courses": 4,
+    "modules": 36,
+    "lessons": 236,
+    "lesson_blocks": 1199
+  },
+  "perCourse": [
+    {
+      "slug": "english-foundations-1",
+      "modules": 10,
+      "lessons": 65,
+      "blocks": 328
+    },
+    {
+      "slug": "english-foundations-2",
+      "modules": 8,
+      "lessons": 55,
+      "blocks": 278
+    },
+    {
+      "slug": "english-foundations-3",
+      "modules": 9,
+      "lessons": 62,
+      "blocks": 313
+    },
+    {
+      "slug": "english-foundations-4",
+      "modules": 9,
+      "lessons": 54,
+      "blocks": 280
+    }
+  ],
+  "mismatches": [],
+  "baseSeedMatchesDatabase": true,
+  "sqlSha256": "fdb983f8758b62d57cec5d811c1742edd0f2aa0dc5bc1db43ef71fb479d78d5a"
+}

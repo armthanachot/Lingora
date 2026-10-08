@@ -1,0 +1,31 @@
+# Local environment and credentials
+.env*
+!.env.example
+!.env.*.example
+.aws/
+*.pem
+*.key
+
+# Dependencies and generated output
+node_modules/
+dist/
+build/
+coverage/
+.vite/
+.cache/
+*.tsbuildinfo
+
+# Logs and temporary files
+*.log
+*.pid
+*.pid.lock
+*.tmp
+*.swp
+*.swo
+*~
+
+# Operating system and editor files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/

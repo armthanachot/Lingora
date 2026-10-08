@@ -1,0 +1,17 @@
+[
+  {
+    "name": "people-around-me",
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/lesson-covers/people-around-me-40cce5d9-3b27-428d-8374-1ad89afcedcc.png",
+    "bytes": 2260904
+  },
+  {
+    "name": "food-and-drinks",
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/lesson-covers/food-and-drinks-b15a2379-d5d0-452f-9a04-6c1feb666921.png",
+    "bytes": 1986476
+  },
+  {
+    "name": "places-in-town",
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/lesson-covers/places-in-town-2a8d0e5a-dd6a-4657-8a32-d79bbd4f1d30.png",
+    "bytes": 2509213
+  }
+]

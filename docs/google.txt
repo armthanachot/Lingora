@@ -1,0 +1,46 @@
+Lingora - Google Sign-In setup
+
+Flow used by this project
+1. Web uses Google Identity Services (GIS) to render "Sign in with Google".
+2. GIS returns a Google ID token in CredentialResponse.credential.
+3. lingora-web sends that credential to POST /api/v1/auth/google.
+4. lingora-api verifies the ID token with google-auth-library and GOOGLE_CLIENT_ID as the audience.
+5. The API uses the verified Google `sub` claim as providerAccountId, then creates or updates the Lingora user.
+6. The API creates a Lingora server-side session and returns an HttpOnly `lingora_session` cookie.
+7. lingora-web sends the cookie with API requests and restores the signed-in user from GET /api/v1/auth/me after refresh.
+
+Google configuration required
+1. Open Google Cloud / Google Auth Platform.
+2. Configure the OAuth consent screen / branding if required for the project.
+3. Create an OAuth 2.0 Client ID with application type: Web application.
+4. Add Authorized JavaScript origins:
+   - http://localhost:5173
+   - add the production Lingora web origin later, e.g. https://lingora.example.com
+5. Authorized redirect URIs can stay empty for the current GIS callback flow.
+6. Copy the Web Client ID. It normally looks like:
+   1234567890-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.apps.googleusercontent.com
+
+Environment variables
+lingora-web/.env
+VITE_API_BASE_URL=http://localhost:3001
+VITE_GOOGLE_CLIENT_ID=YOUR_WEB_CLIENT_ID.apps.googleusercontent.com
+
+lingora-api/.env
+DATABASE_URL=postgresql://postgres:postgres@localhost:5432/app
+API_PORT=3001
+CORS_ORIGIN=http://localhost:5173
+GOOGLE_CLIENT_ID=YOUR_WEB_CLIENT_ID.apps.googleusercontent.com
+
+Important
+- VITE_GOOGLE_CLIENT_ID is public by design; it is sent to the browser.
+- GOOGLE_CLIENT_ID on the API must be the same Web Client ID so the backend can verify the token audience.
+- A Google Client Secret is NOT required for this GIS ID-token verification flow.
+- Do not put a Google Client Secret in VITE_* variables.
+- The Lingora session token is an opaque random value. Only its SHA-256 hash is stored in PostgreSQL; the raw token stays in an HttpOnly cookie.
+- If Lingora later uses OAuth authorization-code flow to call Google APIs on behalf of a user, create/use a client secret only on the backend and never expose it to the browser.
+- For production, use HTTPS and add the exact production web origin in Google Auth Platform and CORS_ORIGIN.
+
+After adding env values
+- Run dependency install in both packages.
+- Generate and apply the Drizzle migration from `src/db/schema.ts`.
+- Start API and Web, then test Google Sign-In, profile completion, refresh/session restore, and sign-out.

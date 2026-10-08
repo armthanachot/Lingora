@@ -1,0 +1,32 @@
+{
+  "name": "lingora-api",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "bun --watch src/index.ts",
+    "start": "bun src/index.ts",
+    "typecheck": "tsc --noEmit",
+    "db:generate": "sh scripts/drizzle.sh generate",
+    "db:drop-migration": "sh scripts/drizzle.sh drop",
+    "db:migrate": "sh scripts/drizzle.sh migrate",
+    "db:push": "drizzle-kit push",
+    "db:seed:globe": "bun src/db/seed-globe.ts",
+    "db:seed:levels": "bun src/db/seed-levels.ts",
+    "db:seed:english-beginner-1": "bun src/db/seed-english-beginner-1.ts",
+    "db:promote-super-admin": "bun src/db/promote-super-admin.ts"
+  },
+  "dependencies": {
+    "@elysia/cors": "1.4.2",
+    "drizzle-orm": "0.45.3",
+    "dotenv": "18.0.4",
+    "elysia": "1.4.30",
+    "google-auth-library": "11.1.0",
+    "pg": "8.23.0"
+  },
+  "devDependencies": {
+    "@types/bun": "1.4.2",
+    "@types/pg": "8.23.1",
+    "drizzle-kit": "0.31.11",
+    "typescript": "7.0.2"
+  }
+}

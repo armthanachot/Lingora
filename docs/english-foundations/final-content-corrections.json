@@ -1,0 +1,29 @@
+[
+  {
+    "code": "18.FINAL",
+    "blockId": "32c5bc37-fa0a-58a5-ad92-e9a348a1dc45",
+    "expectedOldContent": {
+      "body": "วางแผนกิจกรรมกับเพื่อน: เขียนวันเวลา สถานที่ สิ่งของและจำนวนที่ต้องใช้ พร้อมบอกความถี่และความสามารถ แล้วสร้างบทขอความช่วยเหลือ 4 บรรทัด\n\n### ตัวอย่างผลงาน\n\nWe meet at nine on Saturday at the park. There are three people. We need three bottles of water and some apples. I walk every day for twenty minutes. Ben can cook. Can you bring some cups? Sure. Could you help me carry the bag? Of course.\n\n### เกณฑ์ตรวจ\n\n- วันเวลาและสถานที่ครบ\n- ความถี่ต่างจากระยะเวลา\n- จำนวน หน่วยและ quantifiers ถูก\n- บรรยายสิ่งกำลังทำด้วย be+ing ได้\n- คำขอและคำตอบเหมาะกับผู้ฟัง\n\nให้ตนเองหรือครูตรวจงาน ระบบตรวจอัตโนมัติเฉพาะข้อเลือกตอบ แล้วทบทวนจุดที่ยังไม่มั่นใจเป็นระยะ",
+      "title": "ผลงานปิดคอร์ส",
+      "format": "markdown"
+    }
+  },
+  {
+    "code": "27.FINAL",
+    "blockId": "981d7bba-d508-5be6-ac97-c0b200e547ca",
+    "expectedOldContent": {
+      "body": "อ่านข้อมูลนี้: Mai visited a friend last Saturday. They were cooking when Ben called. Mai has known her friend for five years. Tomorrow she is meeting Ben at six. สรุปข้อมูลโดยไม่เติมเอง แล้วเขียนเรื่องของคุณ 80–100 คำ มีอดีต ประสบการณ์ แผนและเหตุผล พร้อมถามรายละเอียดเพื่อนสามข้อ\n\n### ตัวอย่างผลงาน\n\nMai visited her friend last Saturday. They were cooking when Ben called. She has known her friend for five years. She is meeting Ben at six tomorrow. My story: Last week, I visited my sister. We cooked lunch because we were hungry. I have cooked many meals with her. Tomorrow, I’m going to visit her again. I’ll help her after I finish my work.\n\n### เกณฑ์ตรวจ\n\n- สรุปข้อเท็จจริงครบไม่เปลี่ยนผู้ทำ เวลา ระยะ\n- V1/V2/V3 ถูกตามโครงสร้าง\n- เลือก tense ตามความหมาย ไม่ตามคำใบ้ล้วน\n- คำแนะนำ ห้ามและไม่จำเป็นแยกกัน\n- เชื่อมเหตุผล จุดประสงค์และเวลาให้คนอ่านตามได้\n\nให้ตนเองหรือครูตรวจงาน ระบบตรวจอัตโนมัติเฉพาะข้อเลือกตอบ แล้วทบทวนจุดที่ยังไม่มั่นใจเป็นระยะ",
+      "title": "ผลงานปิดคอร์ส",
+      "format": "markdown"
+    }
+  },
+  {
+    "code": "35.CP",
+    "blockId": "c4e8f902-35f4-5907-aa91-e8a8b809b2ff",
+    "expectedOldContent": {
+      "body": "## ใช้ภาษาเพื่อสื่อสาร\n\nสนทนา 2 นาทีและเขียนข้อความ 60–80 คำ มีทัก ตอบถามกลับ ขอทวน นัดและลา แล้วแก้หนึ่งรอบตาม checklist\n\n### ตัวอย่างผลงาน\n\nHi Ben, how are you? I enjoyed studying with you last week. Would you like to meet again on Saturday at ten? We can read a short story at the library and practise speaking after that. Please bring your notebook. Let me know if you can come, and tell me if another time is better. See you soon, Mai.\n\n### ตรวจผลงาน\n\n- สื่อจุดประสงค์และข้อมูลครบ\n- ถามกลับและแก้ความไม่เข้าใจได้\n- ใช้ภาษาเหมาะผู้รับ\n- ตรวจ grammar/spelling/punctuation ที่กระทบความเข้าใจ\n\nลองทำก่อนดูตัวอย่าง แล้วแก้ผลงานของคุณอีกครั้ง งานนี้ใช้ตรวจตนเองหรือให้ครูตรวจ ระบบบันทึกการอ่าน block และไม่ได้ให้คะแนนงานพูด/เขียนโดยอัตโนมัติ",
+      "title": "ภารกิจประจำ module",
+      "format": "markdown"
+    }
+  }
+]

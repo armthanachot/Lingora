@@ -1,0 +1,88 @@
+[
+  {
+    "mode": "--dry-run",
+    "timestamp": "2026-10-04T07:25:14.791Z",
+    "sqlFile": "docs/english-foundations-seed.sql",
+    "before": {
+      "courses": 1,
+      "modules": 8,
+      "lessons": 32,
+      "lesson_blocks": 32
+    },
+    "after": {
+      "courses": 1,
+      "modules": 8,
+      "lessons": 32,
+      "lesson_blocks": 32
+    },
+    "actual": null,
+    "status": "passed"
+  },
+  {
+    "mode": "--execute",
+    "timestamp": "2026-10-04T07:25:39.371Z",
+    "sqlFile": "docs/english-foundations-seed.sql",
+    "before": {
+      "courses": 1,
+      "modules": 8,
+      "lessons": 32,
+      "lesson_blocks": 32
+    },
+    "after": {
+      "courses": 5,
+      "modules": 44,
+      "lessons": 268,
+      "lesson_blocks": 1231
+    },
+    "actual": {
+      "courses": 4,
+      "modules": 36,
+      "lessons": 236,
+      "lesson_blocks": 1199
+    },
+    "status": "passed"
+  },
+  {
+    "mode": "--dry-run",
+    "timestamp": "2026-10-04T08:04:30.260Z",
+    "sqlFile": "docs/english-foundations-seed.sql",
+    "before": {
+      "courses": 5,
+      "modules": 44,
+      "lessons": 268,
+      "lesson_blocks": 1231
+    },
+    "after": {
+      "courses": 5,
+      "modules": 44,
+      "lessons": 268,
+      "lesson_blocks": 1231
+    },
+    "actual": null,
+    "status": "passed"
+  },
+  {
+    "mode": "--execute",
+    "timestamp": "2026-10-04T08:04:37.789Z",
+    "sqlFile": "docs/english-foundations-seed.sql",
+    "before": {
+      "courses": 5,
+      "modules": 44,
+      "lessons": 268,
+      "lesson_blocks": 1231
+    },
+    "after": {
+      "courses": 5,
+      "modules": 44,
+      "lessons": 268,
+      "lesson_blocks": 1231
+    },
+    "actual": {
+      "courses": 4,
+      "modules": 36,
+      "lessons": 236,
+      "lesson_blocks": 1199
+    },
+    "status": "passed"
+  }
+]

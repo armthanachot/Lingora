@@ -1,0 +1,1586 @@
+[
+  {
+    "code": "01.01",
+    "file": "lesson-01-01.wav",
+    "transcript": "The letter B. Bag. The letter M. Mai. My name is Ben. B. E. N.",
+    "voice": "Samantha",
+    "engine": "macOS say (synthetic teaching audio)",
+    "rate": 125
+  },
+  {
+    "code": "01.02",
+    "file": "lesson-01-02.wav",
+    "transcript": "Light. Right. Light. Right. Vest. West. Vest. West. Think. This. Ship. Chip.",
+    "voice": "Samantha",
+    "engine": "macOS say (synthetic teaching audio)",
+    "rate": 125
+  },
+  {
+    "code": "01.03",
+    "file": "lesson-01-03.wav",
+    "transcript": "Ship. Sheep. Ship. Sheep. Bed. Bad. Bed. Bad. Tea. Bread. A sheep is on the ship.",
+    "voice": "Samantha",
+    "engine": "macOS say (synthetic teaching audio)",
+    "rate": 125
+  },
+  {
+    "code": "01.04",
+    "file": "lesson-01-04.wav",
+    "transcript": "Cap. Cat. Cap. Cat. Book. Books. One book. Two books. Stop. Books.",
+    "voice": "Samantha",
+    "engine": "macOS say (synthetic teaching audio)",
+    "rate": 125
+  },
+  {
+    "code": "01.05",
+    "file": "lesson-01-05.wav",
+    "transcript": "Cap. Cape. Cap. Cape. Rain. Train. Shop. Chair. Three. Know. Walk.",
+    "voice": "Samantha",
+    "engine": "macOS say (synthetic teaching audio)",
+    "rate": 125
+  },
+  {
+    "code": "01.06",
+    "file": "lesson-01-06.wav",
+    "transcript": "Teacher. Teacher. Banana. Banana. About. About. Student. Today.",
+    "voice": "Samantha",
+    "engine": "macOS say (synthetic teaching audio)",
+    "rate": 125
+  },
+  {
+    "code": "02.01",
+    "file": "lesson-02-01.wav",
+    "transcript": "The small cat sleeps quietly.. She reads in the room and smiles.",
+    "voice": "Samantha",
+    "engine": "macOS say (synthetic teaching audio)",
+    "rate": 145
+  },
+  {
+    "code": "02.02",
+    "file": "lesson-02-02.wav",
+    "transcript": "Birds fly.. Mai works.",
+    "voice": "Samantha",
+    "engine": "macOS say (synthetic teaching audio)",
+    "rate": 145
+  },
+  {
+    "code": "02.03",
+    "file": "lesson-02-03.wav",
+    "transcript": "I read books.. Birds fly in the sky.",
+    "voice": "Samantha",
+    "engine": "macOS say (synthetic teaching audio)",
+    "rate": 145
+  },
+  {
+    "code": "02.04",
+    "file": "lesson-02-04.wav",
+    "transcript": "Ben is a teacher.. Ben teaches English.",
+    "voice": "Samantha",
+    "engine": "macOS say (synthetic teaching audio)",
+    "rate": 145
+  },
+  {
+    "code": "02.05",
+    "file": "lesson-02-05.wav",
+    "transcript": "I live in Bangkok.. Is the bag small?. a small bag",
+    "voice": "Samantha",
+    "engine": "macOS say (synthetic teaching audio)",
+    "rate": 145
+  },
+  {
+    "code": "03.01",
+    "file": "lesson-03-01.wav",
+    "transcript": "city. Bangkok. chair. happiness. teacher. Mai",
+    "voice": "Samantha",
+    "engine": "macOS say (synthetic teaching audio)",
+    "rate": 145
+  },
+  {
+    "code": "03.02",
+    "file": "lesson-03-02.wav",
+    "transcript": "Mai is here. She is happy.. Ben and I are friends. We study English.. You are welcome.",
+    "voice": "Samantha",
+    "engine": "macOS say (synthetic teaching audio)",
+    "rate": 145
+  },
+  {
+    "code": "03.03",
+    "file": "lesson-03-03.wav",
+    "transcript": "one book. two books. one box. three boxes. one city. two cities. one toy. four toys",
+    "voice": "Samantha",
+    "engine": "macOS say (synthetic teaching audio)",
+    "rate": 145
+  },
+  {
+    "code": "03.04",
+    "file": "lesson-03-04.wav",
+    "transcript": "one child. two children. one person. five people. one sheep. three sheep",
+    "voice": "Samantha",
+    "engine": "macOS say (synthetic teaching audio)",
+    "rate": 145
+  },
+  {
+    "code": "03.05",
+    "file": "lesson-03-05.wav",
+    "transcript": "a chair. two chairs. water. two glasses of water. chicken. a chicken",
+    "voice": "Samantha",
+    "engine": "macOS say (synthetic teaching audio)",
+    "rate": 145
+  },
+  {
+    "code": "04.01",
+    "file": "lesson-04-01.wav",
+    "transcript": "I am ready.. The teacher is here.. My friends are here.",
+    "voice": "Samantha",
+    "engine": "macOS say (synthetic teaching audio)",
+    "rate": 145
+  },
+  {
+    "code": "04.02",
+    "file": "lesson-04-02.wav",
+    "transcript": "She is a nurse.. She is Thai.. She is tired.. She is at home.",
+    "voice": "Samantha",
+    "engine": "macOS say (synthetic teaching audio)",
+    "rate": 145
+  },
+  {
+    "code": "04.03",
+    "file": "lesson-04-03.wav",
+    "transcript": "I’m ready.. I’m not ready.. She’s here.. She isn’t here.. They’re busy.. They aren’t busy.",
+    "voice": "Samantha",
+    "engine": "macOS say (synthetic teaching audio)",
+    "rate": 145
+  },
+  {
+    "code": "04.04",
+    "file": "lesson-04-04.wav",
+    "transcript": "Is she here?. Yes, she is.. Are they ready?. No, they aren’t.. Are you a student?. Yes, I am.",
+    "voice": "Samantha",
+    "engine": "macOS say (synthetic teaching audio)",
+    "rate": 145
+  },
+  {
+    "code": "04.05",
+    "file": "lesson-04-05.wav",
+    "transcript": "Where is Mai?. She is at home.. How old are you?. I am twenty.. What time is it?. It is nine.",
+    "voice": "Samantha",
+    "engine": "macOS say (synthetic teaching audio)",
+    "rate": 145
+  },
+  {
+    "code": "05.01",
+    "file": "lesson-05-01.wav",
+    "transcript": "I have a book.. She is a doctor.. I have books.",
+    "voice": "Samantha",
+    "engine": "macOS say (synthetic teaching audio)",
+    "rate": 145
+  },
+  {
+    "code": "05.02",
+    "file": "lesson-05-02.wav",
+    "transcript": "an hour. a university. an old bag",
+    "voice": "Samantha",
+    "engine": "macOS say (synthetic teaching audio)",
+    "rate": 145
+  },
+  {
+    "code": "05.03",
+    "file": "lesson-05-03.wav",
+    "transcript": "I bought a book. The book is good.. Please close the door.. The water in this bottle is cold.",
+    "voice": "Samantha",
+    "engine": "macOS say (synthetic teaching audio)",
+    "rate": 145
+  },
+  {
+    "code": "05.04",
+    "file": "lesson-05-04.wav",
+    "transcript": "I like cats.. The cats in this room are quiet.. She speaks English.",
+    "voice": "Samantha",
+    "engine": "macOS say (synthetic teaching audio)",
+    "rate": 145
+  },
+  {
+    "code": "05.05",
+    "file": "lesson-05-05.wav",
+    "transcript": "a small room. my blue bags. these new books",
+    "voice": "Samantha",
+    "engine": "macOS say (synthetic teaching audio)",
+    "rate": 145
+  },
+  {
+    "code": "05.06",
+    "file": "lesson-05-06.wav",
+    "transcript": "I go to school.. I go to the school to meet a teacher.. I go home.",
+    "voice": "Samantha",
+    "engine": "macOS say (synthetic teaching audio)",
+    "rate": 145
+  },
+  {
+    "code": "06.01",
+    "file": "lesson-06-01.wav",
+    "transcript": "This bag is blue.. Those bags are red.. These are books.",
+    "voice": "Samantha",
+    "engine": "macOS say (synthetic teaching audio)",
+    "rate": 145
+  },
+  {
+    "code": "06.02",
+    "file": "lesson-06-02.wav",
+    "transcript": "I have a bag. My bag is blue.. They have a room. Their room is small.. The dog moves its tail.",
+    "voice": "Samantha",
+    "engine": "macOS say (synthetic teaching audio)",
+    "rate": 145
+  },
+  {
+    "code": "06.03",
+    "file": "lesson-06-03.wav",
+    "transcript": "This is my bag. This bag is mine.. That is her book. That book is hers.. These seats are ours.",
+    "voice": "Samantha",
+    "engine": "macOS say (synthetic teaching audio)",
+    "rate": 145
+  },
+  {
+    "code": "06.04",
+    "file": "lesson-06-04.wav",
+    "transcript": "Anna’s bag. my parents’ room. children’s books",
+    "voice": "Samantha",
+    "engine": "macOS say (synthetic teaching audio)",
+    "rate": 145
+  },
+  {
+    "code": "06.05",
+    "file": "lesson-06-05.wav",
+    "transcript": "Whose book is this?. It is Ben’s.. She is a friend of mine.. He is a friend of theirs.",
+    "voice": "Samantha",
+    "engine": "macOS say (synthetic teaching audio)",
+    "rate": 145
+  },
+  {
+    "code": "07.01",
+    "file": "lesson-07-01.wav",
+    "transcript": "a blue bag. blue bags. The bag is blue.. The bags are blue.",
+    "voice": "Samantha",
+    "engine": "macOS say (synthetic teaching audio)",
+    "rate": 145
+  },
+  {
+    "code": "07.02",
+    "file": "lesson-07-02.wav",
+    "transcript": "a round table. a friendly teacher. The room is clean.",
+    "voice": "Samantha",
+    "engine": "macOS say (synthetic teaching audio)",
+    "rate": 145
+  },
+  {
+    "code": "07.03",
+    "file": "lesson-07-03.wav",
+    "transcript": "a small blue bag. a big round table. a lovely red dress",
+    "voice": "Samantha",
+    "engine": "macOS say (synthetic teaching audio)",
+    "rate": 145
+  },
+  {
+    "code": "07.04",
+    "file": "lesson-07-04.wav",
+    "transcript": "I am interested in music.. Music is interesting.. She is bored. The film is boring.",
+    "voice": "Samantha",
+    "engine": "macOS say (synthetic teaching audio)",
+    "rate": 145
+  },
+  {
+    "code": "07.05",
+    "file": "lesson-07-05.wav",
+    "transcript": "What is Mai like?. She is kind.. What is the room like?. It is small and bright.. I am happy.. I am a happy person.",
+    "voice": "Samantha",
+    "engine": "macOS say (synthetic teaching audio)",
+    "rate": 145
+  },
+  {
+    "code": "08.01",
+    "file": "lesson-08-01.wav",
+    "transcript": "I live in Bangkok.. We study English.. I drink water.",
+    "voice": "Samantha",
+    "engine": "macOS say (synthetic teaching audio)",
+    "rate": 145
+  },
+  {
+    "code": "08.02",
+    "file": "lesson-08-02.wav",
+    "transcript": "go. goes. going. went. gone. work. works. working. worked. worked",
+    "voice": "Samantha",
+    "engine": "macOS say (synthetic teaching audio)",
+    "rate": 145
+  },
+  {
+    "code": "08.03",
+    "file": "lesson-08-03.wav",
+    "transcript": "I study English every day.. She lives in Chiang Mai.. Birds have wings.",
+    "voice": "Samantha",
+    "engine": "macOS say (synthetic teaching audio)",
+    "rate": 145
+  },
+  {
+    "code": "08.04",
+    "file": "lesson-08-04.wav",
+    "transcript": "I work in a shop.. We study English.. I am happy.",
+    "voice": "Samantha",
+    "engine": "macOS say (synthetic teaching audio)",
+    "rate": 145
+  },
+  {
+    "code": "08.05",
+    "file": "lesson-08-05.wav",
+    "transcript": "She works. He plays. She watches. Mai studies English. Her friends study English.",
+    "voice": "Samantha",
+    "engine": "macOS say (synthetic teaching audio)",
+    "rate": 145
+  },
+  {
+    "code": "08.06",
+    "file": "lesson-08-06.wav",
+    "transcript": "I have a bike.. She has a bike.. I have breakfast at seven.. Have you got a pen?. Yes, I have.",
+    "voice": "Samantha",
+    "engine": "macOS say (synthetic teaching audio)",
+    "rate": 145
+  },
+  {
+    "code": "08.07",
+    "file": "lesson-08-07.wav",
+    "transcript": "My sister reads books at home.. My sisters read books at home.. Every day, Ben walks to school.",
+    "voice": "Samantha",
+    "engine": "macOS say (synthetic teaching audio)",
+    "rate": 145
+  },
+  {
+    "code": "09.01",
+    "file": "lesson-09-01.wav",
+    "transcript": "She helps me.. I help her.. We know them.",
+    "voice": "Samantha",
+    "engine": "macOS say (synthetic teaching audio)",
+    "rate": 145
+  },
+  {
+    "code": "09.02",
+    "file": "lesson-09-02.wav",
+    "transcript": "Come with me.. This gift is for her.. I talk to them.",
+    "voice": "Samantha",
+    "engine": "macOS say (synthetic teaching audio)",
+    "rate": 145
+  },
+  {
+    "code": "09.03",
+    "file": "lesson-09-03.wav",
+    "transcript": "She gives me a book.. She gives a book to me.. He buys a gift for her.",
+    "voice": "Samantha",
+    "engine": "macOS say (synthetic teaching audio)",
+    "rate": 145
+  },
+  {
+    "code": "09.04",
+    "file": "lesson-09-04.wav",
+    "transcript": "Ben has two dogs. They are small. He likes them.. I help her.. Her bag is blue.",
+    "voice": "Samantha",
+    "engine": "macOS say (synthetic teaching audio)",
+    "rate": 145
+  },
+  {
+    "code": "10.01",
+    "file": "lesson-10-01.wav",
+    "transcript": "I don’t drink coffee.. She doesn’t drink coffee.. She isn’t tired.",
+    "voice": "Samantha",
+    "engine": "macOS say (synthetic teaching audio)",
+    "rate": 145
+  },
+  {
+    "code": "10.02",
+    "file": "lesson-10-02.wav",
+    "transcript": "Do you like tea?. Yes, I do.. Does Ben work here?. No, he doesn’t.. Is Ben tired?. Yes, he is.",
+    "voice": "Samantha",
+    "engine": "macOS say (synthetic teaching audio)",
+    "rate": 145
+  },
+  {
+    "code": "10.03",
+    "file": "lesson-10-03.wav",
+    "transcript": "Where do you live?. In Bangkok.. What time does she start?. At nine.. Why do you study English?. Because I like it.",
+    "voice": "Samantha",
+    "engine": "macOS say (synthetic teaching audio)",
+    "rate": 145
+  },
+  {
+    "code": "10.04",
+    "file": "lesson-10-04.wav",
+    "transcript": "What music do you like?. Which cup do you want, red or blue?. Whose cup is this?",
+    "voice": "Samantha",
+    "engine": "macOS say (synthetic teaching audio)",
+    "rate": 145
+  },
+  {
+    "code": "10.05",
+    "file": "lesson-10-05.wav",
+    "transcript": "Who helps Ben?. Mai helps Ben.. Who do you help?. I help Ben.. What happens?",
+    "voice": "Samantha",
+    "engine": "macOS say (synthetic teaching audio)",
+    "rate": 145
+  },
+  {
+    "code": "10.06",
+    "file": "lesson-10-06.wav",
+    "transcript": "How do you go to work?. By bus.. Who do you study with?. With Ben.. I work in a shop.. Do you?",
+    "voice": "Samantha",
+    "engine": "macOS say (synthetic teaching audio)",
+    "rate": 145
+  },
+  {
+    "code": "11.01",
+    "file": "lesson-11-01.wav",
+    "transcript": "13. 30. 203. Room 203",
+    "voice": "Daniel",
+    "engine": "macOS say (synthetic teaching audio)",
+    "rate": 145
+  },
+  {
+    "code": "11.02",
+    "file": "lesson-11-02.wav",
+    "transcript": "1st. 2nd. 3rd. 21st. 4 October 2026",
+    "voice": "Daniel",
+    "engine": "macOS say (synthetic teaching audio)",
+    "rate": 145
+  },
+  {
+    "code": "11.03",
+    "file": "lesson-11-03.wav",
+    "transcript": "6:30. 6:45. 9:00",
+    "voice": "Daniel",
+    "engine": "macOS say (synthetic teaching audio)",
+    "rate": 145
+  },
+  {
+    "code": "11.04",
+    "file": "lesson-11-04.wav",
+    "transcript": "40 baht. $2.50. 50 − 35 = 15",
+    "voice": "Daniel",
+    "engine": "macOS say (synthetic teaching audio)",
+    "rate": 145
+  },
+  {
+    "code": "11.05",
+    "file": "lesson-11-05.wav",
+    "transcript": "2 kg. 1/2. 1/4. 25%",
+    "voice": "Daniel",
+    "engine": "macOS say (synthetic teaching audio)",
+    "rate": 145
+  },
+  {
+    "code": "11.06",
+    "file": "lesson-11-06.wav",
+    "transcript": "in the morning. at night. on Friday. on 12 May. at 8:30",
+    "voice": "Daniel",
+    "engine": "macOS say (synthetic teaching audio)",
+    "rate": 145
+  },
+  {
+    "code": "11.07",
+    "file": "lesson-11-07.wav",
+    "transcript": "I work from nine to five.. I study until ten.. I read during lunch.",
+    "voice": "Daniel",
+    "engine": "macOS say (synthetic teaching audio)",
+    "rate": 145
+  },
+  {
+    "code": "12.01",
+    "file": "lesson-12-01.wav",
+    "transcript": "I usually walk to work.. I sometimes take a bus.. I never drive.",
+    "voice": "Daniel",
+    "engine": "macOS say (synthetic teaching audio)",
+    "rate": 145
+  },
+  {
+    "code": "12.02",
+    "file": "lesson-12-02.wav",
+    "transcript": "I usually work at home.. I am usually at home.. She can always help.",
+    "voice": "Daniel",
+    "engine": "macOS say (synthetic teaching audio)",
+    "rate": 145
+  },
+  {
+    "code": "12.03",
+    "file": "lesson-12-03.wav",
+    "transcript": "I exercise twice a week.. I read every day.. I study everyday English.",
+    "voice": "Daniel",
+    "engine": "macOS say (synthetic teaching audio)",
+    "rate": 145
+  },
+  {
+    "code": "12.04",
+    "file": "lesson-12-04.wav",
+    "transcript": "How often do you swim?. Twice a week.. How often does she walk?. Every day.. How often are you late?. Never.",
+    "voice": "Daniel",
+    "engine": "macOS say (synthetic teaching audio)",
+    "rate": 145
+  },
+  {
+    "code": "12.05",
+    "file": "lesson-12-05.wav",
+    "transcript": "How long do you study?. For an hour.. How often do you study?. Every day.. When do you study?. At seven.",
+    "voice": "Daniel",
+    "engine": "macOS say (synthetic teaching audio)",
+    "rate": 145
+  },
+  {
+    "code": "13.01",
+    "file": "lesson-13-01.wav",
+    "transcript": "The book is in the bag.. The book is on the table.. Mai is at the station.",
+    "voice": "Daniel",
+    "engine": "macOS say (synthetic teaching audio)",
+    "rate": 145
+  },
+  {
+    "code": "13.02",
+    "file": "lesson-13-02.wav",
+    "transcript": "The bag is under the table.. The chair is between the desk and the door.. The shop is opposite the bank.",
+    "voice": "Daniel",
+    "engine": "macOS say (synthetic teaching audio)",
+    "rate": 145
+  },
+  {
+    "code": "13.03",
+    "file": "lesson-13-03.wav",
+    "transcript": "Go into the room.. Walk across the street.. Walk through the park.",
+    "voice": "Daniel",
+    "engine": "macOS say (synthetic teaching audio)",
+    "rate": 145
+  },
+  {
+    "code": "13.04",
+    "file": "lesson-13-04.wav",
+    "transcript": "There is a book on the desk.. There are three books on the desk.. Is there a bank near here?",
+    "voice": "Daniel",
+    "engine": "macOS say (synthetic teaching audio)",
+    "rate": 145
+  },
+  {
+    "code": "13.05",
+    "file": "lesson-13-05.wav",
+    "transcript": "There is a bus. It is red.. It is cold today.. The bus is there.",
+    "voice": "Daniel",
+    "engine": "macOS say (synthetic teaching audio)",
+    "rate": 145
+  },
+  {
+    "code": "13.06",
+    "file": "lesson-13-06.wav",
+    "transcript": "I go by bus.. I go on foot.. I write with a pen.. I send it by email.. Go home. Come here.",
+    "voice": "Daniel",
+    "engine": "macOS say (synthetic teaching audio)",
+    "rate": 145
+  },
+  {
+    "code": "14.01",
+    "file": "lesson-14-01.wav",
+    "transcript": "some information. two pieces of furniture. a coffee. some coffee",
+    "voice": "Daniel",
+    "engine": "macOS say (synthetic teaching audio)",
+    "rate": 145
+  },
+  {
+    "code": "14.02",
+    "file": "lesson-14-02.wav",
+    "transcript": "two glasses of water. a slice of bread. a piece of advice",
+    "voice": "Daniel",
+    "engine": "macOS say (synthetic teaching audio)",
+    "rate": 145
+  },
+  {
+    "code": "14.03",
+    "file": "lesson-14-03.wav",
+    "transcript": "I have some rice.. Do you have any rice?. I don’t have any rice.. I have no rice.",
+    "voice": "Daniel",
+    "engine": "macOS say (synthetic teaching audio)",
+    "rate": 145
+  },
+  {
+    "code": "14.04",
+    "file": "lesson-14-04.wav",
+    "transcript": "many apples. much rice. a lot of apples. a lot of rice. How much does it cost?",
+    "voice": "Daniel",
+    "engine": "macOS say (synthetic teaching audio)",
+    "rate": 145
+  },
+  {
+    "code": "14.05",
+    "file": "lesson-14-05.wav",
+    "transcript": "I have a few friends.. I have few friends.. We have a little time.. We have little time.",
+    "voice": "Daniel",
+    "engine": "macOS say (synthetic teaching audio)",
+    "rate": 145
+  },
+  {
+    "code": "14.06",
+    "file": "lesson-14-06.wav",
+    "transcript": "Every student has a pen.. Both students have pens.. Some of the books are new.",
+    "voice": "Daniel",
+    "engine": "macOS say (synthetic teaching audio)",
+    "rate": 145
+  },
+  {
+    "code": "14.07",
+    "file": "lesson-14-07.wav",
+    "transcript": "too many bags. too much sugar. enough chairs",
+    "voice": "Daniel",
+    "engine": "macOS say (synthetic teaching audio)",
+    "rate": 145
+  },
+  {
+    "code": "15.01",
+    "file": "lesson-15-01.wav",
+    "transcript": "Someone is at the door.. Is anyone here?. Everyone has a book.",
+    "voice": "Daniel",
+    "engine": "macOS say (synthetic teaching audio)",
+    "rate": 145
+  },
+  {
+    "code": "15.02",
+    "file": "lesson-15-02.wav",
+    "transcript": "I want something to eat.. I don’t know anything.. I know nothing.. Let’s go somewhere quiet.",
+    "voice": "Daniel",
+    "engine": "macOS say (synthetic teaching audio)",
+    "rate": 145
+  },
+  {
+    "code": "15.03",
+    "file": "lesson-15-03.wav",
+    "transcript": "I want the blue one.. I like the small ones.. This cup is big. That one is small.",
+    "voice": "Daniel",
+    "engine": "macOS say (synthetic teaching audio)",
+    "rate": 145
+  },
+  {
+    "code": "15.04",
+    "file": "lesson-15-04.wav",
+    "transcript": "I need another cup.. I have other books.. I have two bags. One is blue; the other is red.",
+    "voice": "Daniel",
+    "engine": "macOS say (synthetic teaching audio)",
+    "rate": 145
+  },
+  {
+    "code": "15.05",
+    "file": "lesson-15-05.wav",
+    "transcript": "I wash myself.. I go by myself.. We help each other.. We help ourselves.",
+    "voice": "Daniel",
+    "engine": "macOS say (synthetic teaching audio)",
+    "rate": 145
+  },
+  {
+    "code": "16.01",
+    "file": "lesson-16-01.wav",
+    "transcript": "He is a careful driver.. He drives carefully.. She is a good singer. She sings well.",
+    "voice": "Daniel",
+    "engine": "macOS say (synthetic teaching audio)",
+    "rate": 145
+  },
+  {
+    "code": "16.02",
+    "file": "lesson-16-02.wav",
+    "transcript": "He opens the door carefully.. She speaks slowly.. They did the work badly.",
+    "voice": "Daniel",
+    "engine": "macOS say (synthetic teaching audio)",
+    "rate": 145
+  },
+  {
+    "code": "16.03",
+    "file": "lesson-16-03.wav",
+    "transcript": "The tea is very hot.. The tea is too hot to drink.. I am a bit tired.",
+    "voice": "Daniel",
+    "engine": "macOS say (synthetic teaching audio)",
+    "rate": 145
+  },
+  {
+    "code": "16.04",
+    "file": "lesson-16-04.wav",
+    "transcript": "The room is big enough.. We have enough space.. The box is too heavy to lift.",
+    "voice": "Daniel",
+    "engine": "macOS say (synthetic teaching audio)",
+    "rate": 145
+  },
+  {
+    "code": "16.05",
+    "file": "lesson-16-05.wav",
+    "transcript": "I also study English.. I am also a teacher.. I like tea too.. I don’t like coffee either.",
+    "voice": "Daniel",
+    "engine": "macOS say (synthetic teaching audio)",
+    "rate": 145
+  },
+  {
+    "code": "17.01",
+    "file": "lesson-17-01.wav",
+    "transcript": "I am reading a book.. She is working this week.. They are playing now.",
+    "voice": "Daniel",
+    "engine": "macOS say (synthetic teaching audio)",
+    "rate": 145
+  },
+  {
+    "code": "17.02",
+    "file": "lesson-17-02.wav",
+    "transcript": "make ,  making. lie ,  lying. run ,  running. open ,  opening",
+    "voice": "Daniel",
+    "engine": "macOS say (synthetic teaching audio)",
+    "rate": 145
+  },
+  {
+    "code": "17.03",
+    "file": "lesson-17-03.wav",
+    "transcript": "Are you reading?. Yes, I am.. What is Ben doing?. He is cooking.. They aren’t working.",
+    "voice": "Daniel",
+    "engine": "macOS say (synthetic teaching audio)",
+    "rate": 145
+  },
+  {
+    "code": "17.04",
+    "file": "lesson-17-04.wav",
+    "transcript": "I work in Bangkok.. I am working at home this week.. She usually walks, but she is taking a bus today.",
+    "voice": "Daniel",
+    "engine": "macOS say (synthetic teaching audio)",
+    "rate": 145
+  },
+  {
+    "code": "17.05",
+    "file": "lesson-17-05.wav",
+    "transcript": "I want some water.. I know her.. I think it is good.. I am thinking about it.",
+    "voice": "Daniel",
+    "engine": "macOS say (synthetic teaching audio)",
+    "rate": 145
+  },
+  {
+    "code": "17.06",
+    "file": "lesson-17-06.wav",
+    "transcript": "The man is sitting on a chair.. He is wearing a red shirt.. Two people are walking behind him.",
+    "voice": "Daniel",
+    "engine": "macOS say (synthetic teaching audio)",
+    "rate": 145
+  },
+  {
+    "code": "18.01",
+    "file": "lesson-18-01.wav",
+    "transcript": "Sit down, please.. Don’t touch the screen.. First, open the book. Then read.",
+    "voice": "Daniel",
+    "engine": "macOS say (synthetic teaching audio)",
+    "rate": 145
+  },
+  {
+    "code": "18.02",
+    "file": "lesson-18-02.wav",
+    "transcript": "I can cook.. She can swim.. We can’t drive.",
+    "voice": "Daniel",
+    "engine": "macOS say (synthetic teaching audio)",
+    "rate": 145
+  },
+  {
+    "code": "18.03",
+    "file": "lesson-18-03.wav",
+    "transcript": "Can she drive?. Yes, she can.. What can you do?. I can cook.. Can they swim?. No, they can’t.",
+    "voice": "Daniel",
+    "engine": "macOS say (synthetic teaching audio)",
+    "rate": 145
+  },
+  {
+    "code": "18.04",
+    "file": "lesson-18-04.wav",
+    "transcript": "Can I sit here?. Can you help me?. Could you open the window, please?",
+    "voice": "Daniel",
+    "engine": "macOS say (synthetic teaching audio)",
+    "rate": 145
+  },
+  {
+    "code": "18.05",
+    "file": "lesson-18-05.wav",
+    "transcript": "Let’s study together.. Let’s not drive today.. Why don’t we walk?",
+    "voice": "Daniel",
+    "engine": "macOS say (synthetic teaching audio)",
+    "rate": 145
+  },
+  {
+    "code": "19.01",
+    "file": "lesson-19-01.wav",
+    "transcript": "I was tired yesterday.. They were at school.. She was eighteen last year.",
+    "voice": "Samantha",
+    "engine": "macOS say (synthetic teaching audio)",
+    "rate": 145
+  },
+  {
+    "code": "19.02",
+    "file": "lesson-19-02.wav",
+    "transcript": "I wasn’t at work.. We weren’t tired.. The room wasn’t clean.",
+    "voice": "Samantha",
+    "engine": "macOS say (synthetic teaching audio)",
+    "rate": 145
+  },
+  {
+    "code": "19.03",
+    "file": "lesson-19-03.wav",
+    "transcript": "Were you tired?. Yes, I was.. Where was Ben?. At home.. Was Mai late?. No, she wasn’t.",
+    "voice": "Samantha",
+    "engine": "macOS say (synthetic teaching audio)",
+    "rate": 145
+  },
+  {
+    "code": "19.04",
+    "file": "lesson-19-04.wav",
+    "transcript": "There was a cafe here last year.. There were three trees here.. There wasn’t any water.",
+    "voice": "Samantha",
+    "engine": "macOS say (synthetic teaching audio)",
+    "rate": 145
+  },
+  {
+    "code": "20.01",
+    "file": "lesson-20-01.wav",
+    "transcript": "I visited Mai yesterday.. She worked last night.. I work here now.. I worked there last year.",
+    "voice": "Samantha",
+    "engine": "macOS say (synthetic teaching audio)",
+    "rate": 145
+  },
+  {
+    "code": "20.02",
+    "file": "lesson-20-02.wav",
+    "transcript": "Walked. Played. Wanted. Needed. I walked home. I played tennis. I wanted tea.",
+    "voice": "Samantha",
+    "engine": "macOS say (synthetic teaching audio)",
+    "rate": 145
+  },
+  {
+    "code": "20.03",
+    "file": "lesson-20-03.wav",
+    "transcript": "I went to a cafe.. She ate rice.. We saw a film.. He had lunch.",
+    "voice": "Samantha",
+    "engine": "macOS say (synthetic teaching audio)",
+    "rate": 145
+  },
+  {
+    "code": "20.04",
+    "file": "lesson-20-04.wav",
+    "transcript": "I didn’t go out.. She didn’t eat lunch.. She wasn’t hungry.",
+    "voice": "Samantha",
+    "engine": "macOS say (synthetic teaching audio)",
+    "rate": 145
+  },
+  {
+    "code": "20.05",
+    "file": "lesson-20-05.wav",
+    "transcript": "Did you go out?. No, I didn’t.. Where did she go?. Who came?. Who did you meet?",
+    "voice": "Samantha",
+    "engine": "macOS say (synthetic teaching audio)",
+    "rate": 145
+  },
+  {
+    "code": "20.06",
+    "file": "lesson-20-06.wav",
+    "transcript": "go. went. gone. eat. ate. eaten. work. worked. worked. be. was, were. been",
+    "voice": "Samantha",
+    "engine": "macOS say (synthetic teaching audio)",
+    "rate": 145
+  },
+  {
+    "code": "20.07",
+    "file": "lesson-20-07.wav",
+    "transcript": "Yesterday, I was tired. I went home early.. Then I cooked dinner. Finally, I went to bed.. Where did you go?",
+    "voice": "Samantha",
+    "engine": "macOS say (synthetic teaching audio)",
+    "rate": 145
+  },
+  {
+    "code": "21.01",
+    "file": "lesson-21-01.wav",
+    "transcript": "At eight, I was studying.. They weren’t sleeping.. Was she cooking?",
+    "voice": "Samantha",
+    "engine": "macOS say (synthetic teaching audio)",
+    "rate": 145
+  },
+  {
+    "code": "21.02",
+    "file": "lesson-21-02.wav",
+    "transcript": "I was walking when it started to rain.. I walked home and cooked dinner.. At eight, I was reading.",
+    "voice": "Samantha",
+    "engine": "macOS say (synthetic teaching audio)",
+    "rate": 145
+  },
+  {
+    "code": "21.03",
+    "file": "lesson-21-03.wav",
+    "transcript": "I was studying when Mai called.. While I was studying, Mai was reading.",
+    "voice": "Samantha",
+    "engine": "macOS say (synthetic teaching audio)",
+    "rate": 145
+  },
+  {
+    "code": "21.04",
+    "file": "lesson-21-04.wav",
+    "transcript": "First, I bought food. Then I cooked.. After that, I ate. Finally, I washed the dishes.",
+    "voice": "Samantha",
+    "engine": "macOS say (synthetic teaching audio)",
+    "rate": 145
+  },
+  {
+    "code": "21.05",
+    "file": "lesson-21-05.wav",
+    "transcript": "At six, Mai was walking home. It began to rain. Ben saw her and gave her an umbrella. Then Mai went home.",
+    "voice": "Samantha",
+    "engine": "macOS say (synthetic teaching audio)",
+    "rate": 145
+  },
+  {
+    "code": "22.01",
+    "file": "lesson-22-01.wav",
+    "transcript": "I am going to cook tonight.. She isn’t going to drive.. Are you going to study?",
+    "voice": "Samantha",
+    "engine": "macOS say (synthetic teaching audio)",
+    "rate": 145
+  },
+  {
+    "code": "22.02",
+    "file": "lesson-22-02.wav",
+    "transcript": "I’ll carry your bag.. I won’t be late.. Will she come?",
+    "voice": "Samantha",
+    "engine": "macOS say (synthetic teaching audio)",
+    "rate": 145
+  },
+  {
+    "code": "22.03",
+    "file": "lesson-22-03.wav",
+    "transcript": "I bought food. I’m going to cook tonight.. The phone is ringing. I’ll answer it.. I think it will rain tomorrow.",
+    "voice": "Samantha",
+    "engine": "macOS say (synthetic teaching audio)",
+    "rate": 145
+  },
+  {
+    "code": "22.04",
+    "file": "lesson-22-04.wav",
+    "transcript": "I’m seeing the doctor tomorrow.. We’re meeting at six tonight.. Are you working tomorrow?",
+    "voice": "Samantha",
+    "engine": "macOS say (synthetic teaching audio)",
+    "rate": 145
+  },
+  {
+    "code": "22.05",
+    "file": "lesson-22-05.wav",
+    "transcript": "The train leaves at seven tomorrow.. The shop opens at nine.. What time does the class start?",
+    "voice": "Samantha",
+    "engine": "macOS say (synthetic teaching audio)",
+    "rate": 145
+  },
+  {
+    "code": "22.06",
+    "file": "lesson-22-06.wav",
+    "transcript": "Shall I carry your bag?. Shall we meet at six?. Would you like some tea?. Would you like to come?",
+    "voice": "Samantha",
+    "engine": "macOS say (synthetic teaching audio)",
+    "rate": 145
+  },
+  {
+    "code": "23.01",
+    "file": "lesson-23-01.wav",
+    "transcript": "This bag is smaller than that one.. This room is more expensive.. Today is hotter than yesterday.",
+    "voice": "Samantha",
+    "engine": "macOS say (synthetic teaching audio)",
+    "rate": 145
+  },
+  {
+    "code": "23.02",
+    "file": "lesson-23-02.wav",
+    "transcript": "This book is better than that one.. I have more books than Ben.. She sings better than me.",
+    "voice": "Samantha",
+    "engine": "macOS say (synthetic teaching audio)",
+    "rate": 145
+  },
+  {
+    "code": "23.03",
+    "file": "lesson-23-03.wav",
+    "transcript": "Ben is the tallest student in the class.. This is the most useful book here.. Mai is my best friend.",
+    "voice": "Samantha",
+    "engine": "macOS say (synthetic teaching audio)",
+    "rate": 145
+  },
+  {
+    "code": "23.04",
+    "file": "lesson-23-04.wav",
+    "transcript": "Mai is as tall as Ben.. My bag is not as big as yours.. fewer books. less water",
+    "voice": "Samantha",
+    "engine": "macOS say (synthetic teaching audio)",
+    "rate": 145
+  },
+  {
+    "code": "23.05",
+    "file": "lesson-23-05.wav",
+    "transcript": "Mai runs faster than Ben.. Ben speaks more slowly than Mai.. She cooks better than me.",
+    "voice": "Samantha",
+    "engine": "macOS say (synthetic teaching audio)",
+    "rate": 145
+  },
+  {
+    "code": "24.01",
+    "file": "lesson-24-01.wav",
+    "transcript": "I can swim now.. I could swim when I was six.. I couldn’t drive at eighteen.",
+    "voice": "Samantha",
+    "engine": "macOS say (synthetic teaching audio)",
+    "rate": 145
+  },
+  {
+    "code": "24.02",
+    "file": "lesson-24-02.wav",
+    "transcript": "You should take a break.. You shouldn’t be late.. Should I call her?",
+    "voice": "Samantha",
+    "engine": "macOS say (synthetic teaching audio)",
+    "rate": 145
+  },
+  {
+    "code": "24.03",
+    "file": "lesson-24-03.wav",
+    "transcript": "I must finish this.. She has to work today.. Did you have to wait?. We had to leave early.",
+    "voice": "Samantha",
+    "engine": "macOS say (synthetic teaching audio)",
+    "rate": 145
+  },
+  {
+    "code": "24.04",
+    "file": "lesson-24-04.wav",
+    "transcript": "You mustn’t touch this.. You don’t have to come early.. You can’t park here.",
+    "voice": "Samantha",
+    "engine": "macOS say (synthetic teaching audio)",
+    "rate": 145
+  },
+  {
+    "code": "24.05",
+    "file": "lesson-24-05.wav",
+    "transcript": "You don’t need to wait.. You needn’t wait.. Does she need to go?",
+    "voice": "Samantha",
+    "engine": "macOS say (synthetic teaching audio)",
+    "rate": 145
+  },
+  {
+    "code": "24.06",
+    "file": "lesson-24-06.wav",
+    "transcript": "It may rain tomorrow.. She might come later.. He could be at home.",
+    "voice": "Samantha",
+    "engine": "macOS say (synthetic teaching audio)",
+    "rate": 145
+  },
+  {
+    "code": "24.07",
+    "file": "lesson-24-07.wav",
+    "transcript": "May I come in?. Would you help me, please?. Would you like some tea?. Yes, please.",
+    "voice": "Samantha",
+    "engine": "macOS say (synthetic teaching audio)",
+    "rate": 145
+  },
+  {
+    "code": "25.01",
+    "file": "lesson-25-01.wav",
+    "transcript": "I have finished my work.. She hasn’t eaten.. Have you seen it?",
+    "voice": "Samantha",
+    "engine": "macOS say (synthetic teaching audio)",
+    "rate": 145
+  },
+  {
+    "code": "25.02",
+    "file": "lesson-25-02.wav",
+    "transcript": "I have seen this film.. She has done her work.. We have bought food.",
+    "voice": "Samantha",
+    "engine": "macOS say (synthetic teaching audio)",
+    "rate": 145
+  },
+  {
+    "code": "25.03",
+    "file": "lesson-25-03.wav",
+    "transcript": "Have you ever visited Japan?. I have never flown.. Yes, I have. I went there in 2024.",
+    "voice": "Samantha",
+    "engine": "macOS say (synthetic teaching audio)",
+    "rate": 145
+  },
+  {
+    "code": "25.04",
+    "file": "lesson-25-04.wav",
+    "transcript": "I have just arrived.. She has already eaten.. Have you finished yet?. Not yet.",
+    "voice": "Samantha",
+    "engine": "macOS say (synthetic teaching audio)",
+    "rate": 145
+  },
+  {
+    "code": "25.05",
+    "file": "lesson-25-05.wav",
+    "transcript": "I have known Mai for three years.. I have known Mai since 2023.. How long have you lived here?",
+    "voice": "Samantha",
+    "engine": "macOS say (synthetic teaching audio)",
+    "rate": 145
+  },
+  {
+    "code": "25.06",
+    "file": "lesson-25-06.wav",
+    "transcript": "I have lost my key.. I lost my key yesterday.. Have you seen Mai?. When did you see her?",
+    "voice": "Samantha",
+    "engine": "macOS say (synthetic teaching audio)",
+    "rate": 145
+  },
+  {
+    "code": "25.07",
+    "file": "lesson-25-07.wav",
+    "transcript": "Ben has been to Japan.. Mai has gone to the shop.. I have been there. I went last year.",
+    "voice": "Samantha",
+    "engine": "macOS say (synthetic teaching audio)",
+    "rate": 145
+  },
+  {
+    "code": "26.01",
+    "file": "lesson-26-01.wav",
+    "transcript": "I want to study.. She plans to travel.. We would like to join.",
+    "voice": "Samantha",
+    "engine": "macOS say (synthetic teaching audio)",
+    "rate": 145
+  },
+  {
+    "code": "26.02",
+    "file": "lesson-26-02.wav",
+    "transcript": "I enjoy cooking.. She likes reading.. I love to walk in the morning.",
+    "voice": "Samantha",
+    "engine": "macOS say (synthetic teaching audio)",
+    "rate": 145
+  },
+  {
+    "code": "26.03",
+    "file": "lesson-26-03.wav",
+    "transcript": "I can go.. I want to go.. You should study.. Help me carry this.. Help me to carry this.",
+    "voice": "Samantha",
+    "engine": "macOS say (synthetic teaching audio)",
+    "rate": 145
+  },
+  {
+    "code": "26.04",
+    "file": "lesson-26-04.wav",
+    "transcript": "Wash your hands before eating.. He left without saying goodbye.. I look forward to meeting you.",
+    "voice": "Samantha",
+    "engine": "macOS say (synthetic teaching audio)",
+    "rate": 145
+  },
+  {
+    "code": "26.05",
+    "file": "lesson-26-05.wav",
+    "transcript": "Reading is useful.. I like swimming.. This app is easy to use.",
+    "voice": "Samantha",
+    "engine": "macOS say (synthetic teaching audio)",
+    "rate": 145
+  },
+  {
+    "code": "26.06",
+    "file": "lesson-26-06.wav",
+    "transcript": "She is good at drawing.. I listen to music.. We wait for him.. I prefer tea to coffee.",
+    "voice": "Samantha",
+    "engine": "macOS say (synthetic teaching audio)",
+    "rate": 145
+  },
+  {
+    "code": "27.01",
+    "file": "lesson-27-01.wav",
+    "transcript": "I read and write.. I like tea, but Mai likes coffee.. Do you want tea or water?",
+    "voice": "Samantha",
+    "engine": "macOS say (synthetic teaching audio)",
+    "rate": 145
+  },
+  {
+    "code": "27.02",
+    "file": "lesson-27-02.wav",
+    "transcript": "I stayed home because I was tired.. I was tired, so I rested.. Although it rained, we went out.",
+    "voice": "Samantha",
+    "engine": "macOS say (synthetic teaching audio)",
+    "rate": 145
+  },
+  {
+    "code": "27.03",
+    "file": "lesson-27-03.wav",
+    "transcript": "I read to learn new words.. She went to the bank to get money.. We meet to practise English.",
+    "voice": "Samantha",
+    "engine": "macOS say (synthetic teaching audio)",
+    "rate": 145
+  },
+  {
+    "code": "27.04",
+    "file": "lesson-27-04.wav",
+    "transcript": "I’ll call you when I arrive.. We’ll eat after Ben comes.. I’ll wait where you are.",
+    "voice": "Samantha",
+    "engine": "macOS say (synthetic teaching audio)",
+    "rate": 145
+  },
+  {
+    "code": "27.05",
+    "file": "lesson-27-05.wav",
+    "transcript": "Yesterday, I visited Mai. We cooked lunch together.. Then we studied because we had a test.. Tomorrow, I’m going to study again.",
+    "voice": "Samantha",
+    "engine": "macOS say (synthetic teaching audio)",
+    "rate": 145
+  },
+  {
+    "code": "28.01",
+    "file": "lesson-28-01.wav",
+    "transcript": "If it rains, I’ll stay home.. I’ll stay home if it rains.",
+    "voice": "Daniel",
+    "engine": "macOS say (synthetic teaching audio)",
+    "rate": 145
+  },
+  {
+    "code": "28.02",
+    "file": "lesson-28-02.wav",
+    "transcript": "If I’m tired, I go to bed early.. If you press this button, the light comes on.",
+    "voice": "Daniel",
+    "engine": "macOS say (synthetic teaching audio)",
+    "rate": 145
+  },
+  {
+    "code": "28.03",
+    "file": "lesson-28-03.wav",
+    "transcript": "If I finish early, I’ll call you.. If you have time, you can help me.. If you’re cold, close the window.",
+    "voice": "Daniel",
+    "engine": "macOS say (synthetic teaching audio)",
+    "rate": 145
+  },
+  {
+    "code": "28.04",
+    "file": "lesson-28-04.wav",
+    "transcript": "If I win, I’ll buy a bike.. When I get home, I’ll call.. If the shop is open, we can go in.",
+    "voice": "Daniel",
+    "engine": "macOS say (synthetic teaching audio)",
+    "rate": 145
+  },
+  {
+    "code": "29.01",
+    "file": "lesson-29-01.wav",
+    "transcript": "The woman who teaches English is Mai.. The book which is on the desk is mine.. The bag that I bought is blue.",
+    "voice": "Daniel",
+    "engine": "macOS say (synthetic teaching audio)",
+    "rate": 145
+  },
+  {
+    "code": "29.02",
+    "file": "lesson-29-02.wav",
+    "transcript": "The person who lives here is Ben.. The people who live here are friendly.",
+    "voice": "Daniel",
+    "engine": "macOS say (synthetic teaching audio)",
+    "rate": 145
+  },
+  {
+    "code": "29.03",
+    "file": "lesson-29-03.wav",
+    "transcript": "The book that I read is good.. The book I read is good.. The person who I met is kind.",
+    "voice": "Daniel",
+    "engine": "macOS say (synthetic teaching audio)",
+    "rate": 145
+  },
+  {
+    "code": "29.04",
+    "file": "lesson-29-04.wav",
+    "transcript": "The cafe where we meet is small.. The teacher who helped me is kind.. The phone I use is old.",
+    "voice": "Daniel",
+    "engine": "macOS say (synthetic teaching audio)",
+    "rate": 145
+  },
+  {
+    "code": "30.01",
+    "file": "lesson-30-01.wav",
+    "transcript": "I think the book is useful.. I hope that Ben can come.. I’m sure she is at home.",
+    "voice": "Daniel",
+    "engine": "macOS say (synthetic teaching audio)",
+    "rate": 145
+  },
+  {
+    "code": "30.02",
+    "file": "lesson-30-02.wav",
+    "transcript": "Ben says that he is ready.. Ben tells me that he is ready.. Ben says to me, “I’m ready.”",
+    "voice": "Daniel",
+    "engine": "macOS say (synthetic teaching audio)",
+    "rate": 145
+  },
+  {
+    "code": "30.03",
+    "file": "lesson-30-03.wav",
+    "transcript": "Mai says, “I work here.”. Mai says that she works here.. Ben said that he was tired.",
+    "voice": "Daniel",
+    "engine": "macOS say (synthetic teaching audio)",
+    "rate": 145
+  },
+  {
+    "code": "30.04",
+    "file": "lesson-30-04.wav",
+    "transcript": "Where is the bank? ,  Do you know where the bank is?. Where does Mai live? ,  Do you know where Mai lives?. Is it open? ,  Do you know if it is open?",
+    "voice": "Daniel",
+    "engine": "macOS say (synthetic teaching audio)",
+    "rate": 145
+  },
+  {
+    "code": "31.01",
+    "file": "lesson-31-01.wav",
+    "transcript": "People clean the room. ,  The room is cleaned.. Mai made the cake. ,  The cake was made by Mai.",
+    "voice": "Daniel",
+    "engine": "macOS say (synthetic teaching audio)",
+    "rate": 145
+  },
+  {
+    "code": "31.02",
+    "file": "lesson-31-02.wav",
+    "transcript": "The room is cleaned every day.. The books are sold here.. Is this food made here?",
+    "voice": "Daniel",
+    "engine": "macOS say (synthetic teaching audio)",
+    "rate": 145
+  },
+  {
+    "code": "31.03",
+    "file": "lesson-31-03.wav",
+    "transcript": "The letter was written yesterday.. The bags were made last year.. Was the door closed?",
+    "voice": "Daniel",
+    "engine": "macOS say (synthetic teaching audio)",
+    "rate": 145
+  },
+  {
+    "code": "31.04",
+    "file": "lesson-31-04.wav",
+    "transcript": "The table is made of wood.. The table was made by Ben.. This tool is used for cutting paper.",
+    "voice": "Daniel",
+    "engine": "macOS say (synthetic teaching audio)",
+    "rate": 145
+  },
+  {
+    "code": "32.01",
+    "file": "lesson-32-01.wav",
+    "transcript": "light bag. turn on the light. information [U]",
+    "voice": "Daniel",
+    "engine": "macOS say (synthetic teaching audio)",
+    "rate": 145
+  },
+  {
+    "code": "32.02",
+    "file": "lesson-32-02.wav",
+    "transcript": "teach. teacher. happy. happiness. unhappy. write. rewrite",
+    "voice": "Daniel",
+    "engine": "macOS say (synthetic teaching audio)",
+    "rate": 145
+  },
+  {
+    "code": "32.03",
+    "file": "lesson-32-03.wav",
+    "transcript": "bus stop. toothpaste. make a mistake. do homework. have breakfast. take a photo",
+    "voice": "Daniel",
+    "engine": "macOS say (synthetic teaching audio)",
+    "rate": 145
+  },
+  {
+    "code": "32.04",
+    "file": "lesson-32-04.wav",
+    "transcript": "I get up at six.. Please turn it off.. She looks after her brother.",
+    "voice": "Daniel",
+    "engine": "macOS say (synthetic teaching audio)",
+    "rate": 145
+  },
+  {
+    "code": "32.05",
+    "file": "lesson-32-05.wav",
+    "transcript": "wait for. I wait for Mai.. information [U]. some information",
+    "voice": "Daniel",
+    "engine": "macOS say (synthetic teaching audio)",
+    "rate": 145
+  },
+  {
+    "code": "33.01",
+    "file": "lesson-33-01.wav",
+    "transcript": "Cups. Bags. Buses. Cups. Bags. Buses. Walked. Played. Wanted. Walked. Played. Wanted.",
+    "voice": "Daniel",
+    "engine": "macOS say (synthetic teaching audio)",
+    "rate": 145
+  },
+  {
+    "code": "33.02",
+    "file": "lesson-33-02.wav",
+    "transcript": "About. Teacher. Banana. About. Teacher. Banana. My teacher is kind.",
+    "voice": "Daniel",
+    "engine": "macOS say (synthetic teaching audio)",
+    "rate": 145
+  },
+  {
+    "code": "33.03",
+    "file": "lesson-33-03.wav",
+    "transcript": "I bought a blue bag. After work, I went home and cooked dinner.",
+    "voice": "Daniel",
+    "engine": "macOS say (synthetic teaching audio)",
+    "rate": 145
+  },
+  {
+    "code": "33.04",
+    "file": "lesson-33-04.wav",
+    "transcript": "I'm ready. He doesn't work here. I'll help you. I've finished. She's tired. She's done it.",
+    "voice": "Daniel",
+    "engine": "macOS say (synthetic teaching audio)",
+    "rate": 145
+  },
+  {
+    "code": "33.05",
+    "file": "lesson-33-05.wav",
+    "transcript": "Turn it off. Please turn it off. Can you help me? Where are you?",
+    "voice": "Daniel",
+    "engine": "macOS say (synthetic teaching audio)",
+    "rate": 145
+  },
+  {
+    "code": "34.01",
+    "file": "lesson-34-01.wav",
+    "transcript": "Hi Ben, this is Mai. Would you like to study English together? We can meet at the library at six this evening. Please bring your book. See you there.",
+    "voice": "Daniel",
+    "engine": "macOS say (synthetic teaching audio)",
+    "rate": 145
+  },
+  {
+    "code": "34.02",
+    "file": "lesson-34-02.wav",
+    "transcript": "Let us meet at seven. Sorry, I mean seven thirty. The ticket is fifteen pounds, not fifty. We need thirteen tickets, not thirty.",
+    "voice": "Daniel",
+    "engine": "macOS say (synthetic teaching audio)",
+    "rate": 145
+  },
+  {
+    "code": "34.03",
+    "file": "lesson-34-03.wav",
+    "transcript": "Sunday: closed. Saturday: 10:00–16:00. No food in the reading room.",
+    "voice": "Daniel",
+    "engine": "macOS say (synthetic teaching audio)",
+    "rate": 145
+  },
+  {
+    "code": "34.04",
+    "file": "lesson-34-04.wav",
+    "transcript": "Why? He got up late.. Who helped? Mai.. What happened last? Ben thanked Mai.",
+    "voice": "Daniel",
+    "engine": "macOS say (synthetic teaching audio)",
+    "rate": 145
+  },
+  {
+    "code": "34.05",
+    "file": "lesson-34-05.wav",
+    "transcript": "chilly … wore a coat. Please enter your surname.",
+    "voice": "Daniel",
+    "engine": "macOS say (synthetic teaching audio)",
+    "rate": 145
+  },
+  {
+    "code": "34.06",
+    "file": "lesson-34-06.wav",
+    "transcript": "The art class is on Saturday at ten.. It is in room two.. Students don’t have to pay. Bring a pencil.",
+    "voice": "Daniel",
+    "engine": "macOS say (synthetic teaching audio)",
+    "rate": 145
+  },
+  {
+    "code": "35.01",
+    "file": "lesson-35-01.wav",
+    "transcript": "How are you?. Good, thanks. How about you?. Excuse me, can I ask something?. I have to go. See you later.",
+    "voice": "Daniel",
+    "engine": "macOS say (synthetic teaching audio)",
+    "rate": 145
+  },
+  {
+    "code": "35.02",
+    "file": "lesson-35-02.wav",
+    "transcript": "Could you repeat that, please?. How do you spell your name?. Do you mean six thirty?",
+    "voice": "Daniel",
+    "engine": "macOS say (synthetic teaching audio)",
+    "rate": 145
+  },
+  {
+    "code": "35.03",
+    "file": "lesson-35-03.wav",
+    "transcript": "Would you like to join us?. I’d love to.. Could you help me?. Sure.. Can I sit here?. Of course.",
+    "voice": "Daniel",
+    "engine": "macOS say (synthetic teaching audio)",
+    "rate": 145
+  },
+  {
+    "code": "35.04",
+    "file": "lesson-35-04.wav",
+    "transcript": "Thanks for your help.. You’re welcome.. I’m sorry I’m late.. That’s okay.. I lost my phone.. I’m sorry to hear that.",
+    "voice": "Daniel",
+    "engine": "macOS say (synthetic teaching audio)",
+    "rate": 145
+  },
+  {
+    "code": "35.05",
+    "file": "lesson-35-05.wav",
+    "transcript": "I like music.. So do I.. I am tired.. So am I.. I can’t drive.. Neither can I.",
+    "voice": "Daniel",
+    "engine": "macOS say (synthetic teaching audio)",
+    "rate": 145
+  },
+  {
+    "code": "35.06",
+    "file": "lesson-35-06.wav",
+    "transcript": "Hi Ben, can we meet at six? Thanks, Mai.. Dear Ms Lee, could you explain this word, please? Thank you, Mai.",
+    "voice": "Daniel",
+    "engine": "macOS say (synthetic teaching audio)",
+    "rate": 145
+  },
+  {
+    "code": "35.07",
+    "file": "lesson-35-07.wav",
+    "transcript": "I usually study at night.. Last week, I read a new book.. I have learnt many words.. Tomorrow, I’m going to practise speaking.",
+    "voice": "Daniel",
+    "engine": "macOS say (synthetic teaching audio)",
+    "rate": 145
+  },
+  {
+    "code": "35.08",
+    "file": "lesson-35-08.wav",
+    "transcript": "He don’t like tea. ,  He doesn’t like tea.. I have saw it. ,  I have seen it.. a apples ,  apples. an apple",
+    "voice": "Daniel",
+    "engine": "macOS say (synthetic teaching audio)",
+    "rate": 145
+  },
+  {
+    "code": "36.01",
+    "file": "lesson-36-01.wav",
+    "transcript": "My sister has a book.. She doesn’t read it every day.. She bought it yesterday.",
+    "voice": "Daniel",
+    "engine": "macOS say (synthetic teaching audio)",
+    "rate": 145
+  },
+  {
+    "code": "36.02",
+    "file": "lesson-36-02.wav",
+    "transcript": "Hi Ben, would you like to practise English together on Saturday? Let us meet at ten. Sorry, I mean ten thirty. We are meeting in room three. Please bring a pencil and some water. Three people are coming. Actually, four people are coming now. Can you join us?",
+    "voice": "Daniel",
+    "engine": "macOS say (synthetic teaching audio)",
+    "rate": 145
+  },
+  {
+    "code": "36.03",
+    "file": "lesson-36-03.wav",
+    "transcript": "Tuesday: room 4, one hour. Saturday: library, ninety minutes. Students 20. visitors 40 baht",
+    "voice": "Daniel",
+    "engine": "macOS say (synthetic teaching audio)",
+    "rate": 145
+  },
+  {
+    "code": "36.04",
+    "file": "lesson-36-04.wav",
+    "transcript": "Can we meet on Saturday?. How about ten thirty?. Do you mean the library near the station?",
+    "voice": "Daniel",
+    "engine": "macOS say (synthetic teaching audio)",
+    "rate": 145
+  },
+  {
+    "code": "36.05",
+    "file": "lesson-36-05.wav",
+    "transcript": "I visited Mai yesterday. Would you like to meet on Sunday? I enjoyed studying with you. Please bring a notebook and a pencil.",
+    "voice": "Daniel",
+    "engine": "macOS say (synthetic teaching audio)",
+    "rate": 145
+  },
+  {
+    "code": "36.06",
+    "file": "lesson-36-06.wav",
+    "transcript": "I didn't go home. I need some water. How much water do we need? How many books do you have? Could you repeat the time, please?",
+    "voice": "Daniel",
+    "engine": "macOS say (synthetic teaching audio)",
+    "rate": 145
+  }
+]

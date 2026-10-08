@@ -1,0 +1,11 @@
+Use case: illustration-story
+Asset type: one landscape lesson cover banner for Lingora, placed at top of a beginner English reading lesson.
+Primary request: an engaging, warm cover about saying hello and goodbye in real everyday life.
+Scene: a cozy neighborhood cafe entrance, two friendly adult characters greeting with a small wave on arrival while another friendly character waves goodbye near the door, easy to understand at a glance. Cups of coffee and a small morning sun create everyday context.
+Style: polished soft 3D clay illustration, rounded shapes, sophisticated pastel blue, lavender, mint and warm peach consistent with Lingora’s friendly language-learning visual identity. Diverse adults, natural expressive faces, welcoming and playful without looking childish.
+Composition: wide horizontal 16:9 banner, clear focal subjects, generous breathing room, uncluttered background, all characters fully inside frame, balanced composition.
+Text (verbatim): "Hello & Goodbye" — one large clean readable title integrated near top, no other words.
+Lighting: warm gentle morning light, subtle dimensional shadows.
+Constraints: create exactly one image. No logos, no watermark, no UI mockup, no extra text.
+
+Generated with the built-in image_gen tool on 2026-10-03.

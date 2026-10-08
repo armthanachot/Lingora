@@ -1,0 +1,326 @@
+[
+  {
+    "module": 1,
+    "file": "module-01-map.png",
+    "title": "Letters and sounds",
+    "kicker": "ชื่ออักษรกับเสียงในคำ",
+    "alt": "ชื่ออักษรกับเสียงในคำ: B → /biː/; bag → /b/; TEAcher · baNAna",
+    "caption": "สะกดด้วยชื่ออักษร อ่านด้วยเสียง และฟังคำเต็ม",
+    "svgSource": "module-01-map.svg"
+  },
+  {
+    "module": 2,
+    "file": "module-02-map.png",
+    "title": "Build a sentence",
+    "kicker": "จากคำสู่ประโยค",
+    "alt": "จากคำสู่ประโยค: Mai; reads; books",
+    "caption": "ใคร → ทำอะไร → กับสิ่งใด  •  บางกริยาไม่ต้องมีกรรม",
+    "svgSource": "module-02-map.svg"
+  },
+  {
+    "module": 3,
+    "file": "module-03-map.png",
+    "title": "One or more?",
+    "kicker": "คำนามและจำนวน",
+    "alt": "คำนามและจำนวน: a book; three books; child → children",
+    "caption": "คำนามนับได้: ดูจำนวน แล้วเลือกรูปเอกพจน์หรือพหูพจน์",
+    "svgSource": "module-03-map.svg"
+  },
+  {
+    "module": 4,
+    "file": "module-04-map.png",
+    "title": "Choose your be",
+    "kicker": "จับคู่ประธานกับ be",
+    "alt": "จับคู่ประธานกับ be: am; is; are",
+    "caption": "บอกตัวตน สภาพและตำแหน่ง  •  คำถามย้าย be ขึ้นหน้า",
+    "svgSource": "module-04-map.svg"
+  },
+  {
+    "module": 5,
+    "file": "module-05-map.png",
+    "title": "A, an or the?",
+    "kicker": "ดูเสียงและสิ่งที่ระบุได้",
+    "alt": "ดูเสียงและสิ่งที่ระบุได้: a book; an hour; the book on this desk",
+    "caption": "a/an ตามเสียง  •  the เมื่อระบุได้  •  books กล่าวทั่วไป",
+    "svgSource": "module-05-map.svg"
+  },
+  {
+    "module": 6,
+    "file": "module-06-map.png",
+    "title": "Point and own",
+    "kicker": "ชี้สิ่งของและบอกเจ้าของ",
+    "alt": "ชี้สิ่งของและบอกเจ้าของ: this book; those books; my bag → mine",
+    "caption": "this/that + is  •  these/those + are  •  mine ไม่มี noun ตาม",
+    "svgSource": "module-06-map.svg"
+  },
+  {
+    "module": 7,
+    "file": "module-07-map.png",
+    "title": "Describe clearly",
+    "kicker": "คำบรรยายไม่เติม s ตามจำนวน",
+    "alt": "คำบรรยายไม่เติม s ตามจำนวน: a small blue bag; The bags are small.; bored / boring",
+    "caption": "adjective บรรยาย noun  •  สภาพใช้ be เชื่อม",
+    "svgSource": "module-07-map.svg"
+  },
+  {
+    "module": 8,
+    "file": "module-08-map.png",
+    "title": "Who controls the verb?",
+    "kicker": "ดูประธาน ไม่ใช่จำนวนกรรม",
+    "alt": "ดูประธาน ไม่ใช่จำนวนกรรม: read books; reads books; reads ≠ books",
+    "caption": "s ของกริยาตามประธาน  •  s ของคำนามบอกจำนวน",
+    "svgSource": "module-08-map.svg"
+  },
+  {
+    "module": 9,
+    "file": "module-09-map.png",
+    "title": "Who receives it?",
+    "kicker": "ประธานกับกรรมใช้คนละรูป",
+    "alt": "ประธานกับกรรมใช้คนละรูป: I · he · they; me · him · them; with me · for her",
+    "caption": "She helps me.  ↔  I help her.",
+    "svgSource": "module-09-map.svg"
+  },
+  {
+    "module": 10,
+    "file": "module-10-map.png",
+    "title": "Do and does",
+    "kicker": "ถามและปฏิเสธกริยาทั่วไป",
+    "alt": "ถามและปฏิเสธกริยาทั่วไป: Does she work?; She doesn’t work.; Yes, she does.",
+    "caption": "หลัง do/does ใช้ base verb  •  be ใช้ Is/Are แยกกัน",
+    "svgSource": "module-10-map.svg"
+  },
+  {
+    "module": 11,
+    "file": "module-11-map.png",
+    "title": "Time and dates",
+    "kicker": "เลือกบุพบทตามชนิดเวลา",
+    "alt": "เลือกบุพบทตามชนิดเวลา: in October; on Monday; at 7:30",
+    "caption": "every day / next week / last year ไม่เติม preposition ในรูปทั่วไป",
+    "svgSource": "module-11-map.svg"
+  },
+  {
+    "module": 12,
+    "file": "module-12-map.png",
+    "title": "Frequency or duration?",
+    "kicker": "ถามคนละชนิดข้อมูล",
+    "alt": "ถามคนละชนิดข้อมูล: twice a week; for an hour; at seven",
+    "caption": "I usually read.  •  I am usually at home.  •  ไม่มีเปอร์เซ็นต์ตายตัว",
+    "svgSource": "module-12-map.svg"
+  },
+  {
+    "module": 13,
+    "file": "module-13-map.png",
+    "title": "Place and movement",
+    "kicker": "ตำแหน่งกับเส้นทาง",
+    "alt": "ตำแหน่งกับเส้นทาง: in the room; into the room; There are two chairs.",
+    "caption": "in: อยู่ภายใน  •  into: เคลื่อนเข้า  •  there: แนะนำว่ามี",
+    "svgSource": "module-13-map.svg"
+  },
+  {
+    "module": 14,
+    "file": "module-14-map.png",
+    "title": "Many or much?",
+    "kicker": "นับหน่วยหรือบอกปริมาณ",
+    "alt": "นับหน่วยหรือบอกปริมาณ: many apples; much water; two bottles of water",
+    "caption": "a few apples  •  a little rice  •  enough + noun",
+    "svgSource": "module-14-map.svg"
+  },
+  {
+    "module": 15,
+    "file": "module-15-map.png",
+    "title": "Refer without repeating",
+    "kicker": "อ้างกลับให้ชัดเจน",
+    "alt": "อ้างกลับให้ชัดเจน: Everyone is ready.; the blue one; help yourself / help each other",
+    "caption": "ดูจำนวน หน้าที่และสิ่งที่อ้างกลับ ไม่แปลคำโดดอย่างเดียว",
+    "svgSource": "module-15-map.svg"
+  },
+  {
+    "module": 16,
+    "file": "module-16-map.png",
+    "title": "How do you do it?",
+    "kicker": "คุณลักษณะกับวิธีทำ",
+    "alt": "คุณลักษณะกับวิธีทำ: a careful driver; drives carefully; big enough / enough space",
+    "caption": "very = มาก  •  too = มากเกินเกณฑ์",
+    "svgSource": "module-16-map.svg"
+  },
+  {
+    "module": 17,
+    "file": "module-17-map.png",
+    "title": "Usually or now?",
+    "kicker": "กิจวัตรกับกำลังทำ",
+    "alt": "กิจวัตรกับกำลังทำ: She reads.; She is reading.; am / is / are + ing",
+    "caption": "ดูความหมายทั้งประโยค  •  know/want มัก simple ในความหมายพื้นฐาน",
+    "svgSource": "module-17-map.svg"
+  },
+  {
+    "module": 18,
+    "file": "module-18-map.png",
+    "title": "Ask and act",
+    "kicker": "คำสั่ง ความสามารถและคำขอ",
+    "alt": "คำสั่ง ความสามารถและคำขอ: Open it. / Don’t run.; She can swim.; Can you help? / Can I sit?",
+    "caption": "base verb หลัง can, Don’t และ Let’s",
+    "svgSource": "module-18-map.svg"
+  },
+  {
+    "module": 19,
+    "file": "module-19-map.png",
+    "title": "Be in the past",
+    "kicker": "เล่าสภาพและสถานที่อดีต",
+    "alt": "เล่าสภาพและสถานที่อดีต: was / wasn’t; were / weren’t; Where were you?",
+    "caption": "be อดีตไม่ใช้ didn’t be  •  There was / There were",
+    "svgSource": "module-19-map.svg"
+  },
+  {
+    "module": 20,
+    "file": "module-20-map.png",
+    "title": "Three verb forms",
+    "kicker": "รูปเดียวกันไม่ได้แปลว่าหน้าที่เดียวกัน",
+    "alt": "รูปเดียวกันไม่ได้แปลว่าหน้าที่เดียวกัน: go · eat · see; went · ate · saw; gone · eaten · seen",
+    "caption": "I went yesterday.  •  I didn’t go.  •  I have seen it.",
+    "svgSource": "module-20-map.svg"
+  },
+  {
+    "module": 21,
+    "file": "module-21-map.png",
+    "title": "Tell the scene and event",
+    "kicker": "ฉากหลังกับเหตุการณ์หลัก",
+    "alt": "ฉากหลังกับเหตุการณ์หลัก: I was reading.; The phone rang.; while + ongoing activity",
+    "caption": "I was reading when the phone rang.  •  continuous ไม่ต้องมีเหตุการณ์แทรกเสมอ",
+    "svgSource": "module-21-map.svg"
+  },
+  {
+    "module": 22,
+    "file": "module-22-map.png",
+    "title": "Different future meanings",
+    "kicker": "เลือกจากแผน นัดและบริบท",
+    "alt": "เลือกจากแผน นัดและบริบท: I’m going to study.; I’ll help you.; I’m meeting Mai. / It leaves.",
+    "caption": "รูปต่าง ๆ ทับซ้อนกันได้บางบริบท ไม่ใช่สูตรแยกเด็ดขาด",
+    "svgSource": "module-22-map.svg"
+  },
+  {
+    "module": 23,
+    "file": "module-23-map.png",
+    "title": "Compare your choices",
+    "kicker": "ขั้นกว่า เท่ากันและที่สุด",
+    "alt": "ขั้นกว่า เท่ากันและที่สุด: smaller than; as big as; the smallest",
+    "caption": "good → better → best  •  well → better  •  ไม่ใช้ more better",
+    "svgSource": "module-23-map.svg"
+  },
+  {
+    "module": 24,
+    "file": "module-24-map.png",
+    "title": "Meaning matters",
+    "kicker": "หน้าที่ ห้ามและไม่จำเป็น",
+    "alt": "หน้าที่ ห้ามและไม่จำเป็น: You have to go.; You mustn’t go.; You don’t have to go.",
+    "caption": "ห้ามทำ ≠ ไม่จำเป็น  •  should: คำแนะนำ  •  might: อาจเป็นไปได้",
+    "svgSource": "module-24-map.svg"
+  },
+  {
+    "module": 25,
+    "file": "module-25-map.png",
+    "title": "Past connected to now",
+    "kicker": "Present Perfect และ V3",
+    "alt": "Present Perfect และ V3: have / has + V3; for two years / since 2024; I saw her yesterday.",
+    "caption": "I have seen it.  •  Have you ever…?  •  รายละเอียดอดีตจบใช้ Past Simple",
+    "svgSource": "module-25-map.svg"
+  },
+  {
+    "module": 26,
+    "file": "module-26-map.png",
+    "title": "Which form comes next?",
+    "kicker": "กริยาต่อกริยา",
+    "alt": "กริยาต่อกริยา: want to go; enjoy going; can go",
+    "caption": "after eating  •  good at swimming  •  ing ไม่ใช่ continuous ทุกคำ",
+    "svgSource": "module-26-map.svg"
+  },
+  {
+    "module": 27,
+    "file": "module-27-map.png",
+    "title": "Connect your ideas",
+    "kicker": "เหตุผล ผลและจุดประสงค์",
+    "alt": "เหตุผล ผลและจุดประสงค์: I stayed because it rained.; It rained, so I stayed.; I read to learn.",
+    "caption": "I’ll call when I arrive.  •  present ใน time clause อนาคต",
+    "svgSource": "module-27-map.svg"
+  },
+  {
+    "module": 28,
+    "file": "module-28-map.png",
+    "title": "Conditions and results",
+    "kicker": "เงื่อนไขทั่วไปกับอนาคตที่เป็นไปได้",
+    "alt": "เงื่อนไขทั่วไปกับอนาคตที่เป็นไปได้: If I’m tired, I rest.; If it rains, I’ll stay.; uncertain / expected",
+    "caption": "if + present ในรูปที่ฝึก  •  ส่วนผลใช้ will/can/คำสั่งตามความหมาย",
+    "svgSource": "module-28-map.svg"
+  },
+  {
+    "module": 29,
+    "file": "module-29-map.png",
+    "title": "Which person or thing?",
+    "kicker": "ใช้ clause ระบุคำนาม",
+    "alt": "ใช้ clause ระบุคำนาม: the person who helps me; the book I read; the cafe where we meet",
+    "caption": "ไม่ซ้ำ he/it/there ในส่วนขยาย  •  กรรมละ relative pronoun ได้บางรูป",
+    "svgSource": "module-29-map.svg"
+  },
+  {
+    "module": 30,
+    "file": "module-30-map.png",
+    "title": "Report and ask politely",
+    "kicker": "คำพูดและคำถามทางอ้อม",
+    "alt": "คำพูดและคำถามทางอ้อม: She says she is ready.; She tells me she is ready.; Do you know where it is?",
+    "caption": "ส่วนย่อยใช้ subject + verb  •  ไม่ใช้ where is it ซ้อนในคำถามทางอ้อม",
+    "svgSource": "module-30-map.svg"
+  },
+  {
+    "module": 31,
+    "file": "module-31-map.png",
+    "title": "Focus on the receiver",
+    "kicker": "Active และ Passive",
+    "alt": "Active และ Passive: Mai makes the cake.; The cake is made here.; The cake was made by Mai.",
+    "caption": "be + V3  •  by ระบุผู้ทำเมื่อมีประโยชน์  •  made of ระบุวัสดุ",
+    "svgSource": "module-31-map.svg"
+  },
+  {
+    "module": 32,
+    "file": "module-32-map.png",
+    "title": "Learn words you can use",
+    "kicker": "ศัพท์พร้อมเสียง หน้าที่และกลุ่มคำ",
+    "alt": "ศัพท์พร้อมเสียง หน้าที่และกลุ่มคำ: teach → teacher; do homework; turn it off",
+    "caption": "ตรวจความหมายในบริบท  •  บันทึกตัวอย่าง  •  ทบทวนโดยปิดคำตอบ",
+    "svgSource": "module-32-map.svg"
+  },
+  {
+    "module": 33,
+    "file": "module-33-map.png",
+    "title": "Make the message clear",
+    "kicker": "เสียงท้าย เสียงเน้นและวลี",
+    "alt": "เสียงท้าย เสียงเน้นและวลี: cups · bags · buses; TEAcher · aBOUT; turn‿it‿off",
+    "caption": "จังหวะช่วยผู้ฟังรับข้อมูล  •  ความเข้าใจได้คือเป้าหมาย",
+    "svgSource": "module-33-map.svg"
+  },
+  {
+    "module": 34,
+    "file": "module-34-map.png",
+    "title": "Listen and read with a goal",
+    "kicker": "ใจความ รายละเอียดและการแก้ข้อมูล",
+    "alt": "ใจความ รายละเอียดและการแก้ข้อมูล: Who? Why?; When? Where? How many?; seven → sorry, seven thirty",
+    "caption": "ใช้ข้อมูลสุดท้ายที่ยืนยัน  •  สรุปโดยไม่เติมข้อเท็จจริงเอง",
+    "svgSource": "module-34-map.svg"
+  },
+  {
+    "module": 35,
+    "file": "module-35-map.png",
+    "title": "Keep the conversation going",
+    "kicker": "ตอบ ถามกลับและแก้ความไม่เข้าใจ",
+    "alt": "ตอบ ถามกลับและแก้ความไม่เข้าใจ: How about you?; Could you repeat that?; See you later.",
+    "caption": "พูดและเขียนเพื่อจุดประสงค์  •  ตรวจข้อความแล้วแก้หนึ่งรอบ",
+    "svgSource": "module-35-map.svg"
+  },
+  {
+    "module": 36,
+    "file": "module-36-map.png",
+    "title": "Show what you can do",
+    "kicker": "หลักฐานก่อนเลือกทางต่อยอด",
+    "alt": "หลักฐานก่อนเลือกทางต่อยอด: listen + read; speak + write; feedback → practise again",
+    "caption": "ข้อเลือกตอบตรวจอัตโนมัติ  •  งานพูด/เขียนใช้ตนเองหรือครูตรวจ",
+    "svgSource": "module-36-map.svg"
+  }
+]

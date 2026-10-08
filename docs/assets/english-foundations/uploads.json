@@ -1,0 +1,2468 @@
+{
+  "study-desk.png": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/d4c92bf830daea5a-study-desk.png",
+    "storagePath": "english-foundations/v1/d4c92bf830daea5a-study-desk.png",
+    "mimeType": "image/png",
+    "originalName": "study-desk.png",
+    "sha256": "d4c92bf830daea5a40a30bbd5bf24cd24e084fb0092b121b7a1f812510e71d91",
+    "bytes": 1907287,
+    "publicVerified": true
+  },
+  "park-activities.png": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/dd683d7c6dc8b68a-park-activities.png",
+    "storagePath": "english-foundations/v1/dd683d7c6dc8b68a-park-activities.png",
+    "mimeType": "image/png",
+    "originalName": "park-activities.png",
+    "sha256": "dd683d7c6dc8b68acdcaded7398f82d7ec3bfb8806f6590dbdae50cd2baa8ef5",
+    "bytes": 2349558,
+    "publicVerified": true
+  },
+  "lesson-01-01.wav": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/e7c60c490134f7f1-lesson-01-01.wav",
+    "storagePath": "english-foundations/v1/e7c60c490134f7f1-lesson-01-01.wav",
+    "mimeType": "audio/wav",
+    "originalName": "lesson-01-01.wav",
+    "sha256": "e7c60c490134f7f1a2ad46bae1175b0a5090da8848a2373eff77af7fc107ca5a",
+    "bytes": 214908,
+    "publicVerified": true
+  },
+  "lesson-01-04.wav": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/648cc4af47d15954-lesson-01-04.wav",
+    "storagePath": "english-foundations/v1/648cc4af47d15954-lesson-01-04.wav",
+    "mimeType": "audio/wav",
+    "originalName": "lesson-01-04.wav",
+    "sha256": "648cc4af47d159543f73731e9675f4686214afd80115584b0e7e285fc8b952f2",
+    "bytes": 342528,
+    "publicVerified": true
+  },
+  "lesson-01-02.wav": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/6bc7453c7fada9d9-lesson-01-02.wav",
+    "storagePath": "english-foundations/v1/6bc7453c7fada9d9-lesson-01-02.wav",
+    "mimeType": "audio/wav",
+    "originalName": "lesson-01-02.wav",
+    "sha256": "6bc7453c7fada9d96a5015f59379794c567d8162cbeefc38600a210623e4e2c7",
+    "bytes": 367702,
+    "publicVerified": true
+  },
+  "lesson-01-03.wav": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/0f7d6d07adfaa6c8-lesson-01-03.wav",
+    "storagePath": "english-foundations/v1/0f7d6d07adfaa6c8-lesson-01-03.wav",
+    "mimeType": "audio/wav",
+    "originalName": "lesson-01-03.wav",
+    "sha256": "0f7d6d07adfaa6c8f669b89c6d3d6ad94bd03c10eef10f5a9ee9533debca6f7d",
+    "bytes": 355738,
+    "publicVerified": true
+  },
+  "lesson-01-06.wav": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/ddb599c8b30e8c51-lesson-01-06.wav",
+    "storagePath": "english-foundations/v1/ddb599c8b30e8c51-lesson-01-06.wav",
+    "mimeType": "audio/wav",
+    "originalName": "lesson-01-06.wav",
+    "sha256": "ddb599c8b30e8c51b0f8fc7eb4ae13e610f2e434c46638bf2911b04223ac21e3",
+    "bytes": 278362,
+    "publicVerified": true
+  },
+  "lesson-01-05.wav": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/37b0e17b2750dd3e-lesson-01-05.wav",
+    "storagePath": "english-foundations/v1/37b0e17b2750dd3e-lesson-01-05.wav",
+    "mimeType": "audio/wav",
+    "originalName": "lesson-01-05.wav",
+    "sha256": "37b0e17b2750dd3ee1534b8eac1687b188096f3f856b5f8c315a8a527ab028f2",
+    "bytes": 352256,
+    "publicVerified": true
+  },
+  "lesson-02-02.wav": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/f9a4258148ad79ec-lesson-02-02.wav",
+    "storagePath": "english-foundations/v1/f9a4258148ad79ec-lesson-02-02.wav",
+    "mimeType": "audio/wav",
+    "originalName": "lesson-02-02.wav",
+    "sha256": "f9a4258148ad79ec65feb32b8a68e85626e66bba7f1a3ee7b858fa7d177b42d8",
+    "bytes": 95284,
+    "publicVerified": true
+  },
+  "lesson-02-01.wav": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/76727603ec5e8807-lesson-02-01.wav",
+    "storagePath": "english-foundations/v1/76727603ec5e8807-lesson-02-01.wav",
+    "mimeType": "audio/wav",
+    "originalName": "lesson-02-01.wav",
+    "sha256": "76727603ec5e88075924995dfafa63a6c58529c3a32e8d9f8bbe264a33e2547b",
+    "bytes": 195964,
+    "publicVerified": true
+  },
+  "lesson-02-03.wav": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/256e7e6a9b7cfdca-lesson-02-03.wav",
+    "storagePath": "english-foundations/v1/256e7e6a9b7cfdca-lesson-02-03.wav",
+    "mimeType": "audio/wav",
+    "originalName": "lesson-02-03.wav",
+    "sha256": "256e7e6a9b7cfdca85c7490979ee86d2eddb510870ec570d33406b9dfa2cd470",
+    "bytes": 124680,
+    "publicVerified": true
+  },
+  "lesson-02-04.wav": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/2a2564c5f7520960-lesson-02-04.wav",
+    "storagePath": "english-foundations/v1/2a2564c5f7520960-lesson-02-04.wav",
+    "mimeType": "audio/wav",
+    "originalName": "lesson-02-04.wav",
+    "sha256": "2a2564c5f7520960dcf79e5bffe18d9b5a37c7ae483bb30ffa7713149655f4eb",
+    "bytes": 124468,
+    "publicVerified": true
+  },
+  "lesson-02-05.wav": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/6a6815ccd98f351d-lesson-02-05.wav",
+    "storagePath": "english-foundations/v1/6a6815ccd98f351d-lesson-02-05.wav",
+    "mimeType": "audio/wav",
+    "originalName": "lesson-02-05.wav",
+    "sha256": "6a6815ccd98f351dff49d95e0aa6232fe28b554ad3f71d097bbea2f7d1c92bd8",
+    "bytes": 164104,
+    "publicVerified": true
+  },
+  "lesson-03-01.wav": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/9f3f5d00e5d56105-lesson-03-01.wav",
+    "storagePath": "english-foundations/v1/9f3f5d00e5d56105-lesson-03-01.wav",
+    "mimeType": "audio/wav",
+    "originalName": "lesson-03-01.wav",
+    "sha256": "9f3f5d00e5d56105e0007092461d92c0d754cee66e921ee8bf84891106119a5e",
+    "bytes": 163350,
+    "publicVerified": true
+  },
+  "lesson-03-02.wav": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/0b65d48a7413eece-lesson-03-02.wav",
+    "storagePath": "english-foundations/v1/0b65d48a7413eece-lesson-03-02.wav",
+    "mimeType": "audio/wav",
+    "originalName": "lesson-03-02.wav",
+    "sha256": "0b65d48a7413eecefdea3ab8a159694af7b210b57ad4376292fd2e4f332dfef7",
+    "bytes": 277086,
+    "publicVerified": true
+  },
+  "lesson-03-03.wav": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/53c3f07c00148b9e-lesson-03-03.wav",
+    "storagePath": "english-foundations/v1/53c3f07c00148b9e-lesson-03-03.wav",
+    "mimeType": "audio/wav",
+    "originalName": "lesson-03-03.wav",
+    "sha256": "53c3f07c00148b9ef429d156cac4aac731d3aed84a0eb43ce7b63ba8929b475a",
+    "bytes": 236036,
+    "publicVerified": true
+  },
+  "lesson-03-05.wav": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/b9f5bad2c9b15d80-lesson-03-05.wav",
+    "storagePath": "english-foundations/v1/b9f5bad2c9b15d80-lesson-03-05.wav",
+    "mimeType": "audio/wav",
+    "originalName": "lesson-03-05.wav",
+    "sha256": "b9f5bad2c9b15d80f1976b4d17d34b8f6d3b0703b8b04611d109de74eb489528",
+    "bytes": 178972,
+    "publicVerified": true
+  },
+  "lesson-03-04.wav": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/dd8149f07fcd3b0a-lesson-03-04.wav",
+    "storagePath": "english-foundations/v1/dd8149f07fcd3b0a-lesson-03-04.wav",
+    "mimeType": "audio/wav",
+    "originalName": "lesson-03-04.wav",
+    "sha256": "dd8149f07fcd3b0ac68d5ef539b40fc9003dce1b062f0106d0bee040d8ee1b47",
+    "bytes": 201220,
+    "publicVerified": true
+  },
+  "lesson-04-01.wav": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/6db313b4cc20eda5-lesson-04-01.wav",
+    "storagePath": "english-foundations/v1/6db313b4cc20eda5-lesson-04-01.wav",
+    "mimeType": "audio/wav",
+    "originalName": "lesson-04-01.wav",
+    "sha256": "6db313b4cc20eda51ac2be1c9b1feb16c572648e8997d5476a571835d951f766",
+    "bytes": 165142,
+    "publicVerified": true
+  },
+  "lesson-04-02.wav": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/12e5717798a2c872-lesson-04-02.wav",
+    "storagePath": "english-foundations/v1/12e5717798a2c872-lesson-04-02.wav",
+    "mimeType": "audio/wav",
+    "originalName": "lesson-04-02.wav",
+    "sha256": "12e5717798a2c872d89148b5d0811b61271a82779eab09ab67dbcd389d034ffc",
+    "bytes": 212290,
+    "publicVerified": true
+  },
+  "lesson-04-03.wav": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/a05f000b1f5b3ecc-lesson-04-03.wav",
+    "storagePath": "english-foundations/v1/a05f000b1f5b3ecc-lesson-04-03.wav",
+    "mimeType": "audio/wav",
+    "originalName": "lesson-04-03.wav",
+    "sha256": "a05f000b1f5b3ecc5a3550bf2e7999e2be6f77f586bdae6202e7f3dde5bcd2ab",
+    "bytes": 271102,
+    "publicVerified": true
+  },
+  "lesson-04-04.wav": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/aa39cbae891f7eb7-lesson-04-04.wav",
+    "storagePath": "english-foundations/v1/aa39cbae891f7eb7-lesson-04-04.wav",
+    "mimeType": "audio/wav",
+    "originalName": "lesson-04-04.wav",
+    "sha256": "aa39cbae891f7eb7feb16e152904212f031e7c1fb425b453eb093e0f8c2e2241",
+    "bytes": 346954,
+    "publicVerified": true
+  },
+  "lesson-04-05.wav": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/46ead27fd26bd35e-lesson-04-05.wav",
+    "storagePath": "english-foundations/v1/46ead27fd26bd35e-lesson-04-05.wav",
+    "mimeType": "audio/wav",
+    "originalName": "lesson-04-05.wav",
+    "sha256": "46ead27fd26bd35e9e616a6265aee6679696ece1c88757de6617dfc36c6458f6",
+    "bytes": 296954,
+    "publicVerified": true
+  },
+  "lesson-05-01.wav": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/fecabe0b89a1b9b9-lesson-05-01.wav",
+    "storagePath": "english-foundations/v1/fecabe0b89a1b9b9-lesson-05-01.wav",
+    "mimeType": "audio/wav",
+    "originalName": "lesson-05-01.wav",
+    "sha256": "fecabe0b89a1b9b9ecebe14782a4b4e4d62108a9cdb750632b69c0bc250ac53b",
+    "bytes": 158984,
+    "publicVerified": true
+  },
+  "lesson-05-02.wav": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/f68748042c4ee48e-lesson-05-02.wav",
+    "storagePath": "english-foundations/v1/f68748042c4ee48e-lesson-05-02.wav",
+    "mimeType": "audio/wav",
+    "originalName": "lesson-05-02.wav",
+    "sha256": "f68748042c4ee48e1d2672c935674002a55fe4bd7978ae3c6b997d5daac95420",
+    "bytes": 107286,
+    "publicVerified": true
+  },
+  "lesson-05-03.wav": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/c4ce8c49e7b71e08-lesson-05-03.wav",
+    "storagePath": "english-foundations/v1/c4ce8c49e7b71e08-lesson-05-03.wav",
+    "mimeType": "audio/wav",
+    "originalName": "lesson-05-03.wav",
+    "sha256": "c4ce8c49e7b71e082e7ed91980fd4a985bb2d1edd9b62f369157f0bf6ce8d600",
+    "bytes": 254216,
+    "publicVerified": true
+  },
+  "lesson-05-04.wav": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/d93e7e92b1f1fe65-lesson-05-04.wav",
+    "storagePath": "english-foundations/v1/d93e7e92b1f1fe65-lesson-05-04.wav",
+    "mimeType": "audio/wav",
+    "originalName": "lesson-05-04.wav",
+    "sha256": "d93e7e92b1f1fe6501d8b7114d4c752f9cfb705fd5dfbc8ba856aefea4ed8f6d",
+    "bytes": 213768,
+    "publicVerified": true
+  },
+  "lesson-05-05.wav": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/982f39ae0f3e1ec3-lesson-05-05.wav",
+    "storagePath": "english-foundations/v1/982f39ae0f3e1ec3-lesson-05-05.wav",
+    "mimeType": "audio/wav",
+    "originalName": "lesson-05-05.wav",
+    "sha256": "982f39ae0f3e1ec34028aaf7b6121fe32627a63bdaedcc4253da67409c00f17a",
+    "bytes": 127290,
+    "publicVerified": true
+  },
+  "lesson-05-06.wav": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/44d4b9b639f6ff32-lesson-05-06.wav",
+    "storagePath": "english-foundations/v1/44d4b9b639f6ff32-lesson-05-06.wav",
+    "mimeType": "audio/wav",
+    "originalName": "lesson-05-06.wav",
+    "sha256": "44d4b9b639f6ff322e5a65d461697fa72eac664f794f5dfe90f79d25da197f2c",
+    "bytes": 206600,
+    "publicVerified": true
+  },
+  "lesson-06-01.wav": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/f19db6e3b35aba9c-lesson-06-01.wav",
+    "storagePath": "english-foundations/v1/f19db6e3b35aba9c-lesson-06-01.wav",
+    "mimeType": "audio/wav",
+    "originalName": "lesson-06-01.wav",
+    "sha256": "f19db6e3b35aba9cc35af20eb9323bcc6155cc40e9af6013352146459a3ca84e",
+    "bytes": 171864,
+    "publicVerified": true
+  },
+  "lesson-06-02.wav": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/48d76e689b5ad31b-lesson-06-02.wav",
+    "storagePath": "english-foundations/v1/48d76e689b5ad31b-lesson-06-02.wav",
+    "mimeType": "audio/wav",
+    "originalName": "lesson-06-02.wav",
+    "sha256": "48d76e689b5ad31bcce7fa32fabfac5c902bc666d7b961cd5e5cf351e06adf9d",
+    "bytes": 286472,
+    "publicVerified": true
+  },
+  "lesson-06-03.wav": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/17376bb7a7f08ba2-lesson-06-03.wav",
+    "storagePath": "english-foundations/v1/17376bb7a7f08ba2-lesson-06-03.wav",
+    "mimeType": "audio/wav",
+    "originalName": "lesson-06-03.wav",
+    "sha256": "17376bb7a7f08ba2efdfcad893ff1a4ade868bce8e7e847f32e76db57e1931c2",
+    "bytes": 288088,
+    "publicVerified": true
+  },
+  "lesson-06-04.wav": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/2330f5da043986e3-lesson-06-04.wav",
+    "storagePath": "english-foundations/v1/2330f5da043986e3-lesson-06-04.wav",
+    "mimeType": "audio/wav",
+    "originalName": "lesson-06-04.wav",
+    "sha256": "2330f5da043986e3e461f04e0faa3876b58fd228ea0d419c61a058e3bd8af26c",
+    "bytes": 135354,
+    "publicVerified": true
+  },
+  "lesson-06-05.wav": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/4162d48932d2e8f0-lesson-06-05.wav",
+    "storagePath": "english-foundations/v1/4162d48932d2e8f0-lesson-06-05.wav",
+    "mimeType": "audio/wav",
+    "originalName": "lesson-06-05.wav",
+    "sha256": "4162d48932d2e8f0a49b805d96d1eb72d1c2810a6bbd6176d98b7d858ebbb5aa",
+    "bytes": 254128,
+    "publicVerified": true
+  },
+  "lesson-07-01.wav": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/6a71a606d9587eed-lesson-07-01.wav",
+    "storagePath": "english-foundations/v1/6a71a606d9587eed-lesson-07-01.wav",
+    "mimeType": "audio/wav",
+    "originalName": "lesson-07-01.wav",
+    "sha256": "6a71a606d9587eed3515e71c886a2722ee24b0a30884f2560ef71635c0ab5ac8",
+    "bytes": 189754,
+    "publicVerified": true
+  },
+  "lesson-07-02.wav": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/231bbaa0486c4556-lesson-07-02.wav",
+    "storagePath": "english-foundations/v1/231bbaa0486c4556-lesson-07-02.wav",
+    "mimeType": "audio/wav",
+    "originalName": "lesson-07-02.wav",
+    "sha256": "231bbaa0486c4556b82f617ea5fe9f94153435e9fc05cc0d12c932c97270ad87",
+    "bytes": 158490,
+    "publicVerified": true
+  },
+  "lesson-07-03.wav": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/a8c4804a8a1cb9c0-lesson-07-03.wav",
+    "storagePath": "english-foundations/v1/a8c4804a8a1cb9c0-lesson-07-03.wav",
+    "mimeType": "audio/wav",
+    "originalName": "lesson-07-03.wav",
+    "sha256": "a8c4804a8a1cb9c0dd4336af275dbc88fc4efd2b471cebf8da8dc4d8bcaa1e73",
+    "bytes": 165148,
+    "publicVerified": true
+  },
+  "lesson-07-04.wav": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/17e48ee253769383-lesson-07-04.wav",
+    "storagePath": "english-foundations/v1/17e48ee253769383-lesson-07-04.wav",
+    "mimeType": "audio/wav",
+    "originalName": "lesson-07-04.wav",
+    "sha256": "17e48ee253769383833bcb0c221088a5613ee31098c907f07450728b796e52e7",
+    "bytes": 264980,
+    "publicVerified": true
+  },
+  "lesson-08-01.wav": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/d02ac1c285574377-lesson-08-01.wav",
+    "storagePath": "english-foundations/v1/d02ac1c285574377-lesson-08-01.wav",
+    "mimeType": "audio/wav",
+    "originalName": "lesson-08-01.wav",
+    "sha256": "d02ac1c285574377ab4fe577d2e8e45c488f84e60845856f973bdaae6c75850f",
+    "bytes": 181512,
+    "publicVerified": true
+  },
+  "lesson-07-05.wav": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/797a9367c9cd2049-lesson-07-05.wav",
+    "storagePath": "english-foundations/v1/797a9367c9cd2049-lesson-07-05.wav",
+    "mimeType": "audio/wav",
+    "originalName": "lesson-07-05.wav",
+    "sha256": "797a9367c9cd2049d9a253b409b9afdc45dd2a2e5a88cd6326c0ea369dd4a8f4",
+    "bytes": 357394,
+    "publicVerified": true
+  },
+  "lesson-08-02.wav": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/c1ce759f023830c3-lesson-08-02.wav",
+    "storagePath": "english-foundations/v1/c1ce759f023830c3-lesson-08-02.wav",
+    "mimeType": "audio/wav",
+    "originalName": "lesson-08-02.wav",
+    "sha256": "c1ce759f023830c38008d3c10d208dd8255c43f22657226b4f0e6ff2dd49f201",
+    "bytes": 156072,
+    "publicVerified": true
+  },
+  "lesson-08-03.wav": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/2a3d942e19a91f15-lesson-08-03.wav",
+    "storagePath": "english-foundations/v1/2a3d942e19a91f15-lesson-08-03.wav",
+    "mimeType": "audio/wav",
+    "originalName": "lesson-08-03.wav",
+    "sha256": "2a3d942e19a91f1534f9317a76c3d25161ea49920ed23eb090610449829b1acc",
+    "bytes": 216852,
+    "publicVerified": true
+  },
+  "lesson-08-04.wav": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/404a85912e8d4254-lesson-08-04.wav",
+    "storagePath": "english-foundations/v1/404a85912e8d4254-lesson-08-04.wav",
+    "mimeType": "audio/wav",
+    "originalName": "lesson-08-04.wav",
+    "sha256": "404a85912e8d4254c70649f95ffc7be3fd9af8f177ff31048cbeb6d8c80aa552",
+    "bytes": 172808,
+    "publicVerified": true
+  },
+  "lesson-08-06.wav": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/1a4580db7d3ff878-lesson-08-06.wav",
+    "storagePath": "english-foundations/v1/1a4580db7d3ff878-lesson-08-06.wav",
+    "mimeType": "audio/wav",
+    "originalName": "lesson-08-06.wav",
+    "sha256": "1a4580db7d3ff87890002f9c834096514b260f970155b53c3b87b2f10e26b1bf",
+    "bytes": 313608,
+    "publicVerified": true
+  },
+  "lesson-08-05.wav": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/00ba4184249d103b-lesson-08-05.wav",
+    "storagePath": "english-foundations/v1/00ba4184249d103b-lesson-08-05.wav",
+    "mimeType": "audio/wav",
+    "originalName": "lesson-08-05.wav",
+    "sha256": "00ba4184249d103b4e2840410a08b3f3807a25f12552b8b4be217e4045930c66",
+    "bytes": 286018,
+    "publicVerified": true
+  },
+  "lesson-09-01.wav": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/5e19b8b544885699-lesson-09-01.wav",
+    "storagePath": "english-foundations/v1/5e19b8b544885699-lesson-09-01.wav",
+    "mimeType": "audio/wav",
+    "originalName": "lesson-09-01.wav",
+    "sha256": "5e19b8b5448856993126e81c55968371e022083502da99a5b08a4b4a3355c6a0",
+    "bytes": 147778,
+    "publicVerified": true
+  },
+  "lesson-08-07.wav": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/061fb07a58003db8-lesson-08-07.wav",
+    "storagePath": "english-foundations/v1/061fb07a58003db8-lesson-08-07.wav",
+    "mimeType": "audio/wav",
+    "originalName": "lesson-08-07.wav",
+    "sha256": "061fb07a58003db84df3503ec2f6833af3454fa3fb5500498aae59948188b051",
+    "bytes": 290394,
+    "publicVerified": true
+  },
+  "lesson-09-02.wav": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/a973fe1669523fda-lesson-09-02.wav",
+    "storagePath": "english-foundations/v1/a973fe1669523fda-lesson-09-02.wav",
+    "mimeType": "audio/wav",
+    "originalName": "lesson-09-02.wav",
+    "sha256": "a973fe1669523fda1ef2e4f6e865afec9bbe3c0e5cebfa9be3296b3f19fbc43a",
+    "bytes": 166734,
+    "publicVerified": true
+  },
+  "lesson-09-03.wav": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/8d446377015ad5ef-lesson-09-03.wav",
+    "storagePath": "english-foundations/v1/8d446377015ad5ef-lesson-09-03.wav",
+    "mimeType": "audio/wav",
+    "originalName": "lesson-09-03.wav",
+    "sha256": "8d446377015ad5ef48eafb974bcf92980d559b3ce7158b5e209ba1c1a078e907",
+    "bytes": 206146,
+    "publicVerified": true
+  },
+  "lesson-09-04.wav": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/3b4f0c9ff83b2073-lesson-09-04.wav",
+    "storagePath": "english-foundations/v1/3b4f0c9ff83b2073-lesson-09-04.wav",
+    "mimeType": "audio/wav",
+    "originalName": "lesson-09-04.wav",
+    "sha256": "3b4f0c9ff83b2073cb973bf394fe2028d5100a2b5e9879447711b82fc84c1253",
+    "bytes": 269364,
+    "publicVerified": true
+  },
+  "lesson-10-01.wav": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/230977b0d36198df-lesson-10-01.wav",
+    "storagePath": "english-foundations/v1/230977b0d36198df-lesson-10-01.wav",
+    "mimeType": "audio/wav",
+    "originalName": "lesson-10-01.wav",
+    "sha256": "230977b0d36198df200bc7189daf16547a0e43eb53cccb7b072f0f85e6940862",
+    "bytes": 213256,
+    "publicVerified": true
+  },
+  "lesson-10-03.wav": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/9b6f9f96a6d07d21-lesson-10-03.wav",
+    "storagePath": "english-foundations/v1/9b6f9f96a6d07d21-lesson-10-03.wav",
+    "mimeType": "audio/wav",
+    "originalName": "lesson-10-03.wav",
+    "sha256": "9b6f9f96a6d07d2150ef0254a6fbe62ffe41279600b114f66ae97fc1e24eec80",
+    "bytes": 366074,
+    "publicVerified": true
+  },
+  "lesson-10-02.wav": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/19a6c6e357a168a2-lesson-10-02.wav",
+    "storagePath": "english-foundations/v1/19a6c6e357a168a2-lesson-10-02.wav",
+    "mimeType": "audio/wav",
+    "originalName": "lesson-10-02.wav",
+    "sha256": "19a6c6e357a168a271f036d36e43e4b650eecff46ca6b246a96bc1478811b68c",
+    "bytes": 377370,
+    "publicVerified": true
+  },
+  "lesson-10-04.wav": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/796e5f7c011d02a9-lesson-10-04.wav",
+    "storagePath": "english-foundations/v1/796e5f7c011d02a9-lesson-10-04.wav",
+    "mimeType": "audio/wav",
+    "originalName": "lesson-10-04.wav",
+    "sha256": "796e5f7c011d02a9edcd3cf38979274912f89adca869743aff11f78dad21f382",
+    "bytes": 256018,
+    "publicVerified": true
+  },
+  "lesson-10-05.wav": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/c532f02f1eb9e670-lesson-10-05.wav",
+    "storagePath": "english-foundations/v1/c532f02f1eb9e670-lesson-10-05.wav",
+    "mimeType": "audio/wav",
+    "originalName": "lesson-10-05.wav",
+    "sha256": "c532f02f1eb9e6708c21301bb2e0417f18bd1a114c7ff7252289be5158ceb229",
+    "bytes": 269488,
+    "publicVerified": true
+  },
+  "lesson-10-06.wav": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/14426ffc10858364-lesson-10-06.wav",
+    "storagePath": "english-foundations/v1/14426ffc10858364-lesson-10-06.wav",
+    "mimeType": "audio/wav",
+    "originalName": "lesson-10-06.wav",
+    "sha256": "14426ffc108583641fecba3b8f5521b9d05015e33bef26a01c78d66396cb88dd",
+    "bytes": 321774,
+    "publicVerified": true
+  },
+  "lesson-11-01.wav": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/ad39567d3f2bd608-lesson-11-01.wav",
+    "storagePath": "english-foundations/v1/ad39567d3f2bd608-lesson-11-01.wav",
+    "mimeType": "audio/wav",
+    "originalName": "lesson-11-01.wav",
+    "sha256": "ad39567d3f2bd60847cdf576f908111e4771f9574b9aa6a9d4192f6f94555119",
+    "bytes": 235116,
+    "publicVerified": true
+  },
+  "lesson-11-03.wav": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/9d4e4e7f9fe473c9-lesson-11-03.wav",
+    "storagePath": "english-foundations/v1/9d4e4e7f9fe473c9-lesson-11-03.wav",
+    "mimeType": "audio/wav",
+    "originalName": "lesson-11-03.wav",
+    "sha256": "9d4e4e7f9fe473c987bc946e0d788fea8728e0aa6a8bd66ae9ee44704fbcfe84",
+    "bytes": 173654,
+    "publicVerified": true
+  },
+  "lesson-11-02.wav": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/fb0d211ad8b3c792-lesson-11-02.wav",
+    "storagePath": "english-foundations/v1/fb0d211ad8b3c792-lesson-11-02.wav",
+    "mimeType": "audio/wav",
+    "originalName": "lesson-11-02.wav",
+    "sha256": "fb0d211ad8b3c7924e0ee716b5dee2b5cf7ae197991c22975cde939826ab5feb",
+    "bytes": 236884,
+    "publicVerified": true
+  },
+  "lesson-11-05.wav": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/8132002aef7df85d-lesson-11-05.wav",
+    "storagePath": "english-foundations/v1/8132002aef7df85d-lesson-11-05.wav",
+    "mimeType": "audio/wav",
+    "originalName": "lesson-11-05.wav",
+    "sha256": "8132002aef7df85d73f1e3fc64f5b353060e40589c1f178b8612a54f3cfa1f58",
+    "bytes": 252738,
+    "publicVerified": true
+  },
+  "lesson-11-04.wav": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/a0df498a7e47f6c5-lesson-11-04.wav",
+    "storagePath": "english-foundations/v1/a0df498a7e47f6c5-lesson-11-04.wav",
+    "mimeType": "audio/wav",
+    "originalName": "lesson-11-04.wav",
+    "sha256": "a0df498a7e47f6c58cbb0cff43a5403dee8b8f38d9270a551a4ebd6f208cc79f",
+    "bytes": 252244,
+    "publicVerified": true
+  },
+  "lesson-11-06.wav": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/ae2906300dc4fec8-lesson-11-06.wav",
+    "storagePath": "english-foundations/v1/ae2906300dc4fec8-lesson-11-06.wav",
+    "mimeType": "audio/wav",
+    "originalName": "lesson-11-06.wav",
+    "sha256": "ae2906300dc4fec8b39ad1e453234a59ef09b6104d6a130b6ae5254915f98152",
+    "bytes": 179296,
+    "publicVerified": true
+  },
+  "lesson-11-07.wav": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/a9ffea6e672d63fd-lesson-11-07.wav",
+    "storagePath": "english-foundations/v1/a9ffea6e672d63fd-lesson-11-07.wav",
+    "mimeType": "audio/wav",
+    "originalName": "lesson-11-07.wav",
+    "sha256": "a9ffea6e672d63fd36c42a1bf967e3422ce349ff0abba355547c199c21b2dfff",
+    "bytes": 249524,
+    "publicVerified": true
+  },
+  "lesson-12-01.wav": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/ade710a2490d966d-lesson-12-01.wav",
+    "storagePath": "english-foundations/v1/ade710a2490d966d-lesson-12-01.wav",
+    "mimeType": "audio/wav",
+    "originalName": "lesson-12-01.wav",
+    "sha256": "ade710a2490d966dafa0ea0aec8a6d46037571d05e3ef150f3d39fa952e373eb",
+    "bytes": 230602,
+    "publicVerified": true
+  },
+  "lesson-12-02.wav": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/f2b1eab4427d4859-lesson-12-02.wav",
+    "storagePath": "english-foundations/v1/f2b1eab4427d4859-lesson-12-02.wav",
+    "mimeType": "audio/wav",
+    "originalName": "lesson-12-02.wav",
+    "sha256": "f2b1eab4427d4859cce30355e69edf70e9ebaee8175bb412c60c3eb011657d97",
+    "bytes": 239306,
+    "publicVerified": true
+  },
+  "lesson-12-03.wav": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/141901b1ccc23f5c-lesson-12-03.wav",
+    "storagePath": "english-foundations/v1/141901b1ccc23f5c-lesson-12-03.wav",
+    "mimeType": "audio/wav",
+    "originalName": "lesson-12-03.wav",
+    "sha256": "141901b1ccc23f5c0e4c808450fdc377cb3cae501d2e5f4c9e596369e3750579",
+    "bytes": 244426,
+    "publicVerified": true
+  },
+  "lesson-12-04.wav": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/fd1b1e8ca787bd13-lesson-12-04.wav",
+    "storagePath": "english-foundations/v1/fd1b1e8ca787bd13-lesson-12-04.wav",
+    "mimeType": "audio/wav",
+    "originalName": "lesson-12-04.wav",
+    "sha256": "fd1b1e8ca787bd13a1b1c44ea840d1d1cafc82d07bd1cec3e79ac3fdb38b0d65",
+    "bytes": 353420,
+    "publicVerified": true
+  },
+  "lesson-12-05.wav": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/4386ff5f763ab2c7-lesson-12-05.wav",
+    "storagePath": "english-foundations/v1/4386ff5f763ab2c7-lesson-12-05.wav",
+    "mimeType": "audio/wav",
+    "originalName": "lesson-12-05.wav",
+    "sha256": "4386ff5f763ab2c77387de58a2fa08b907f232ad55e966c95beed5dd68e94d83",
+    "bytes": 347276,
+    "publicVerified": true
+  },
+  "lesson-13-03.wav": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/c8d6c3f67d8a8e48-lesson-13-03.wav",
+    "storagePath": "english-foundations/v1/c8d6c3f67d8a8e48-lesson-13-03.wav",
+    "mimeType": "audio/wav",
+    "originalName": "lesson-13-03.wav",
+    "sha256": "c8d6c3f67d8a8e482395f325c1f855d77b71bc81c7e0382b9cd3677b96b6cf69",
+    "bytes": 208964,
+    "publicVerified": true
+  },
+  "lesson-13-01.wav": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/2c8414b3f3a48bba-lesson-13-01.wav",
+    "storagePath": "english-foundations/v1/2c8414b3f3a48bba-lesson-13-01.wav",
+    "mimeType": "audio/wav",
+    "originalName": "lesson-13-01.wav",
+    "sha256": "2c8414b3f3a48bba0b35f93bb9301010f1ebc511ca912a4ebe29a166f69397c4",
+    "bytes": 205654,
+    "publicVerified": true
+  },
+  "lesson-13-04.wav": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/db0ad12648e0f18a-lesson-13-04.wav",
+    "storagePath": "english-foundations/v1/db0ad12648e0f18a-lesson-13-04.wav",
+    "mimeType": "audio/wav",
+    "originalName": "lesson-13-04.wav",
+    "sha256": "db0ad12648e0f18a0668699b24c3a62966ceec732367c856fe170808e92e9240",
+    "bytes": 246212,
+    "publicVerified": true
+  },
+  "lesson-13-02.wav": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/5bf8f5a509b3a117-lesson-13-02.wav",
+    "storagePath": "english-foundations/v1/5bf8f5a509b3a117-lesson-13-02.wav",
+    "mimeType": "audio/wav",
+    "originalName": "lesson-13-02.wav",
+    "sha256": "5bf8f5a509b3a1171e83e1515aa0c5637d3dff7dd6f56f304b107840804eb762",
+    "bytes": 287692,
+    "publicVerified": true
+  },
+  "lesson-13-05.wav": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/274e3ec4cf9a2172-lesson-13-05.wav",
+    "storagePath": "english-foundations/v1/274e3ec4cf9a2172-lesson-13-05.wav",
+    "mimeType": "audio/wav",
+    "originalName": "lesson-13-05.wav",
+    "sha256": "274e3ec4cf9a21729447830ec4a93e78a63befff7eaf4aedd305565e63ae3a30",
+    "bytes": 223698,
+    "publicVerified": true
+  },
+  "lesson-13-06.wav": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/e33f0fa79e631a26-lesson-13-06.wav",
+    "storagePath": "english-foundations/v1/e33f0fa79e631a26-lesson-13-06.wav",
+    "mimeType": "audio/wav",
+    "originalName": "lesson-13-06.wav",
+    "sha256": "e33f0fa79e631a26f9136c307d920300e26c976de892bba6c52b8219cc3a3737",
+    "bytes": 350958,
+    "publicVerified": true
+  },
+  "lesson-14-01.wav": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/112d489a0d28b192-lesson-14-01.wav",
+    "storagePath": "english-foundations/v1/112d489a0d28b192-lesson-14-01.wav",
+    "mimeType": "audio/wav",
+    "originalName": "lesson-14-01.wav",
+    "sha256": "112d489a0d28b192c81956e39049583494005391ca912a2fe2a5ff12562ca647",
+    "bytes": 181732,
+    "publicVerified": true
+  },
+  "lesson-14-02.wav": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/c8fdab4bab52b9ee-lesson-14-02.wav",
+    "storagePath": "english-foundations/v1/c8fdab4bab52b9ee-lesson-14-02.wav",
+    "mimeType": "audio/wav",
+    "originalName": "lesson-14-02.wav",
+    "sha256": "c8fdab4bab52b9eec01da73eb420a0976a170c5f1b53ebb0c5186144a42b7291",
+    "bytes": 170818,
+    "publicVerified": true
+  },
+  "lesson-14-03.wav": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/7785b67f6969e2d5-lesson-14-03.wav",
+    "storagePath": "english-foundations/v1/7785b67f6969e2d5-lesson-14-03.wav",
+    "mimeType": "audio/wav",
+    "originalName": "lesson-14-03.wav",
+    "sha256": "7785b67f6969e2d5d85c5a155f3aee79158946327b392cd65571ce64272fc929",
+    "bytes": 303342,
+    "publicVerified": true
+  },
+  "lesson-14-04.wav": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/117fc7f239f7039d-lesson-14-04.wav",
+    "storagePath": "english-foundations/v1/117fc7f239f7039d-lesson-14-04.wav",
+    "mimeType": "audio/wav",
+    "originalName": "lesson-14-04.wav",
+    "sha256": "117fc7f239f7039dcceecc049e999473dc1289271bbd4c77c2e54f89c35ee39d",
+    "bytes": 241226,
+    "publicVerified": true
+  },
+  "lesson-14-05.wav": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/7ee3fa5b8287ab02-lesson-14-05.wav",
+    "storagePath": "english-foundations/v1/7ee3fa5b8287ab02-lesson-14-05.wav",
+    "mimeType": "audio/wav",
+    "originalName": "lesson-14-05.wav",
+    "sha256": "7ee3fa5b8287ab02ed3133fe3f347d83869d9132348a8deb01afa853cbee5e05",
+    "bytes": 297198,
+    "publicVerified": true
+  },
+  "lesson-14-06.wav": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/0685fa18c6a1c08a-lesson-14-06.wav",
+    "storagePath": "english-foundations/v1/0685fa18c6a1c08a-lesson-14-06.wav",
+    "mimeType": "audio/wav",
+    "originalName": "lesson-14-06.wav",
+    "sha256": "0685fa18c6a1c08abdb2669fb8e822b990c1c767e93d4fb0309d8e23670a08c6",
+    "bytes": 249444,
+    "publicVerified": true
+  },
+  "lesson-14-07.wav": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/40a916248f18afc9-lesson-14-07.wav",
+    "storagePath": "english-foundations/v1/40a916248f18afc9-lesson-14-07.wav",
+    "mimeType": "audio/wav",
+    "originalName": "lesson-14-07.wav",
+    "sha256": "40a916248f18afc94f225b01728d3445cbff8fb4253622ba8fcc5fa88724874d",
+    "bytes": 140610,
+    "publicVerified": true
+  },
+  "lesson-15-01.wav": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/60b6656329b5f2c5-lesson-15-01.wav",
+    "storagePath": "english-foundations/v1/60b6656329b5f2c5-lesson-15-01.wav",
+    "mimeType": "audio/wav",
+    "originalName": "lesson-15-01.wav",
+    "sha256": "60b6656329b5f2c504cf2c596da8ee6f9781b6464c799b922ee240856934b10b",
+    "bytes": 208874,
+    "publicVerified": true
+  },
+  "lesson-15-02.wav": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/6870c84e7890fc86-lesson-15-02.wav",
+    "storagePath": "english-foundations/v1/6870c84e7890fc86-lesson-15-02.wav",
+    "mimeType": "audio/wav",
+    "originalName": "lesson-15-02.wav",
+    "sha256": "6870c84e7890fc8687b9fc12e9fc3e85400ffb417c590e814d930335390da687",
+    "bytes": 285876,
+    "publicVerified": true
+  },
+  "lesson-15-03.wav": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/772206586931a830-lesson-15-03.wav",
+    "storagePath": "english-foundations/v1/772206586931a830-lesson-15-03.wav",
+    "mimeType": "audio/wav",
+    "originalName": "lesson-15-03.wav",
+    "sha256": "772206586931a8309f1d24ba3455a39e5ce07e4bc89be8a2fabc3796abf1d88a",
+    "bytes": 274670,
+    "publicVerified": true
+  },
+  "lesson-15-05.wav": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/9d6abbac079bb4f3-lesson-15-05.wav",
+    "storagePath": "english-foundations/v1/9d6abbac079bb4f3-lesson-15-05.wav",
+    "mimeType": "audio/wav",
+    "originalName": "lesson-15-05.wav",
+    "sha256": "9d6abbac079bb4f3fb605d90ac2113f1cd0bdb54ba4e76bd6f33805f69769eb1",
+    "bytes": 287982,
+    "publicVerified": true
+  },
+  "lesson-16-02.wav": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/fd710ecd2f0a7c58-lesson-16-02.wav",
+    "storagePath": "english-foundations/v1/fd710ecd2f0a7c58-lesson-16-02.wav",
+    "mimeType": "audio/wav",
+    "originalName": "lesson-16-02.wav",
+    "sha256": "fd710ecd2f0a7c5877cd7e85579f08f4bbd17d2c7b2b2839b975070b300ed68a",
+    "bytes": 229246,
+    "publicVerified": true
+  },
+  "lesson-16-01.wav": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/c4dd92b1263e1d24-lesson-16-01.wav",
+    "storagePath": "english-foundations/v1/c4dd92b1263e1d24-lesson-16-01.wav",
+    "mimeType": "audio/wav",
+    "originalName": "lesson-16-01.wav",
+    "sha256": "c4dd92b1263e1d240fe404bb8c9ceaae229421bf0fa034bf1a07eef4cf5f1f3d",
+    "bytes": 271230,
+    "publicVerified": true
+  },
+  "lesson-15-04.wav": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/9deadf23725e86ff-lesson-15-04.wav",
+    "storagePath": "english-foundations/v1/9deadf23725e86ff-lesson-15-04.wav",
+    "mimeType": "audio/wav",
+    "originalName": "lesson-15-04.wav",
+    "sha256": "9deadf23725e86ff6029fb4da63274548dd1f493268fc8eed46c337df6f378f2",
+    "bytes": 300746,
+    "publicVerified": true
+  },
+  "lesson-16-04.wav": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/c31e46404f274b55-lesson-16-04.wav",
+    "storagePath": "english-foundations/v1/c31e46404f274b55-lesson-16-04.wav",
+    "mimeType": "audio/wav",
+    "originalName": "lesson-16-04.wav",
+    "sha256": "c31e46404f274b5571ca75afb2070f0f8dafb7fc0ca93eb0c85d5a398dd940bb",
+    "bytes": 238428,
+    "publicVerified": true
+  },
+  "lesson-16-03.wav": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/f5909e5898d6140b-lesson-16-03.wav",
+    "storagePath": "english-foundations/v1/f5909e5898d6140b-lesson-16-03.wav",
+    "mimeType": "audio/wav",
+    "originalName": "lesson-16-03.wav",
+    "sha256": "f5909e5898d6140b7c763a5b185f4e4fe3eaccf5460ae863ebebc40549631bcf",
+    "bytes": 226644,
+    "publicVerified": true
+  },
+  "lesson-16-05.wav": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/62f0c6246756d70d-lesson-16-05.wav",
+    "storagePath": "english-foundations/v1/62f0c6246756d70d-lesson-16-05.wav",
+    "mimeType": "audio/wav",
+    "originalName": "lesson-16-05.wav",
+    "sha256": "62f0c6246756d70dda8bdb89fe7c531bbca45070311d61bf06f28d4d191a3ec0",
+    "bytes": 310942,
+    "publicVerified": true
+  },
+  "lesson-17-01.wav": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/ac538888787896e2-lesson-17-01.wav",
+    "storagePath": "english-foundations/v1/ac538888787896e2-lesson-17-01.wav",
+    "mimeType": "audio/wav",
+    "originalName": "lesson-17-01.wav",
+    "sha256": "ac538888787896e26fea9559dea9a5dd513137f58c1ce9b550eff4d51e63d3ef",
+    "bytes": 210590,
+    "publicVerified": true
+  },
+  "lesson-17-02.wav": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/b3235f9bc0d32f53-lesson-17-02.wav",
+    "storagePath": "english-foundations/v1/b3235f9bc0d32f53-lesson-17-02.wav",
+    "mimeType": "audio/wav",
+    "originalName": "lesson-17-02.wav",
+    "sha256": "b3235f9bc0d32f530387a420c0e994552f0fd35ba9dd6595a82f991c2bb8a02f",
+    "bytes": 215844,
+    "publicVerified": true
+  },
+  "lesson-17-04.wav": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/de33a26a147bedd1-lesson-17-04.wav",
+    "storagePath": "english-foundations/v1/de33a26a147bedd1-lesson-17-04.wav",
+    "mimeType": "audio/wav",
+    "originalName": "lesson-17-04.wav",
+    "sha256": "de33a26a147bedd1c6add21e7b1494c00d9da88211d7c13af640d50e4d189d84",
+    "bytes": 337646,
+    "publicVerified": true
+  },
+  "lesson-17-03.wav": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/17c15a3feacc8df6-lesson-17-03.wav",
+    "storagePath": "english-foundations/v1/17c15a3feacc8df6-lesson-17-03.wav",
+    "mimeType": "audio/wav",
+    "originalName": "lesson-17-03.wav",
+    "sha256": "17c15a3feacc8df610dde4c6a242e5202de8271fe00ea3e82e61eaf662485bac",
+    "bytes": 298564,
+    "publicVerified": true
+  },
+  "lesson-17-05.wav": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/9d224272f16fd9b4-lesson-17-05.wav",
+    "storagePath": "english-foundations/v1/9d224272f16fd9b4-lesson-17-05.wav",
+    "mimeType": "audio/wav",
+    "originalName": "lesson-17-05.wav",
+    "sha256": "9d224272f16fd9b4ff2bf071550428be101ceef9cf021fa5f6d150cf2acabd45",
+    "bytes": 252654,
+    "publicVerified": true
+  },
+  "lesson-17-06.wav": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/808333e6da45de24-lesson-17-06.wav",
+    "storagePath": "english-foundations/v1/808333e6da45de24-lesson-17-06.wav",
+    "mimeType": "audio/wav",
+    "originalName": "lesson-17-06.wav",
+    "sha256": "808333e6da45de2451463eb9b30b14a1405fff547f59d2f9b7126e46f5b9e110",
+    "bytes": 284616,
+    "publicVerified": true
+  },
+  "lesson-18-01.wav": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/17d721a3a6d67809-lesson-18-01.wav",
+    "storagePath": "english-foundations/v1/17d721a3a6d67809-lesson-18-01.wav",
+    "mimeType": "audio/wav",
+    "originalName": "lesson-18-01.wav",
+    "sha256": "17d721a3a6d678093400cb899d58dd7ae6c8d76d860425c567be7e97719eaa22",
+    "bytes": 296022,
+    "publicVerified": true
+  },
+  "lesson-18-02.wav": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/0be8fcbf37079f31-lesson-18-02.wav",
+    "storagePath": "english-foundations/v1/0be8fcbf37079f31-lesson-18-02.wav",
+    "mimeType": "audio/wav",
+    "originalName": "lesson-18-02.wav",
+    "sha256": "0be8fcbf37079f31aa89190224b1516283ec30ffb03ba40498fdb893c6d4f9e6",
+    "bytes": 171246,
+    "publicVerified": true
+  },
+  "lesson-18-03.wav": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/e8e64e52a3ee9067-lesson-18-03.wav",
+    "storagePath": "english-foundations/v1/e8e64e52a3ee9067-lesson-18-03.wav",
+    "mimeType": "audio/wav",
+    "originalName": "lesson-18-03.wav",
+    "sha256": "e8e64e52a3ee9067219eb632ab957e17495ebde5d10454b33e2dc31d23944279",
+    "bytes": 380654,
+    "publicVerified": true
+  },
+  "lesson-18-05.wav": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/e3d7ff3b87965712-lesson-18-05.wav",
+    "storagePath": "english-foundations/v1/e3d7ff3b87965712-lesson-18-05.wav",
+    "mimeType": "audio/wav",
+    "originalName": "lesson-18-05.wav",
+    "sha256": "e3d7ff3b87965712fab252ae32df66020f47765c8a36ea79cdeb636332bb8df1",
+    "bytes": 225356,
+    "publicVerified": true
+  },
+  "lesson-18-04.wav": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/c04a3ed0bef6e80f-lesson-18-04.wav",
+    "storagePath": "english-foundations/v1/c04a3ed0bef6e80f-lesson-18-04.wav",
+    "mimeType": "audio/wav",
+    "originalName": "lesson-18-04.wav",
+    "sha256": "c04a3ed0bef6e80faf3d397f7918f9304d0c7b70adce2799e16e39b37bf63b02",
+    "bytes": 233198,
+    "publicVerified": true
+  },
+  "lesson-19-01.wav": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/d7ac10f5a18e5f09-lesson-19-01.wav",
+    "storagePath": "english-foundations/v1/d7ac10f5a18e5f09-lesson-19-01.wav",
+    "mimeType": "audio/wav",
+    "originalName": "lesson-19-01.wav",
+    "sha256": "d7ac10f5a18e5f09a7f9e69332842976ac9e453b588bb23696e799626d87cec9",
+    "bytes": 213246,
+    "publicVerified": true
+  },
+  "lesson-19-02.wav": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/9dbc20fa71d32468-lesson-19-02.wav",
+    "storagePath": "english-foundations/v1/9dbc20fa71d32468-lesson-19-02.wav",
+    "mimeType": "audio/wav",
+    "originalName": "lesson-19-02.wav",
+    "sha256": "9dbc20fa71d32468147d1a32fe642645b580c8c61013e8e83a48cfc3dd8bf85c",
+    "bytes": 187144,
+    "publicVerified": true
+  },
+  "lesson-19-04.wav": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/5881de333723e2fc-lesson-19-04.wav",
+    "storagePath": "english-foundations/v1/5881de333723e2fc-lesson-19-04.wav",
+    "mimeType": "audio/wav",
+    "originalName": "lesson-19-04.wav",
+    "sha256": "5881de333723e2fc7066341f8e6c516b26cd4a062097c14c5c4f9e80077f6ad4",
+    "bytes": 235352,
+    "publicVerified": true
+  },
+  "lesson-19-03.wav": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/f349ad110d18d101-lesson-19-03.wav",
+    "storagePath": "english-foundations/v1/f349ad110d18d101-lesson-19-03.wav",
+    "mimeType": "audio/wav",
+    "originalName": "lesson-19-03.wav",
+    "sha256": "f349ad110d18d10148705f4698ff9db57742289e4cdc6b47b10e0a04fd19429c",
+    "bytes": 335356,
+    "publicVerified": true
+  },
+  "lesson-20-01.wav": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/e4660ff38007a185-lesson-20-01.wav",
+    "storagePath": "english-foundations/v1/e4660ff38007a185-lesson-20-01.wav",
+    "mimeType": "audio/wav",
+    "originalName": "lesson-20-01.wav",
+    "sha256": "e4660ff38007a1850f82a1986c10cdc9b0fc65d9d1790e0a073cf73e3ca6d625",
+    "bytes": 282900,
+    "publicVerified": true
+  },
+  "lesson-20-02.wav": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/829334896b7712b2-lesson-20-02.wav",
+    "storagePath": "english-foundations/v1/829334896b7712b2-lesson-20-02.wav",
+    "mimeType": "audio/wav",
+    "originalName": "lesson-20-02.wav",
+    "sha256": "829334896b7712b232b2468bd671b2bb632a4369d551bf93f91386757ef84684",
+    "bytes": 293904,
+    "publicVerified": true
+  },
+  "lesson-20-04.wav": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/2ef553d6da4c7abf-lesson-20-04.wav",
+    "storagePath": "english-foundations/v1/2ef553d6da4c7abf-lesson-20-04.wav",
+    "mimeType": "audio/wav",
+    "originalName": "lesson-20-04.wav",
+    "sha256": "2ef553d6da4c7abf219fed513f27c4b6f25f25af068bdd5c3b70eef033af88e6",
+    "bytes": 194824,
+    "publicVerified": true
+  },
+  "lesson-20-05.wav": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/69adae24ee738655-lesson-20-05.wav",
+    "storagePath": "english-foundations/v1/69adae24ee738655-lesson-20-05.wav",
+    "mimeType": "audio/wav",
+    "originalName": "lesson-20-05.wav",
+    "sha256": "69adae24ee7386551f6506641893dcde892df50befb6957d9809515d26ce8180",
+    "bytes": 277158,
+    "publicVerified": true
+  },
+  "lesson-20-03.wav": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/9dea003b6e5c4df5-lesson-20-03.wav",
+    "storagePath": "english-foundations/v1/9dea003b6e5c4df5-lesson-20-03.wav",
+    "mimeType": "audio/wav",
+    "originalName": "lesson-20-03.wav",
+    "sha256": "9dea003b6e5c4df514db7c5321f13e615a5e62285e7ca949e94d4d880b830fe3",
+    "bytes": 230654,
+    "publicVerified": true
+  },
+  "lesson-20-06.wav": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/e0ca250f5239fb2e-lesson-20-06.wav",
+    "storagePath": "english-foundations/v1/e0ca250f5239fb2e-lesson-20-06.wav",
+    "mimeType": "audio/wav",
+    "originalName": "lesson-20-06.wav",
+    "sha256": "e0ca250f5239fb2e7d3c5f6dd904e95cc640b60c19015e691706f9e180544b35",
+    "bytes": 199592,
+    "publicVerified": true
+  },
+  "lesson-20-07.wav": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/86fad457cfd215d6-lesson-20-07.wav",
+    "storagePath": "english-foundations/v1/86fad457cfd215d6-lesson-20-07.wav",
+    "mimeType": "audio/wav",
+    "originalName": "lesson-20-07.wav",
+    "sha256": "86fad457cfd215d6dee5bc521167216f7551614a32c553117e894096a8302bee",
+    "bytes": 363084,
+    "publicVerified": true
+  },
+  "lesson-21-01.wav": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/8c6b10591b8619e8-lesson-21-01.wav",
+    "storagePath": "english-foundations/v1/8c6b10591b8619e8-lesson-21-01.wav",
+    "mimeType": "audio/wav",
+    "originalName": "lesson-21-01.wav",
+    "sha256": "8c6b10591b8619e8b6b159983e27862ee78ce0c387075755f3f578cb0becb20c",
+    "bytes": 196372,
+    "publicVerified": true
+  },
+  "lesson-21-02.wav": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/2c76ab657d8307e8-lesson-21-02.wav",
+    "storagePath": "english-foundations/v1/2c76ab657d8307e8-lesson-21-02.wav",
+    "mimeType": "audio/wav",
+    "originalName": "lesson-21-02.wav",
+    "sha256": "2c76ab657d8307e837e9a5fe96158b7b231aa8e1d24f1f59ee6bf2c52704ccdb",
+    "bytes": 261908,
+    "publicVerified": true
+  },
+  "lesson-21-03.wav": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/1e255a69494ff1c3-lesson-21-03.wav",
+    "storagePath": "english-foundations/v1/1e255a69494ff1c3-lesson-21-03.wav",
+    "mimeType": "audio/wav",
+    "originalName": "lesson-21-03.wav",
+    "sha256": "1e255a69494ff1c383c658c0960e12bc1892e90c35cbe51ebe8469aa620eff4c",
+    "bytes": 207636,
+    "publicVerified": true
+  },
+  "lesson-21-04.wav": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/dac318bd565a54c8-lesson-21-04.wav",
+    "storagePath": "english-foundations/v1/dac318bd565a54c8-lesson-21-04.wav",
+    "mimeType": "audio/wav",
+    "originalName": "lesson-21-04.wav",
+    "sha256": "dac318bd565a54c874c399091a2c58e4c863c5537d298c016ebd470b46ce4182",
+    "bytes": 316370,
+    "publicVerified": true
+  },
+  "lesson-21-05.wav": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/dfa257070615a8a9-lesson-21-05.wav",
+    "storagePath": "english-foundations/v1/dfa257070615a8a9-lesson-21-05.wav",
+    "mimeType": "audio/wav",
+    "originalName": "lesson-21-05.wav",
+    "sha256": "dfa257070615a8a9ce0a7d9e94df42574af12b656b3113c0ef6e4bf1b189d40f",
+    "bytes": 331028,
+    "publicVerified": true
+  },
+  "lesson-22-01.wav": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/766f107f4527a55e-lesson-22-01.wav",
+    "storagePath": "english-foundations/v1/766f107f4527a55e-lesson-22-01.wav",
+    "mimeType": "audio/wav",
+    "originalName": "lesson-22-01.wav",
+    "sha256": "766f107f4527a55e21d52c6794afbc4ebab283365d5e7d3107aef49052dd19b6",
+    "bytes": 233748,
+    "publicVerified": true
+  },
+  "lesson-22-03.wav": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/4ebb31d3c27a34e5-lesson-22-03.wav",
+    "storagePath": "english-foundations/v1/4ebb31d3c27a34e5-lesson-22-03.wav",
+    "mimeType": "audio/wav",
+    "originalName": "lesson-22-03.wav",
+    "sha256": "4ebb31d3c27a34e57c7be20a0bf516d7ac36f220d103f1feeaa51fc07fdb3322",
+    "bytes": 320776,
+    "publicVerified": true
+  },
+  "lesson-22-05.wav": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/0e0e919c86d151c8-lesson-22-05.wav",
+    "storagePath": "english-foundations/v1/0e0e919c86d151c8-lesson-22-05.wav",
+    "mimeType": "audio/wav",
+    "originalName": "lesson-22-05.wav",
+    "sha256": "0e0e919c86d151c8157458dda0e2403a2bbc419d28c5cc42d6be7619892506dc",
+    "bytes": 268668,
+    "publicVerified": true
+  },
+  "lesson-22-04.wav": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/263ea91623e3bffa-lesson-22-04.wav",
+    "storagePath": "english-foundations/v1/263ea91623e3bffa-lesson-22-04.wav",
+    "mimeType": "audio/wav",
+    "originalName": "lesson-22-04.wav",
+    "sha256": "263ea91623e3bffae32058e29a2452ba3abad72042ee69efd0027e2d125c2593",
+    "bytes": 243966,
+    "publicVerified": true
+  },
+  "lesson-22-02.wav": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/a72c21f625db3dff-lesson-22-02.wav",
+    "storagePath": "english-foundations/v1/a72c21f625db3dff-lesson-22-02.wav",
+    "mimeType": "audio/wav",
+    "originalName": "lesson-22-02.wav",
+    "sha256": "a72c21f625db3dff748b5368c841099eb532c8863fbdd0a11912d601155594d0",
+    "bytes": 173822,
+    "publicVerified": true
+  },
+  "lesson-22-06.wav": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/d343ad51083569ad-lesson-22-06.wav",
+    "storagePath": "english-foundations/v1/d343ad51083569ad-lesson-22-06.wav",
+    "mimeType": "audio/wav",
+    "originalName": "lesson-22-06.wav",
+    "sha256": "d343ad51083569ad4446a31ff816a8aeec0a08cfefcc3917cd08f6a3f6dad295",
+    "bytes": 278338,
+    "publicVerified": true
+  },
+  "lesson-23-02.wav": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/edfabaef3e721d33-lesson-23-02.wav",
+    "storagePath": "english-foundations/v1/edfabaef3e721d33-lesson-23-02.wav",
+    "mimeType": "audio/wav",
+    "originalName": "lesson-23-02.wav",
+    "sha256": "edfabaef3e721d3335020fea407f56e2f8c0e7eeb6abc6d47b287f285f2ac901",
+    "bytes": 243544,
+    "publicVerified": true
+  },
+  "lesson-23-01.wav": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/a5b44a381ada927b-lesson-23-01.wav",
+    "storagePath": "english-foundations/v1/a5b44a381ada927b-lesson-23-01.wav",
+    "mimeType": "audio/wav",
+    "originalName": "lesson-23-01.wav",
+    "sha256": "a5b44a381ada927b2bda6d9447786a32cdf9497026826b95cfcbaddbd21c54da",
+    "bytes": 271704,
+    "publicVerified": true
+  },
+  "lesson-23-03.wav": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/07875f13d7d36634-lesson-23-03.wav",
+    "storagePath": "english-foundations/v1/07875f13d7d36634-lesson-23-03.wav",
+    "mimeType": "audio/wav",
+    "originalName": "lesson-23-03.wav",
+    "sha256": "07875f13d7d366341f84eba19ac3e57b7180970eaf09fbfcf120401a27730caf",
+    "bytes": 282676,
+    "publicVerified": true
+  },
+  "lesson-23-04.wav": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/8d6959587be737dc-lesson-23-04.wav",
+    "storagePath": "english-foundations/v1/8d6959587be737dc-lesson-23-04.wav",
+    "mimeType": "audio/wav",
+    "originalName": "lesson-23-04.wav",
+    "sha256": "8d6959587be737dc342b9b8eba752e22e159df3d743a199b51ff166ec70df0f8",
+    "bytes": 248410,
+    "publicVerified": true
+  },
+  "lesson-23-05.wav": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/d64ad07189e93c7f-lesson-23-05.wav",
+    "storagePath": "english-foundations/v1/d64ad07189e93c7f-lesson-23-05.wav",
+    "mimeType": "audio/wav",
+    "originalName": "lesson-23-05.wav",
+    "sha256": "d64ad07189e93c7ff86e675b13d6d331e2c75cedb68441b6857eec608a26804f",
+    "bytes": 257626,
+    "publicVerified": true
+  },
+  "lesson-24-01.wav": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/e24f34ddf3c94844-lesson-24-01.wav",
+    "storagePath": "english-foundations/v1/e24f34ddf3c94844-lesson-24-01.wav",
+    "mimeType": "audio/wav",
+    "originalName": "lesson-24-01.wav",
+    "sha256": "e24f34ddf3c948446da5229f3298b61d61f620e90841e87342a5ca569880f216",
+    "bytes": 231176,
+    "publicVerified": true
+  },
+  "lesson-24-02.wav": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/d5c9c65f4f96bb1f-lesson-24-02.wav",
+    "storagePath": "english-foundations/v1/d5c9c65f4f96bb1f-lesson-24-02.wav",
+    "mimeType": "audio/wav",
+    "originalName": "lesson-24-02.wav",
+    "sha256": "d5c9c65f4f96bb1f6c0298a4c1e686afb0ab33ee9bd85656e8368c05f5031323",
+    "bytes": 189022,
+    "publicVerified": true
+  },
+  "lesson-24-03.wav": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/810526a60f172cd1-lesson-24-03.wav",
+    "storagePath": "english-foundations/v1/810526a60f172cd1-lesson-24-03.wav",
+    "mimeType": "audio/wav",
+    "originalName": "lesson-24-03.wav",
+    "sha256": "810526a60f172cd168bb57b8d0de527576723d683b7e3c7e844837b4e5f6dd5a",
+    "bytes": 262920,
+    "publicVerified": true
+  },
+  "lesson-24-04.wav": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/604e18ff8f7cf167-lesson-24-04.wav",
+    "storagePath": "english-foundations/v1/604e18ff8f7cf167-lesson-24-04.wav",
+    "mimeType": "audio/wav",
+    "originalName": "lesson-24-04.wav",
+    "sha256": "604e18ff8f7cf16702a927e2a952eb91c4b9c17bc5ddd61db33bf4da0ef55739",
+    "bytes": 209502,
+    "publicVerified": true
+  },
+  "lesson-24-05.wav": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/2985feca0518478d-lesson-24-05.wav",
+    "storagePath": "english-foundations/v1/2985feca0518478d-lesson-24-05.wav",
+    "mimeType": "audio/wav",
+    "originalName": "lesson-24-05.wav",
+    "sha256": "2985feca0518478d3b88d13893174cb43b634ec11300159525c9c335396e1614",
+    "bytes": 186462,
+    "publicVerified": true
+  },
+  "lesson-24-06.wav": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/bb32e26b5443a80a-lesson-24-06.wav",
+    "storagePath": "english-foundations/v1/bb32e26b5443a80a-lesson-24-06.wav",
+    "mimeType": "audio/wav",
+    "originalName": "lesson-24-06.wav",
+    "sha256": "bb32e26b5443a80aa3c99231faaa87f0868cf06a4d048b15e483cdd2870d2e5c",
+    "bytes": 187210,
+    "publicVerified": true
+  },
+  "lesson-24-07.wav": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/7dbd0c0dc772a07e-lesson-24-07.wav",
+    "storagePath": "english-foundations/v1/7dbd0c0dc772a07e-lesson-24-07.wav",
+    "mimeType": "audio/wav",
+    "originalName": "lesson-24-07.wav",
+    "sha256": "7dbd0c0dc772a07ee73374349542f8a848cdb5e4087c4db5c8969c26fbcfa410",
+    "bytes": 270942,
+    "publicVerified": true
+  },
+  "lesson-25-01.wav": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/821350c4b67d32f2-lesson-25-01.wav",
+    "storagePath": "english-foundations/v1/821350c4b67d32f2-lesson-25-01.wav",
+    "mimeType": "audio/wav",
+    "originalName": "lesson-25-01.wav",
+    "sha256": "821350c4b67d32f2f6013dec5c964fc767d835bfdc31f5f35d5dbd9e90c8b752",
+    "bytes": 188670,
+    "publicVerified": true
+  },
+  "lesson-25-02.wav": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/44a1721f7646bd4d-lesson-25-02.wav",
+    "storagePath": "english-foundations/v1/44a1721f7646bd4d-lesson-25-02.wav",
+    "mimeType": "audio/wav",
+    "originalName": "lesson-25-02.wav",
+    "sha256": "44a1721f7646bd4d88ca6bb4d09fdbb11d0854008f837d13f32ef1eb3badf0d7",
+    "bytes": 198408,
+    "publicVerified": true
+  },
+  "lesson-25-05.wav": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/28be7191e73c2399-lesson-25-05.wav",
+    "storagePath": "english-foundations/v1/28be7191e73c2399-lesson-25-05.wav",
+    "mimeType": "audio/wav",
+    "originalName": "lesson-25-05.wav",
+    "sha256": "28be7191e73c239978ba069490d8c52ce78197abb53abc678f326416466a5a9a",
+    "bytes": 299284,
+    "publicVerified": true
+  },
+  "lesson-25-04.wav": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/238e383c80b43b5b-lesson-25-04.wav",
+    "storagePath": "english-foundations/v1/238e383c80b43b5b-lesson-25-04.wav",
+    "mimeType": "audio/wav",
+    "originalName": "lesson-25-04.wav",
+    "sha256": "238e383c80b43b5b461a02d8d28acb2675694c1582b7e72d3953af76b838f062",
+    "bytes": 256264,
+    "publicVerified": true
+  },
+  "lesson-25-03.wav": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/30b71b5b6739dd6c-lesson-25-03.wav",
+    "storagePath": "english-foundations/v1/30b71b5b6739dd6c-lesson-25-03.wav",
+    "mimeType": "audio/wav",
+    "originalName": "lesson-25-03.wav",
+    "sha256": "30b71b5b6739dd6c20458960be05dc7d540831f1355babc1b27854077719bd0c",
+    "bytes": 324846,
+    "publicVerified": true
+  },
+  "lesson-25-06.wav": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/e16cd27921f625d0-lesson-25-06.wav",
+    "storagePath": "english-foundations/v1/e16cd27921f625d0-lesson-25-06.wav",
+    "mimeType": "audio/wav",
+    "originalName": "lesson-25-06.wav",
+    "sha256": "e16cd27921f625d07a94f70f3b5854db20440c8bd44441aedef6a98904905015",
+    "bytes": 279816,
+    "publicVerified": true
+  },
+  "lesson-25-07.wav": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/a327851130cbd6a7-lesson-25-07.wav",
+    "storagePath": "english-foundations/v1/a327851130cbd6a7-lesson-25-07.wav",
+    "mimeType": "audio/wav",
+    "originalName": "lesson-25-07.wav",
+    "sha256": "a327851130cbd6a7e6dee8efbe977822202b470bcf7032d6373c4423aeaabfb1",
+    "bytes": 264244,
+    "publicVerified": true
+  },
+  "lesson-26-02.wav": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/8be7687d9e3866b6-lesson-26-02.wav",
+    "storagePath": "english-foundations/v1/8be7687d9e3866b6-lesson-26-02.wav",
+    "mimeType": "audio/wav",
+    "originalName": "lesson-26-02.wav",
+    "sha256": "8be7687d9e3866b685e6b70ef0ae7132931da924ba82394440fc5e7e5def7e5d",
+    "bytes": 197384,
+    "publicVerified": true
+  },
+  "lesson-26-01.wav": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/329b32a8c0e33d06-lesson-26-01.wav",
+    "storagePath": "english-foundations/v1/329b32a8c0e33d06-lesson-26-01.wav",
+    "mimeType": "audio/wav",
+    "originalName": "lesson-26-01.wav",
+    "sha256": "329b32a8c0e33d06e8d6e294170530a17d9f2113d7093e3cb2fca6ee34f5b6a6",
+    "bytes": 195336,
+    "publicVerified": true
+  },
+  "lesson-26-03.wav": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/fcf3f95f9d7ccf73-lesson-26-03.wav",
+    "storagePath": "english-foundations/v1/fcf3f95f9d7ccf73-lesson-26-03.wav",
+    "mimeType": "audio/wav",
+    "originalName": "lesson-26-03.wav",
+    "sha256": "fcf3f95f9d7ccf7383e394a3d2a29aff0c53bbdc0ae5c36ee079690a01c59da7",
+    "bytes": 298248,
+    "publicVerified": true
+  },
+  "lesson-26-04.wav": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/bd1486c177ddad54-lesson-26-04.wav",
+    "storagePath": "english-foundations/v1/bd1486c177ddad54-lesson-26-04.wav",
+    "mimeType": "audio/wav",
+    "originalName": "lesson-26-04.wav",
+    "sha256": "bd1486c177ddad54d03b28420b84606b3c5cf6c6ef651b16bf35f03450f1b209",
+    "bytes": 268804,
+    "publicVerified": true
+  },
+  "lesson-26-05.wav": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/9de9330a232b2114-lesson-26-05.wav",
+    "storagePath": "english-foundations/v1/9de9330a232b2114-lesson-26-05.wav",
+    "mimeType": "audio/wav",
+    "originalName": "lesson-26-05.wav",
+    "sha256": "9de9330a232b21146100a1e7ed975f3237cca31f337072780a0a4d28ac5136de",
+    "bytes": 196324,
+    "publicVerified": true
+  },
+  "lesson-26-06.wav": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/27852e054d95eb16-lesson-26-06.wav",
+    "storagePath": "english-foundations/v1/27852e054d95eb16-lesson-26-06.wav",
+    "mimeType": "audio/wav",
+    "originalName": "lesson-26-06.wav",
+    "sha256": "27852e054d95eb16e223fb07210ef1d27f89ceb846a2c909ec4c2ce855c71ae3",
+    "bytes": 264002,
+    "publicVerified": true
+  },
+  "lesson-27-01.wav": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/d7787560ea485fc2-lesson-27-01.wav",
+    "storagePath": "english-foundations/v1/d7787560ea485fc2-lesson-27-01.wav",
+    "mimeType": "audio/wav",
+    "originalName": "lesson-27-01.wav",
+    "sha256": "d7787560ea485fc29b2b70e3b08d7fd2df9468e2fb4c10814fa0b84037a663fe",
+    "bytes": 245512,
+    "publicVerified": true
+  },
+  "lesson-27-02.wav": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/5b6fcd1421e15d7f-lesson-27-02.wav",
+    "storagePath": "english-foundations/v1/5b6fcd1421e15d7f-lesson-27-02.wav",
+    "mimeType": "audio/wav",
+    "originalName": "lesson-27-02.wav",
+    "sha256": "5b6fcd1421e15d7f6f7531a8dec86c20e6ef59419f2d43aa750f7d13ab5add48",
+    "bytes": 310036,
+    "publicVerified": true
+  },
+  "lesson-27-03.wav": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/cb3811ddb091a1d3-lesson-27-03.wav",
+    "storagePath": "english-foundations/v1/cb3811ddb091a1d3-lesson-27-03.wav",
+    "mimeType": "audio/wav",
+    "originalName": "lesson-27-03.wav",
+    "sha256": "cb3811ddb091a1d37ddb90a3220f7d4e23b8333c74836ce0ee54f300d2730a72",
+    "bytes": 256254,
+    "publicVerified": true
+  },
+  "lesson-27-04.wav": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/5eab093874a1216d-lesson-27-04.wav",
+    "storagePath": "english-foundations/v1/5eab093874a1216d-lesson-27-04.wav",
+    "mimeType": "audio/wav",
+    "originalName": "lesson-27-04.wav",
+    "sha256": "5eab093874a1216dcd3fd19f0dff390633df7f5ff3c71b4f77124ba7db3c54fd",
+    "bytes": 235262,
+    "publicVerified": true
+  },
+  "lesson-27-05.wav": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/87afd13ed298d431-lesson-27-05.wav",
+    "storagePath": "english-foundations/v1/87afd13ed298d431-lesson-27-05.wav",
+    "mimeType": "audio/wav",
+    "originalName": "lesson-27-05.wav",
+    "sha256": "87afd13ed298d43172ee72b6f9aeba8454fe97425cbfef86b95099350a667719",
+    "bytes": 398924,
+    "publicVerified": true
+  },
+  "lesson-28-01.wav": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/56c5e4c14e55fc48-lesson-28-01.wav",
+    "storagePath": "english-foundations/v1/56c5e4c14e55fc48-lesson-28-01.wav",
+    "mimeType": "audio/wav",
+    "originalName": "lesson-28-01.wav",
+    "sha256": "56c5e4c14e55fc48200056fcd02817580c30b99d8093e92c6b7c00760afb97ba",
+    "bytes": 219232,
+    "publicVerified": true
+  },
+  "lesson-28-02.wav": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/12b417bfac432eb0-lesson-28-02.wav",
+    "storagePath": "english-foundations/v1/12b417bfac432eb0-lesson-28-02.wav",
+    "mimeType": "audio/wav",
+    "originalName": "lesson-28-02.wav",
+    "sha256": "12b417bfac432eb0991cc010f800491e480cb0d1a481d0c6607f2356027e0ab9",
+    "bytes": 253536,
+    "publicVerified": true
+  },
+  "lesson-28-03.wav": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/129f526d16cc6600-lesson-28-03.wav",
+    "storagePath": "english-foundations/v1/129f526d16cc6600-lesson-28-03.wav",
+    "mimeType": "audio/wav",
+    "originalName": "lesson-28-03.wav",
+    "sha256": "129f526d16cc6600ffa9089e84242173025f40be26c178a86a0ca335931b8fe9",
+    "bytes": 348256,
+    "publicVerified": true
+  },
+  "lesson-29-01.wav": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/741dd5d1cd90133f-lesson-29-01.wav",
+    "storagePath": "english-foundations/v1/741dd5d1cd90133f-lesson-29-01.wav",
+    "mimeType": "audio/wav",
+    "originalName": "lesson-29-01.wav",
+    "sha256": "741dd5d1cd90133f4eb3aefb0c110161c2d5961c7a383ce25af91691a170f3dc",
+    "bytes": 315340,
+    "publicVerified": true
+  },
+  "lesson-29-02.wav": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/bac2ddad3c039380-lesson-29-02.wav",
+    "storagePath": "english-foundations/v1/bac2ddad3c039380-lesson-29-02.wav",
+    "mimeType": "audio/wav",
+    "originalName": "lesson-29-02.wav",
+    "sha256": "bac2ddad3c03938059d1901e41c83cc5b135d33880d1f3872c6a7a544f7c2c50",
+    "bytes": 204222,
+    "publicVerified": true
+  },
+  "lesson-28-04.wav": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/e167026bc40a1e30-lesson-28-04.wav",
+    "storagePath": "english-foundations/v1/e167026bc40a1e30-lesson-28-04.wav",
+    "mimeType": "audio/wav",
+    "originalName": "lesson-28-04.wav",
+    "sha256": "e167026bc40a1e30d9511b7dd8f6b95a92b0eee7c1301192263a5f31b4d69b1f",
+    "bytes": 324192,
+    "publicVerified": true
+  },
+  "lesson-29-03.wav": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/1e35d67babe94027-lesson-29-03.wav",
+    "storagePath": "english-foundations/v1/1e35d67babe94027-lesson-29-03.wav",
+    "mimeType": "audio/wav",
+    "originalName": "lesson-29-03.wav",
+    "sha256": "1e35d67babe9402725d064f850df8ce3b0c32e62b9df24ce1c5d64c433a57589",
+    "bytes": 250198,
+    "publicVerified": true
+  },
+  "lesson-29-04.wav": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/661fd24f2837a7ec-lesson-29-04.wav",
+    "storagePath": "english-foundations/v1/661fd24f2837a7ec-lesson-29-04.wav",
+    "mimeType": "audio/wav",
+    "originalName": "lesson-29-04.wav",
+    "sha256": "661fd24f2837a7ec783938a6d7f43f1af1989ddab450cac5bb2158f90cf335ab",
+    "bytes": 283070,
+    "publicVerified": true
+  },
+  "lesson-30-01.wav": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/58a16140df769672-lesson-30-01.wav",
+    "storagePath": "english-foundations/v1/58a16140df769672-lesson-30-01.wav",
+    "mimeType": "audio/wav",
+    "originalName": "lesson-30-01.wav",
+    "sha256": "58a16140df7696727ac9caa5bf1244782b8c29592292e6495d6bcbd578e88828",
+    "bytes": 261808,
+    "publicVerified": true
+  },
+  "lesson-30-02.wav": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/97f0fbe08bd13abd-lesson-30-02.wav",
+    "storagePath": "english-foundations/v1/97f0fbe08bd13abd-lesson-30-02.wav",
+    "mimeType": "audio/wav",
+    "originalName": "lesson-30-02.wav",
+    "sha256": "97f0fbe08bd13abdbad6cd8810fde0f751df2ce80435200c03ec4754d90c715c",
+    "bytes": 278076,
+    "publicVerified": true
+  },
+  "lesson-30-03.wav": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/e65cdc50b99ead79-lesson-30-03.wav",
+    "storagePath": "english-foundations/v1/e65cdc50b99ead79-lesson-30-03.wav",
+    "mimeType": "audio/wav",
+    "originalName": "lesson-30-03.wav",
+    "sha256": "e65cdc50b99ead79e70d40f66981b2c15811f05b5e4a2256e184f8ac8f9f0cf1",
+    "bytes": 277066,
+    "publicVerified": true
+  },
+  "lesson-30-04.wav": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/a61e3556b646154a-lesson-30-04.wav",
+    "storagePath": "english-foundations/v1/a61e3556b646154a-lesson-30-04.wav",
+    "mimeType": "audio/wav",
+    "originalName": "lesson-30-04.wav",
+    "sha256": "a61e3556b646154afb90a64399f9cdd1d4025a75b45e267ec82c7a67161248fa",
+    "bytes": 415792,
+    "publicVerified": true
+  },
+  "lesson-31-01.wav": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/9207caed5f60b023-lesson-31-01.wav",
+    "storagePath": "english-foundations/v1/9207caed5f60b023-lesson-31-01.wav",
+    "mimeType": "audio/wav",
+    "originalName": "lesson-31-01.wav",
+    "sha256": "9207caed5f60b0239e2720cc74b3fe92e9990b9b3993670bad33351c97b4f555",
+    "bytes": 275456,
+    "publicVerified": true
+  },
+  "lesson-31-02.wav": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/1e3416004ba81620-lesson-31-02.wav",
+    "storagePath": "english-foundations/v1/1e3416004ba81620-lesson-31-02.wav",
+    "mimeType": "audio/wav",
+    "originalName": "lesson-31-02.wav",
+    "sha256": "1e3416004ba8162060413407d124785363cf3f03343690a2ef52d4a4f2ebbe15",
+    "bytes": 240988,
+    "publicVerified": true
+  },
+  "lesson-31-03.wav": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/f58c229acd320a52-lesson-31-03.wav",
+    "storagePath": "english-foundations/v1/f58c229acd320a52-lesson-31-03.wav",
+    "mimeType": "audio/wav",
+    "originalName": "lesson-31-03.wav",
+    "sha256": "f58c229acd320a5289078467717d86192ab8316149ded7b45b4502362cba5f0f",
+    "bytes": 252364,
+    "publicVerified": true
+  },
+  "lesson-31-04.wav": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/b7c8b8d06fc0c11c-lesson-31-04.wav",
+    "storagePath": "english-foundations/v1/b7c8b8d06fc0c11c-lesson-31-04.wav",
+    "mimeType": "audio/wav",
+    "originalName": "lesson-31-04.wav",
+    "sha256": "b7c8b8d06fc0c11c0c0b31f56778cbd0f2ac9c0d593115f81c98657473f5daac",
+    "bytes": 268628,
+    "publicVerified": true
+  },
+  "lesson-32-01.wav": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/3a23138d180ec442-lesson-32-01.wav",
+    "storagePath": "english-foundations/v1/3a23138d180ec442-lesson-32-01.wav",
+    "mimeType": "audio/wav",
+    "originalName": "lesson-32-01.wav",
+    "sha256": "3a23138d180ec4422f80a66090b386d4fbfda8a07a6d9306515eb56822864c9c",
+    "bytes": 150086,
+    "publicVerified": true
+  },
+  "lesson-32-02.wav": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/0f489ff31a3c13dc-lesson-32-02.wav",
+    "storagePath": "english-foundations/v1/0f489ff31a3c13dc-lesson-32-02.wav",
+    "mimeType": "audio/wav",
+    "originalName": "lesson-32-02.wav",
+    "sha256": "0f489ff31a3c13dcc871f208de14b5fd274481a6290b762c57172f6f46c00390",
+    "bytes": 158500,
+    "publicVerified": true
+  },
+  "lesson-32-04.wav": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/49c75b7042091eeb-lesson-32-04.wav",
+    "storagePath": "english-foundations/v1/49c75b7042091eeb-lesson-32-04.wav",
+    "mimeType": "audio/wav",
+    "originalName": "lesson-32-04.wav",
+    "sha256": "49c75b7042091eeb4498687a9e22aed7f522dbcc5df9401059fee5a1002d112d",
+    "bytes": 227054,
+    "publicVerified": true
+  },
+  "lesson-32-05.wav": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/d7051f7e0a0fb20d-lesson-32-05.wav",
+    "storagePath": "english-foundations/v1/d7051f7e0a0fb20d-lesson-32-05.wav",
+    "mimeType": "audio/wav",
+    "originalName": "lesson-32-05.wav",
+    "sha256": "d7051f7e0a0fb20dd3b80520f25211fa22af46367ed2bdc3cfb09622d55011c6",
+    "bytes": 205880,
+    "publicVerified": true
+  },
+  "lesson-33-02.wav": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/c969695dcb313f1d-lesson-33-02.wav",
+    "storagePath": "english-foundations/v1/c969695dcb313f1d-lesson-33-02.wav",
+    "mimeType": "audio/wav",
+    "originalName": "lesson-33-02.wav",
+    "sha256": "c969695dcb313f1dd1c969c54922258c3eced2f092c14b1fa61729175b1842e5",
+    "bytes": 301154,
+    "publicVerified": true
+  },
+  "lesson-32-03.wav": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/cda2c01688f37dea-lesson-32-03.wav",
+    "storagePath": "english-foundations/v1/cda2c01688f37dea-lesson-32-03.wav",
+    "mimeType": "audio/wav",
+    "originalName": "lesson-32-03.wav",
+    "sha256": "cda2c01688f37dea349e188eee1657ac07dc7ed61ea6c3e71d06250074d7887c",
+    "bytes": 225338,
+    "publicVerified": true
+  },
+  "lesson-33-01.wav": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/940e23952f7df292-lesson-33-01.wav",
+    "storagePath": "english-foundations/v1/940e23952f7df292-lesson-33-01.wav",
+    "mimeType": "audio/wav",
+    "originalName": "lesson-33-01.wav",
+    "sha256": "940e23952f7df2923978481ec408491ddb8e3b78b01c0acaaebe2abbb569357d",
+    "bytes": 457720,
+    "publicVerified": true
+  },
+  "lesson-33-03.wav": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/388abc8d27ce4080-lesson-33-03.wav",
+    "storagePath": "english-foundations/v1/388abc8d27ce4080-lesson-33-03.wav",
+    "mimeType": "audio/wav",
+    "originalName": "lesson-33-03.wav",
+    "sha256": "388abc8d27ce40809b528a4173b54723c826193f6b02cc233904c62a5ff1a859",
+    "bytes": 203508,
+    "publicVerified": true
+  },
+  "lesson-33-04.wav": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/3ccd87b86642a293-lesson-33-04.wav",
+    "storagePath": "english-foundations/v1/3ccd87b86642a293-lesson-33-04.wav",
+    "mimeType": "audio/wav",
+    "originalName": "lesson-33-04.wav",
+    "sha256": "3ccd87b86642a293e141b0007f70cab2c25432691278cb7ce5c4eca2c2bb3a2f",
+    "bytes": 316000,
+    "publicVerified": true
+  },
+  "lesson-33-05.wav": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/bcfdba94d75d16a8-lesson-33-05.wav",
+    "storagePath": "english-foundations/v1/bcfdba94d75d16a8-lesson-33-05.wav",
+    "mimeType": "audio/wav",
+    "originalName": "lesson-33-05.wav",
+    "sha256": "bcfdba94d75d16a8dc28fd629fb3eefedf4211c391d1ded91252df20e5fcb67b",
+    "bytes": 230722,
+    "publicVerified": true
+  },
+  "lesson-34-01.wav": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/97ee49441fcfe28c-lesson-34-01.wav",
+    "storagePath": "english-foundations/v1/97ee49441fcfe28c-lesson-34-01.wav",
+    "mimeType": "audio/wav",
+    "originalName": "lesson-34-01.wav",
+    "sha256": "97ee49441fcfe28c710c0fa755ed596d4d05f9ab11ac3cdfd1cee93e339df627",
+    "bytes": 453286,
+    "publicVerified": true
+  },
+  "lesson-34-03.wav": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/56a6570660acf310-lesson-34-03.wav",
+    "storagePath": "english-foundations/v1/56a6570660acf310-lesson-34-03.wav",
+    "mimeType": "audio/wav",
+    "originalName": "lesson-34-03.wav",
+    "sha256": "56a6570660acf310642a37a8769eae6b4c14f257c0dcb218cc54758bb82b282f",
+    "bytes": 332266,
+    "publicVerified": true
+  },
+  "lesson-34-02.wav": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/3e623ad11cc4b522-lesson-34-02.wav",
+    "storagePath": "english-foundations/v1/3e623ad11cc4b522-lesson-34-02.wav",
+    "mimeType": "audio/wav",
+    "originalName": "lesson-34-02.wav",
+    "sha256": "3e623ad11cc4b522f9811d52402c468011861b22812cf21b041db767fd4407b1",
+    "bytes": 473676,
+    "publicVerified": true
+  },
+  "lesson-34-04.wav": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/d04c9b09f3f2d06f-lesson-34-04.wav",
+    "storagePath": "english-foundations/v1/d04c9b09f3f2d06f-lesson-34-04.wav",
+    "mimeType": "audio/wav",
+    "originalName": "lesson-34-04.wav",
+    "sha256": "d04c9b09f3f2d06f01aa8067c223bd95cb562cd60852d426cdb18eb22c2e1317",
+    "bytes": 301624,
+    "publicVerified": true
+  },
+  "lesson-34-05.wav": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/a07fbdf77a9c5146-lesson-34-05.wav",
+    "storagePath": "english-foundations/v1/a07fbdf77a9c5146-lesson-34-05.wav",
+    "mimeType": "audio/wav",
+    "originalName": "lesson-34-05.wav",
+    "sha256": "a07fbdf77a9c51467782e599fef1f249090c146309dd2cf0d00aa22fa305b5ce",
+    "bytes": 169842,
+    "publicVerified": true
+  },
+  "lesson-35-01.wav": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/265346e6a067b31e-lesson-35-01.wav",
+    "storagePath": "english-foundations/v1/265346e6a067b31e-lesson-35-01.wav",
+    "mimeType": "audio/wav",
+    "originalName": "lesson-35-01.wav",
+    "sha256": "265346e6a067b31eb92f5a2f1a82fbd6f0f36fe16375a234a14a6bb16e80cfd0",
+    "bytes": 416908,
+    "publicVerified": true
+  },
+  "lesson-34-06.wav": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/59398f87b4ce1e08-lesson-34-06.wav",
+    "storagePath": "english-foundations/v1/59398f87b4ce1e08-lesson-34-06.wav",
+    "mimeType": "audio/wav",
+    "originalName": "lesson-34-06.wav",
+    "sha256": "59398f87b4ce1e08656c75a70c9d0c20feccea07d3c73179bbaf2d216266a775",
+    "bytes": 332640,
+    "publicVerified": true
+  },
+  "lesson-35-03.wav": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/ca643f891e6b436e-lesson-35-03.wav",
+    "storagePath": "english-foundations/v1/ca643f891e6b436e-lesson-35-03.wav",
+    "mimeType": "audio/wav",
+    "originalName": "lesson-35-03.wav",
+    "sha256": "ca643f891e6b436e8ddd2a12556587d9ba5a43ad56ad862157beb4e8777644fd",
+    "bytes": 338994,
+    "publicVerified": true
+  },
+  "lesson-35-02.wav": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/52dee207b78d2302-lesson-35-02.wav",
+    "storagePath": "english-foundations/v1/52dee207b78d2302-lesson-35-02.wav",
+    "mimeType": "audio/wav",
+    "originalName": "lesson-35-02.wav",
+    "sha256": "52dee207b78d2302fd7acb44830f339630ef6fdbfaabbb72dbafa2cd9532bd9f",
+    "bytes": 266974,
+    "publicVerified": true
+  },
+  "lesson-35-05.wav": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/6a5cf412cbb86bd9-lesson-35-05.wav",
+    "storagePath": "english-foundations/v1/6a5cf412cbb86bd9-lesson-35-05.wav",
+    "mimeType": "audio/wav",
+    "originalName": "lesson-35-05.wav",
+    "sha256": "6a5cf412cbb86bd933ed452b93742e9ce48bdc8cb92a91cb309ba2084b1c3aae",
+    "bytes": 308974,
+    "publicVerified": true
+  },
+  "lesson-35-04.wav": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/4cb4dc6ca7804a57-lesson-35-04.wav",
+    "storagePath": "english-foundations/v1/4cb4dc6ca7804a57-lesson-35-04.wav",
+    "mimeType": "audio/wav",
+    "originalName": "lesson-35-04.wav",
+    "sha256": "4cb4dc6ca7804a57c387807867c5ecad1e4bb1a74dfdd51ed5ed841bb5bc9937",
+    "bytes": 385348,
+    "publicVerified": true
+  },
+  "lesson-35-06.wav": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/f0db8974228a954c-lesson-35-06.wav",
+    "storagePath": "english-foundations/v1/f0db8974228a954c-lesson-35-06.wav",
+    "mimeType": "audio/wav",
+    "originalName": "lesson-35-06.wav",
+    "sha256": "f0db8974228a954c271ea199b384be9ba6709a807eb7353873ced9ca69a80e18",
+    "bytes": 445606,
+    "publicVerified": true
+  },
+  "lesson-35-07.wav": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/4d91881eb0d80c41-lesson-35-07.wav",
+    "storagePath": "english-foundations/v1/4d91881eb0d80c41-lesson-35-07.wav",
+    "mimeType": "audio/wav",
+    "originalName": "lesson-35-07.wav",
+    "sha256": "4d91881eb0d80c4146cb22951a25b0ca6f353ec8984a274e6a1c04e57954813d",
+    "bytes": 425674,
+    "publicVerified": true
+  },
+  "lesson-36-01.wav": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/49b05809337d7134-lesson-36-01.wav",
+    "storagePath": "english-foundations/v1/49b05809337d7134-lesson-36-01.wav",
+    "mimeType": "audio/wav",
+    "originalName": "lesson-36-01.wav",
+    "sha256": "49b05809337d7134e4abd6929d0494c050df938a9dad5069433e28cbc8649dc0",
+    "bytes": 240712,
+    "publicVerified": true
+  },
+  "lesson-35-08.wav": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/04d105aa3bacb30f-lesson-35-08.wav",
+    "storagePath": "english-foundations/v1/04d105aa3bacb30f-lesson-35-08.wav",
+    "mimeType": "audio/wav",
+    "originalName": "lesson-35-08.wav",
+    "sha256": "04d105aa3bacb30f59a3a7a237ca42a44a82f3027e1248732a4602e9037bacc4",
+    "bytes": 336254,
+    "publicVerified": true
+  },
+  "lesson-36-03.wav": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/fe25e63943309b5b-lesson-36-03.wav",
+    "storagePath": "english-foundations/v1/fe25e63943309b5b-lesson-36-03.wav",
+    "mimeType": "audio/wav",
+    "originalName": "lesson-36-03.wav",
+    "sha256": "fe25e63943309b5b93048ea6ac74762173f1a5096b375e19a327b08ad3f0699f",
+    "bytes": 387588,
+    "publicVerified": true
+  },
+  "lesson-36-02.wav": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/8874823a2d07ef9f-lesson-36-02.wav",
+    "storagePath": "english-foundations/v1/8874823a2d07ef9f-lesson-36-02.wav",
+    "mimeType": "audio/wav",
+    "originalName": "lesson-36-02.wav",
+    "sha256": "8874823a2d07ef9fa44295c98529379de653e749c590fbb631545253d5b2c139",
+    "bytes": 827284,
+    "publicVerified": true
+  },
+  "lesson-36-05.wav": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/4c1831fe15387208-lesson-36-05.wav",
+    "storagePath": "english-foundations/v1/4c1831fe15387208-lesson-36-05.wav",
+    "mimeType": "audio/wav",
+    "originalName": "lesson-36-05.wav",
+    "sha256": "4c1831fe153872087c7ddeef5ad0e7750a3b82d5ce03c613be0f447f6583b671",
+    "bytes": 379046,
+    "publicVerified": true
+  },
+  "lesson-36-04.wav": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/6c6aedc33eb576b9-lesson-36-04.wav",
+    "storagePath": "english-foundations/v1/6c6aedc33eb576b9-lesson-36-04.wav",
+    "mimeType": "audio/wav",
+    "originalName": "lesson-36-04.wav",
+    "sha256": "6c6aedc33eb576b9d1f2abfe98f538db01526480ac9cdafb3aee37a91ed36600",
+    "bytes": 275182,
+    "publicVerified": true
+  },
+  "lesson-36-06.wav": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/ed28a8ff6826e6bb-lesson-36-06.wav",
+    "storagePath": "english-foundations/v1/ed28a8ff6826e6bb-lesson-36-06.wav",
+    "mimeType": "audio/wav",
+    "originalName": "lesson-36-06.wav",
+    "sha256": "ed28a8ff6826e6bbb889b744ca3611dec207fa2d9cdf82be744eaa44d8971800",
+    "bytes": 427246,
+    "publicVerified": true
+  },
+  "pantry-counting.png": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/f82199a419ee302a-pantry-counting.png",
+    "storagePath": "english-foundations/v1/f82199a419ee302a-pantry-counting.png",
+    "mimeType": "image/png",
+    "originalName": "pantry-counting.png",
+    "sha256": "f82199a419ee302a8df442d47175e5ad15c8aceb4eede45835e2aa1407e950dd",
+    "bytes": 2306770,
+    "publicVerified": true
+  },
+  "module-03-map.svg": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/170b40082f33fd08-module-03-map.svg",
+    "storagePath": "english-foundations/v1/170b40082f33fd08-module-03-map.svg",
+    "mimeType": "image/svg+xml",
+    "originalName": "module-03-map.svg",
+    "sha256": "170b40082f33fd08c67338e8059ab32b6e7b4d20afb1aff45060416ee16507ec",
+    "bytes": 1618,
+    "publicVerified": true
+  },
+  "module-02-map.svg": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/61ae14b3f64474d0-module-02-map.svg",
+    "storagePath": "english-foundations/v1/61ae14b3f64474d0-module-02-map.svg",
+    "mimeType": "image/svg+xml",
+    "originalName": "module-02-map.svg",
+    "sha256": "61ae14b3f64474d09ab6acf884de0a0988c452a2d50b974558271f9146417535",
+    "bytes": 1582,
+    "publicVerified": true
+  },
+  "module-01-map.svg": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/3e9e7d3d1ad58071-module-01-map.svg",
+    "storagePath": "english-foundations/v1/3e9e7d3d1ad58071-module-01-map.svg",
+    "mimeType": "image/svg+xml",
+    "originalName": "module-01-map.svg",
+    "sha256": "3e9e7d3d1ad5807173b51c99e1ff0acf55d70d58cef240632afc3f60cf0d6ad6",
+    "bytes": 1641,
+    "publicVerified": true
+  },
+  "module-04-map.svg": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/324bd3570a1ce40d-module-04-map.svg",
+    "storagePath": "english-foundations/v1/324bd3570a1ce40d-module-04-map.svg",
+    "mimeType": "image/svg+xml",
+    "originalName": "module-04-map.svg",
+    "sha256": "324bd3570a1ce40d33a9dcf9ec02b6aebf8a3f101103d539d24e6dc93b93cabb",
+    "bytes": 1591,
+    "publicVerified": true
+  },
+  "module-06-map.svg": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/37fe67705473929f-module-06-map.svg",
+    "storagePath": "english-foundations/v1/37fe67705473929f-module-06-map.svg",
+    "mimeType": "image/svg+xml",
+    "originalName": "module-06-map.svg",
+    "sha256": "37fe67705473929f0664c00b73890a7711de413c8dc5d5d793ed043ba44ef710",
+    "bytes": 1589,
+    "publicVerified": true
+  },
+  "module-05-map.svg": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/e89115029ea45c81-module-05-map.svg",
+    "storagePath": "english-foundations/v1/e89115029ea45c81-module-05-map.svg",
+    "mimeType": "image/svg+xml",
+    "originalName": "module-05-map.svg",
+    "sha256": "e89115029ea45c81d0927833fb5f8f5632df61028bd72f9ab209dc5ac268fd31",
+    "bytes": 1648,
+    "publicVerified": true
+  },
+  "module-07-map.svg": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/e718d0f8db81ca61-module-07-map.svg",
+    "storagePath": "english-foundations/v1/e718d0f8db81ca61-module-07-map.svg",
+    "mimeType": "image/svg+xml",
+    "originalName": "module-07-map.svg",
+    "sha256": "e718d0f8db81ca6125fe00eb7effeb40e12e28640d224bb433f2013db8ff31fd",
+    "bytes": 1616,
+    "publicVerified": true
+  },
+  "module-08-map.svg": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/b58d01b3708ed841-module-08-map.svg",
+    "storagePath": "english-foundations/v1/b58d01b3708ed841-module-08-map.svg",
+    "mimeType": "image/svg+xml",
+    "originalName": "module-08-map.svg",
+    "sha256": "b58d01b3708ed841913a0f591612f2ef764e23ae1716507471d6a84809907be3",
+    "bytes": 1650,
+    "publicVerified": true
+  },
+  "module-09-map.svg": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/87576d939182224b-module-09-map.svg",
+    "storagePath": "english-foundations/v1/87576d939182224b-module-09-map.svg",
+    "mimeType": "image/svg+xml",
+    "originalName": "module-09-map.svg",
+    "sha256": "87576d939182224b77ec79ce2dc07daded0191cb1d64b7fe7e0a563e7402807a",
+    "bytes": 1556,
+    "publicVerified": true
+  },
+  "module-10-map.svg": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/f9a329703ae8be1b-module-10-map.svg",
+    "storagePath": "english-foundations/v1/f9a329703ae8be1b-module-10-map.svg",
+    "mimeType": "image/svg+xml",
+    "originalName": "module-10-map.svg",
+    "sha256": "f9a329703ae8be1bea3677fb4b41b2ea5e701a2ff8c84a9d415fac338054fd05",
+    "bytes": 1600,
+    "publicVerified": true
+  },
+  "module-12-map.svg": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/d34f42cae8a04ace-module-12-map.svg",
+    "storagePath": "english-foundations/v1/d34f42cae8a04ace-module-12-map.svg",
+    "mimeType": "image/svg+xml",
+    "originalName": "module-12-map.svg",
+    "sha256": "d34f42cae8a04ace16e16cb07c833ff532cc18434af69888d55288af152fc105",
+    "bytes": 1604,
+    "publicVerified": true
+  },
+  "module-11-map.svg": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/59fdc24997b6dfeb-module-11-map.svg",
+    "storagePath": "english-foundations/v1/59fdc24997b6dfeb-module-11-map.svg",
+    "mimeType": "image/svg+xml",
+    "originalName": "module-11-map.svg",
+    "sha256": "59fdc24997b6dfebee66a039cbda69489963aa060f1e612907c368ecf9532510",
+    "bytes": 1570,
+    "publicVerified": true
+  },
+  "module-13-map.svg": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/eccaf32bdeca8957-module-13-map.svg",
+    "storagePath": "english-foundations/v1/eccaf32bdeca8957-module-13-map.svg",
+    "mimeType": "image/svg+xml",
+    "originalName": "module-13-map.svg",
+    "sha256": "eccaf32bdeca89571d8e4b91b6645709b16ea36c095a05f3328396b9967428dc",
+    "bytes": 1620,
+    "publicVerified": true
+  },
+  "module-14-map.svg": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/75953f9b1ab24d75-module-14-map.svg",
+    "storagePath": "english-foundations/v1/75953f9b1ab24d75-module-14-map.svg",
+    "mimeType": "image/svg+xml",
+    "originalName": "module-14-map.svg",
+    "sha256": "75953f9b1ab24d751bccbf6b30e856badc730eecc06c9383f6784bf30d4e774d",
+    "bytes": 1567,
+    "publicVerified": true
+  },
+  "module-16-map.svg": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/fced97f745bdfcbf-module-16-map.svg",
+    "storagePath": "english-foundations/v1/fced97f745bdfcbf-module-16-map.svg",
+    "mimeType": "image/svg+xml",
+    "originalName": "module-16-map.svg",
+    "sha256": "fced97f745bdfcbfb5f59fe2831a39854c078c7c0f899b45237133468849f652",
+    "bytes": 1574,
+    "publicVerified": true
+  },
+  "module-15-map.svg": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/ecdaf6883df1ec12-module-15-map.svg",
+    "storagePath": "english-foundations/v1/ecdaf6883df1ec12-module-15-map.svg",
+    "mimeType": "image/svg+xml",
+    "originalName": "module-15-map.svg",
+    "sha256": "ecdaf6883df1ec121848a72d1c49c0b739590400e4620c69af013aac0df6231c",
+    "bytes": 1691,
+    "publicVerified": true
+  },
+  "module-17-map.svg": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/35d0048a38455859-module-17-map.svg",
+    "storagePath": "english-foundations/v1/35d0048a38455859-module-17-map.svg",
+    "mimeType": "image/svg+xml",
+    "originalName": "module-17-map.svg",
+    "sha256": "35d0048a384558597a5d51de3a7087a5af4d47e58bc67facefde6771a19f159c",
+    "bytes": 1652,
+    "publicVerified": true
+  },
+  "module-19-map.svg": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/abc39dac3eab8f9b-module-19-map.svg",
+    "storagePath": "english-foundations/v1/abc39dac3eab8f9b-module-19-map.svg",
+    "mimeType": "image/svg+xml",
+    "originalName": "module-19-map.svg",
+    "sha256": "abc39dac3eab8f9bd3bb0f3279c01f45cf292ca5547b51a5c348db0747dfeb15",
+    "bytes": 1604,
+    "publicVerified": true
+  },
+  "module-18-map.svg": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/931c418fc451d816-module-18-map.svg",
+    "storagePath": "english-foundations/v1/931c418fc451d816-module-18-map.svg",
+    "mimeType": "image/svg+xml",
+    "originalName": "module-18-map.svg",
+    "sha256": "931c418fc451d816bbeac73c51ddfbfb728f77ccd8d2e4918019ee5fdfe6d5d4",
+    "bytes": 1593,
+    "publicVerified": true
+  },
+  "module-20-map.svg": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/f4aad1e78772df56-module-20-map.svg",
+    "storagePath": "english-foundations/v1/f4aad1e78772df56-module-20-map.svg",
+    "mimeType": "image/svg+xml",
+    "originalName": "module-20-map.svg",
+    "sha256": "f4aad1e78772df5624b85701c657fd3f965b40f21376058d16a8bc50165e5ccc",
+    "bytes": 1641,
+    "publicVerified": true
+  },
+  "module-22-map.svg": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/901fe40bfc29b09d-module-22-map.svg",
+    "storagePath": "english-foundations/v1/901fe40bfc29b09d-module-22-map.svg",
+    "mimeType": "image/svg+xml",
+    "originalName": "module-22-map.svg",
+    "sha256": "901fe40bfc29b09dfb272737fc7048d1f9e3c3b65046f71cd8e6be8e4a2a49d5",
+    "bytes": 1714,
+    "publicVerified": true
+  },
+  "module-23-map.svg": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/c7948651373c673f-module-23-map.svg",
+    "storagePath": "english-foundations/v1/c7948651373c673f-module-23-map.svg",
+    "mimeType": "image/svg+xml",
+    "originalName": "module-23-map.svg",
+    "sha256": "c7948651373c673ff3d2680aa33fd9dca9aa5a33e1a9cbbb0bc61d4d32fb0303",
+    "bytes": 1596,
+    "publicVerified": true
+  },
+  "module-21-map.svg": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/88bd8864bf4d19b7-module-21-map.svg",
+    "storagePath": "english-foundations/v1/88bd8864bf4d19b7-module-21-map.svg",
+    "mimeType": "image/svg+xml",
+    "originalName": "module-21-map.svg",
+    "sha256": "88bd8864bf4d19b73512870e1850ada3d5625b1d7777506e6a08cdb9f4661c26",
+    "bytes": 1659,
+    "publicVerified": true
+  },
+  "module-24-map.svg": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/e965c1c7038dee96-module-24-map.svg",
+    "storagePath": "english-foundations/v1/e965c1c7038dee96-module-24-map.svg",
+    "mimeType": "image/svg+xml",
+    "originalName": "module-24-map.svg",
+    "sha256": "e965c1c7038dee96cd09261ab6f216c63485f635a9a9c042c9483093743aa659",
+    "bytes": 1670,
+    "publicVerified": true
+  },
+  "module-25-map.svg": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/7b4e24d527d5aee1-module-25-map.svg",
+    "storagePath": "english-foundations/v1/7b4e24d527d5aee1-module-25-map.svg",
+    "mimeType": "image/svg+xml",
+    "originalName": "module-25-map.svg",
+    "sha256": "7b4e24d527d5aee1f7b33288355f6160922356ec6e17946a1e49d7adfd4bad0f",
+    "bytes": 1623,
+    "publicVerified": true
+  },
+  "module-26-map.svg": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/618361343c28a447-module-26-map.svg",
+    "storagePath": "english-foundations/v1/618361343c28a447-module-26-map.svg",
+    "mimeType": "image/svg+xml",
+    "originalName": "module-26-map.svg",
+    "sha256": "618361343c28a44796ee9ca3fc7fe2820f9b89c578a16857ac09b1e6bd95ecc1",
+    "bytes": 1560,
+    "publicVerified": true
+  },
+  "module-28-map.svg": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/25d834d3dc6cec1e-module-28-map.svg",
+    "storagePath": "english-foundations/v1/25d834d3dc6cec1e-module-28-map.svg",
+    "mimeType": "image/svg+xml",
+    "originalName": "module-28-map.svg",
+    "sha256": "25d834d3dc6cec1e87fa8c4b5041fe104e368457c7aaccc685930a173a5c09db",
+    "bytes": 1731,
+    "publicVerified": true
+  },
+  "module-27-map.svg": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/72f3c06eff5420ce-module-27-map.svg",
+    "storagePath": "english-foundations/v1/72f3c06eff5420ce-module-27-map.svg",
+    "mimeType": "image/svg+xml",
+    "originalName": "module-27-map.svg",
+    "sha256": "72f3c06eff5420ce93918ed71a1611d744533ac7e9485998daff4d2e54d4f97d",
+    "bytes": 1602,
+    "publicVerified": true
+  },
+  "module-29-map.svg": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/e8756b27699d5232-module-29-map.svg",
+    "storagePath": "english-foundations/v1/e8756b27699d5232-module-29-map.svg",
+    "mimeType": "image/svg+xml",
+    "originalName": "module-29-map.svg",
+    "sha256": "e8756b27699d5232136555a2bcc32ee52fa1bf4db4995982de52829a4728028c",
+    "bytes": 1633,
+    "publicVerified": true
+  },
+  "module-32-map.svg": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/c6d1cc8d43c661b9-module-32-map.svg",
+    "storagePath": "english-foundations/v1/c6d1cc8d43c661b9-module-32-map.svg",
+    "mimeType": "image/svg+xml",
+    "originalName": "module-32-map.svg",
+    "sha256": "c6d1cc8d43c661b99f6b17f62fb3b5ef354f0dd91262b81533ea4d2aec47d115",
+    "bytes": 1714,
+    "publicVerified": true
+  },
+  "module-30-map.svg": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/0b40fea77594488b-module-30-map.svg",
+    "storagePath": "english-foundations/v1/0b40fea77594488b-module-30-map.svg",
+    "mimeType": "image/svg+xml",
+    "originalName": "module-30-map.svg",
+    "sha256": "0b40fea77594488b943112edb99d5a9cff2e0ed777dfd1fb0ae6eda861aba4c6",
+    "bytes": 1679,
+    "publicVerified": true
+  },
+  "module-31-map.svg": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/a450d0b40fc13e7b-module-31-map.svg",
+    "storagePath": "english-foundations/v1/a450d0b40fc13e7b-module-31-map.svg",
+    "mimeType": "image/svg+xml",
+    "originalName": "module-31-map.svg",
+    "sha256": "a450d0b40fc13e7b920700c8073741e84ac847a5f9885058b5e18cbf8d68bb95",
+    "bytes": 1635,
+    "publicVerified": true
+  },
+  "module-33-map.svg": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/63816a2df290d045-module-33-map.svg",
+    "storagePath": "english-foundations/v1/63816a2df290d045-module-33-map.svg",
+    "mimeType": "image/svg+xml",
+    "originalName": "module-33-map.svg",
+    "sha256": "63816a2df290d045b7ea855fa11b74fba77cfc2614b320450a2eac73ddd48f1c",
+    "bytes": 1701,
+    "publicVerified": true
+  },
+  "module-36-map.svg": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/b5c55b21c5b8f3d4-module-36-map.svg",
+    "storagePath": "english-foundations/v1/b5c55b21c5b8f3d4-module-36-map.svg",
+    "mimeType": "image/svg+xml",
+    "originalName": "module-36-map.svg",
+    "sha256": "b5c55b21c5b8f3d4359c008289e46cf84d505c9672484e7bca25c99fdf7633eb",
+    "bytes": 1705,
+    "publicVerified": true
+  },
+  "module-35-map.svg": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/f21d252910bef050-module-35-map.svg",
+    "storagePath": "english-foundations/v1/f21d252910bef050-module-35-map.svg",
+    "mimeType": "image/svg+xml",
+    "originalName": "module-35-map.svg",
+    "sha256": "f21d252910bef0505571e83316cea82ce86e39a0b2584ef0d720134b3b0579d9",
+    "bytes": 1721,
+    "publicVerified": true
+  },
+  "module-34-map.svg": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/b17f83cbdebe46f0-module-34-map.svg",
+    "storagePath": "english-foundations/v1/b17f83cbdebe46f0-module-34-map.svg",
+    "mimeType": "image/svg+xml",
+    "originalName": "module-34-map.svg",
+    "sha256": "b17f83cbdebe46f03a5e0fa93015ef403dcba41f70bb061e6e5c7936d3cdc103",
+    "bytes": 1744,
+    "publicVerified": true
+  },
+  "rain-story.png": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/4253d113ce35a709-rain-story.png",
+    "storagePath": "english-foundations/v1/4253d113ce35a709-rain-story.png",
+    "mimeType": "image/png",
+    "originalName": "rain-story.png",
+    "sha256": "4253d113ce35a70970441ce6ca187916d777210cf6ea7b0a04f30f8bfa17ce9a",
+    "bytes": 2672254,
+    "publicVerified": true
+  },
+  "module-04-map.png": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/ef82309a25049c21-module-04-map.png",
+    "storagePath": "english-foundations/v1/ef82309a25049c21-module-04-map.png",
+    "mimeType": "image/png",
+    "originalName": "module-04-map.png",
+    "sha256": "ef82309a25049c218929c4af57eaebc11f241182a955e5b8cc6cc78d60a24931",
+    "bytes": 46154,
+    "publicVerified": true
+  },
+  "module-02-map.png": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/38035a43a72bfb52-module-02-map.png",
+    "storagePath": "english-foundations/v1/38035a43a72bfb52-module-02-map.png",
+    "mimeType": "image/png",
+    "originalName": "module-02-map.png",
+    "sha256": "38035a43a72bfb5229ccf060a2afba70712d9258d29df2e9a29897b6c52f266e",
+    "bytes": 47786,
+    "publicVerified": true
+  },
+  "module-03-map.png": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/5d5a5d2a7163d65c-module-03-map.png",
+    "storagePath": "english-foundations/v1/5d5a5d2a7163d65c-module-03-map.png",
+    "mimeType": "image/png",
+    "originalName": "module-03-map.png",
+    "sha256": "5d5a5d2a7163d65c81235b5cbbea8bbbd970418da321201780559b3fccf2a910",
+    "bytes": 51178,
+    "publicVerified": true
+  },
+  "module-01-map.png": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/88de95eecda14f2e-module-01-map.png",
+    "storagePath": "english-foundations/v1/88de95eecda14f2e-module-01-map.png",
+    "mimeType": "image/png",
+    "originalName": "module-01-map.png",
+    "sha256": "88de95eecda14f2e2adc9d32b22151bddc8f0c14555a0569f081d8335f266c0a",
+    "bytes": 53544,
+    "publicVerified": true
+  },
+  "module-05-map.png": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/6c28898ec1a31cba-module-05-map.png",
+    "storagePath": "english-foundations/v1/6c28898ec1a31cba-module-05-map.png",
+    "mimeType": "image/png",
+    "originalName": "module-05-map.png",
+    "sha256": "6c28898ec1a31cbaa94f13175567a360bd334ddb3e3feb3884e81ccd85faa7a9",
+    "bytes": 54077,
+    "publicVerified": true
+  },
+  "module-07-map.png": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/7aeba79b5cb2cfaa-module-07-map.png",
+    "storagePath": "english-foundations/v1/7aeba79b5cb2cfaa-module-07-map.png",
+    "mimeType": "image/png",
+    "originalName": "module-07-map.png",
+    "sha256": "7aeba79b5cb2cfaa01077e91b3b01bef68e40360f9319c847bbbd6bf83acaf0d",
+    "bytes": 54942,
+    "publicVerified": true
+  },
+  "module-06-map.png": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/2bded285e27a293d-module-06-map.png",
+    "storagePath": "english-foundations/v1/2bded285e27a293d-module-06-map.png",
+    "mimeType": "image/png",
+    "originalName": "module-06-map.png",
+    "sha256": "2bded285e27a293d114259a578944fd98578bfd0367ba0765e930cb4d546997d",
+    "bytes": 52857,
+    "publicVerified": true
+  },
+  "module-08-map.png": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/ed206aa70dc41243-module-08-map.png",
+    "storagePath": "english-foundations/v1/ed206aa70dc41243-module-08-map.png",
+    "mimeType": "image/png",
+    "originalName": "module-08-map.png",
+    "sha256": "ed206aa70dc412439202ef4515aeb620ddf267cb59f16f16408b20b474a8868c",
+    "bytes": 55473,
+    "publicVerified": true
+  },
+  "module-09-map.png": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/00554ad0e619de52-module-09-map.png",
+    "storagePath": "english-foundations/v1/00554ad0e619de52-module-09-map.png",
+    "mimeType": "image/png",
+    "originalName": "module-09-map.png",
+    "sha256": "00554ad0e619de528f5e0435dc3524f04c0d0ae23b7adeb8244e5d6d89d7ff2b",
+    "bytes": 50723,
+    "publicVerified": true
+  },
+  "module-11-map.png": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/d68b85cf74783387-module-11-map.png",
+    "storagePath": "english-foundations/v1/d68b85cf74783387-module-11-map.png",
+    "mimeType": "image/png",
+    "originalName": "module-11-map.png",
+    "sha256": "d68b85cf74783387ce6f4072590ab86a7d6582663cde1e4c2f5574f549b35e57",
+    "bytes": 50075,
+    "publicVerified": true
+  },
+  "module-10-map.png": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/fa9a79d8915ef635-module-10-map.png",
+    "storagePath": "english-foundations/v1/fa9a79d8915ef635-module-10-map.png",
+    "mimeType": "image/png",
+    "originalName": "module-10-map.png",
+    "sha256": "fa9a79d8915ef63569cf8eeef8b57b3a47849a52c1b78c77b40d939e5974ccc7",
+    "bytes": 55986,
+    "publicVerified": true
+  },
+  "module-12-map.png": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/2ad6990d78dc68de-module-12-map.png",
+    "storagePath": "english-foundations/v1/2ad6990d78dc68de-module-12-map.png",
+    "mimeType": "image/png",
+    "originalName": "module-12-map.png",
+    "sha256": "2ad6990d78dc68dea49fe954fdb33105bef4c787e7c115ecc9e25da6c6bbfdfe",
+    "bytes": 54304,
+    "publicVerified": true
+  },
+  "module-13-map.png": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/3290420b950b456b-module-13-map.png",
+    "storagePath": "english-foundations/v1/3290420b950b456b-module-13-map.png",
+    "mimeType": "image/png",
+    "originalName": "module-13-map.png",
+    "sha256": "3290420b950b456ba668e76f0128322a399d69415dda23d976b283cab1495008",
+    "bytes": 53098,
+    "publicVerified": true
+  },
+  "module-15-map.png": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/34ef77dff8595e3a-module-15-map.png",
+    "storagePath": "english-foundations/v1/34ef77dff8595e3a-module-15-map.png",
+    "mimeType": "image/png",
+    "originalName": "module-15-map.png",
+    "sha256": "34ef77dff8595e3a780d4f5e51fdd5c9c796da5dcdf02677ab31a19548cca822",
+    "bytes": 59122,
+    "publicVerified": true
+  },
+  "module-14-map.png": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/2bff1ab62e3ed0e1-module-14-map.png",
+    "storagePath": "english-foundations/v1/2bff1ab62e3ed0e1-module-14-map.png",
+    "mimeType": "image/png",
+    "originalName": "module-14-map.png",
+    "sha256": "2bff1ab62e3ed0e1c8960be0437f06fb14fd639f6f6f351700779fb4ea6d4342",
+    "bytes": 53065,
+    "publicVerified": true
+  },
+  "module-16-map.png": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/48b653e09fe9853c-module-16-map.png",
+    "storagePath": "english-foundations/v1/48b653e09fe9853c-module-16-map.png",
+    "mimeType": "image/png",
+    "originalName": "module-16-map.png",
+    "sha256": "48b653e09fe9853cffcbee1de62e03c3b1f300b26d4bebe83c6653c888b5559d",
+    "bytes": 53766,
+    "publicVerified": true
+  },
+  "module-18-map.png": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/767fed3b1561c832-module-18-map.png",
+    "storagePath": "english-foundations/v1/767fed3b1561c832-module-18-map.png",
+    "mimeType": "image/png",
+    "originalName": "module-18-map.png",
+    "sha256": "767fed3b1561c8322e5994fcedf38ee92bce0e820e32503594a04f3de0a82528",
+    "bytes": 54913,
+    "publicVerified": true
+  },
+  "module-17-map.png": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/aabc783af6dab850-module-17-map.png",
+    "storagePath": "english-foundations/v1/aabc783af6dab850-module-17-map.png",
+    "mimeType": "image/png",
+    "originalName": "module-17-map.png",
+    "sha256": "aabc783af6dab8501c4bb2247e09a67d440926a082f3f8c9c1110bc9ce0a3868",
+    "bytes": 55068,
+    "publicVerified": true
+  },
+  "module-19-map.png": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/1fb3862f1bbf0826-module-19-map.png",
+    "storagePath": "english-foundations/v1/1fb3862f1bbf0826-module-19-map.png",
+    "mimeType": "image/png",
+    "originalName": "module-19-map.png",
+    "sha256": "1fb3862f1bbf0826313d3aa781cf3c4f92c958534c88bf49a2c7f0339253ad85",
+    "bytes": 54235,
+    "publicVerified": true
+  },
+  "module-20-map.png": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/275ac1b1e0c966ab-module-20-map.png",
+    "storagePath": "english-foundations/v1/275ac1b1e0c966ab-module-20-map.png",
+    "mimeType": "image/png",
+    "originalName": "module-20-map.png",
+    "sha256": "275ac1b1e0c966ab4f3d06d3ed2065bc5631dbdb95c418c5199c843865db2b3e",
+    "bytes": 55525,
+    "publicVerified": true
+  },
+  "module-21-map.png": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/3de7dcd93a4bca83-module-21-map.png",
+    "storagePath": "english-foundations/v1/3de7dcd93a4bca83-module-21-map.png",
+    "mimeType": "image/png",
+    "originalName": "module-21-map.png",
+    "sha256": "3de7dcd93a4bca83d4917c3106ef74bbc0e8583e98c0ebbe0f299ae42f9c612a",
+    "bytes": 59728,
+    "publicVerified": true
+  },
+  "module-23-map.png": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/d21dee22c5970c4a-module-23-map.png",
+    "storagePath": "english-foundations/v1/d21dee22c5970c4a-module-23-map.png",
+    "mimeType": "image/png",
+    "originalName": "module-23-map.png",
+    "sha256": "d21dee22c5970c4a6001a321edc21e0bc4285f02565a1a843daba6374ae13348",
+    "bytes": 54719,
+    "publicVerified": true
+  },
+  "module-22-map.png": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/b47cc93e4761ebd8-module-22-map.png",
+    "storagePath": "english-foundations/v1/b47cc93e4761ebd8-module-22-map.png",
+    "mimeType": "image/png",
+    "originalName": "module-22-map.png",
+    "sha256": "b47cc93e4761ebd8a76849942ea13f8e8f2a237e70b7c497a26cf9aabb0cefb7",
+    "bytes": 59312,
+    "publicVerified": true
+  },
+  "module-24-map.png": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/9528a209b0f22c00-module-24-map.png",
+    "storagePath": "english-foundations/v1/9528a209b0f22c00-module-24-map.png",
+    "mimeType": "image/png",
+    "originalName": "module-24-map.png",
+    "sha256": "9528a209b0f22c00fb93d4bd143fe9916c4e7745f9973ae96aa8b26b64805853",
+    "bytes": 56937,
+    "publicVerified": true
+  },
+  "module-25-map.png": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/aefc1b906f07923c-module-25-map.png",
+    "storagePath": "english-foundations/v1/aefc1b906f07923c-module-25-map.png",
+    "mimeType": "image/png",
+    "originalName": "module-25-map.png",
+    "sha256": "aefc1b906f07923c7a76f7193b811fecff74e451eef10a83b2728e83358d9a9f",
+    "bytes": 61371,
+    "publicVerified": true
+  },
+  "module-27-map.png": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/c322643548958391-module-27-map.png",
+    "storagePath": "english-foundations/v1/c322643548958391-module-27-map.png",
+    "mimeType": "image/png",
+    "originalName": "module-27-map.png",
+    "sha256": "c322643548958391a85806701ad80e27f38bf124f082b2aecca2b6410e4ddc95",
+    "bytes": 56894,
+    "publicVerified": true
+  },
+  "module-26-map.png": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/f0cf0f0de8bb6b76-module-26-map.png",
+    "storagePath": "english-foundations/v1/f0cf0f0de8bb6b76-module-26-map.png",
+    "mimeType": "image/png",
+    "originalName": "module-26-map.png",
+    "sha256": "f0cf0f0de8bb6b7646758fd503ec353650003a22cc2e98898f9c4df44018a4e7",
+    "bytes": 53077,
+    "publicVerified": true
+  },
+  "module-28-map.png": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/5d82768fd6bd0575-module-28-map.png",
+    "storagePath": "english-foundations/v1/5d82768fd6bd0575-module-28-map.png",
+    "mimeType": "image/png",
+    "originalName": "module-28-map.png",
+    "sha256": "5d82768fd6bd057505fe905b7a83c1fd7453495f14f14053e0e130a83364ab2d",
+    "bytes": 60036,
+    "publicVerified": true
+  },
+  "module-29-map.png": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/aeee4c1a81e9f024-module-29-map.png",
+    "storagePath": "english-foundations/v1/aeee4c1a81e9f024-module-29-map.png",
+    "mimeType": "image/png",
+    "originalName": "module-29-map.png",
+    "sha256": "aeee4c1a81e9f0242be80277d88d1d8174fdeef5a4c63bc2b66e4759f0f4a684",
+    "bytes": 57995,
+    "publicVerified": true
+  },
+  "module-30-map.png": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/6127f522fe48f266-module-30-map.png",
+    "storagePath": "english-foundations/v1/6127f522fe48f266-module-30-map.png",
+    "mimeType": "image/png",
+    "originalName": "module-30-map.png",
+    "sha256": "6127f522fe48f266552e7ff1f5981ba69c6fbc55430aa25c991c42832b72ec10",
+    "bytes": 61471,
+    "publicVerified": true
+  },
+  "module-32-map.png": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/aec5dd00cd6427f4-module-32-map.png",
+    "storagePath": "english-foundations/v1/aec5dd00cd6427f4-module-32-map.png",
+    "mimeType": "image/png",
+    "originalName": "module-32-map.png",
+    "sha256": "aec5dd00cd6427f4abc863d8d593ff44aa2cc26b0e2acdf3784452a35e518df8",
+    "bytes": 58312,
+    "publicVerified": true
+  },
+  "module-31-map.png": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/1454fd37b16498dd-module-31-map.png",
+    "storagePath": "english-foundations/v1/1454fd37b16498dd-module-31-map.png",
+    "mimeType": "image/png",
+    "originalName": "module-31-map.png",
+    "sha256": "1454fd37b16498ddd4196def678993d723896c7fe3e50a75d610274941071822",
+    "bytes": 59194,
+    "publicVerified": true
+  },
+  "module-33-map.png": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/2d99e75a2c61254c-module-33-map.png",
+    "storagePath": "english-foundations/v1/2d99e75a2c61254c-module-33-map.png",
+    "mimeType": "image/png",
+    "originalName": "module-33-map.png",
+    "sha256": "2d99e75a2c61254cd9514687c7dcf4579029ba2b38a9b9b1c152b4d43534cd99",
+    "bytes": 59171,
+    "publicVerified": true
+  },
+  "module-34-map.png": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/035074e0769b312d-module-34-map.png",
+    "storagePath": "english-foundations/v1/035074e0769b312d-module-34-map.png",
+    "mimeType": "image/png",
+    "originalName": "module-34-map.png",
+    "sha256": "035074e0769b312ddc6072a32876585861dd0ef0762f4fa8aa0cf984ac8feff4",
+    "bytes": 63469,
+    "publicVerified": true
+  },
+  "module-35-map.png": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/8f0355e94cb41e63-module-35-map.png",
+    "storagePath": "english-foundations/v1/8f0355e94cb41e63-module-35-map.png",
+    "mimeType": "image/png",
+    "originalName": "module-35-map.png",
+    "sha256": "8f0355e94cb41e637a0b88ebac0e3e1ecdb93ddbe0935b19ad4a9a368d9636fd",
+    "bytes": 61500,
+    "publicVerified": true
+  },
+  "module-36-map.png": {
+    "url": "https://paovbldfnyaudjmhnpoh.supabase.co/storage/v1/object/public/lesson-media/english-foundations/v1/41d6eb05bad6459b-module-36-map.png",
+    "storagePath": "english-foundations/v1/41d6eb05bad6459b-module-36-map.png",
+    "mimeType": "image/png",
+    "originalName": "module-36-map.png",
+    "sha256": "41d6eb05bad6459b813ead4ddaf18514dc0d339672c62733fcdaa5bd37c01dbe",
+    "bytes": 60134,
+    "publicVerified": true
+  }
+}
